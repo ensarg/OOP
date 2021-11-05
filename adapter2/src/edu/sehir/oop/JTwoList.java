@@ -1,4 +1,4 @@
-package edu.sehir.adapter2;
+package edu.sehir.oop;
 
 /**
  * Created by ensar on 14.11.2016.
@@ -9,11 +9,7 @@ package edu.sehir.adapter2;
 import java.awt.*;
 import java.awt.event.*;
 //swing classes
-import javax.swing.text.*;
 import javax.swing.*;
-import javax.swing.event.*;
-import javax.swing.tree.*;
-import javax.swing.border.*;
 
 
 public class JTwoList extends JFrame

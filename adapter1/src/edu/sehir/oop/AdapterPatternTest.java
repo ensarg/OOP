@@ -1,4 +1,4 @@
-package edu.sehir.adapter1;
+package edu.sehir.oop;
 
 public class AdapterPatternTest {
 

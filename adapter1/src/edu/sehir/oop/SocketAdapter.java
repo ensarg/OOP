@@ -1,4 +1,4 @@
-package edu.sehir.adapter1;
+package edu.sehir.oop;
 
 /**
  * Created by ensar on 14.11.2016.

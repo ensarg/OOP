@@ -1,17 +1,11 @@
-package edu.sehir.adapter2;
+package edu.sehir.oop;
 
 /**
  * Created by ensar on 14.11.2016.
  */
-import java.awt.*;
-import java.awt.event.*;
 import java.util.*;
 //swing classes
-import javax.swing.text.*;
 import javax.swing.*;
-import javax.swing.event.*;
-import javax.swing.tree.*;
-import javax.swing.border.*;
 
 public class JListData extends AbstractListModel {
     private Vector data;

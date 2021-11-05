@@ -1,29 +1,25 @@
-package edu.sehir.adapter2;
+package edu.sehir.oop;
 
 /**
  * Created by ensar on 14.11.2016.
  */
-import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
 //swing classes
-import javax.swing.text.*;
 import javax.swing.*;
 import javax.swing.event.*;
-import javax.swing.tree.*;
-import javax.swing.border.*;
 
 //this is a simple adapter class to
 //convert List awt methods to Swing methods
 
-public class JclassAwtList extends JList
+public class JawtList extends JScrollPane
         implements ListSelectionListener, awtList {
+    private JList listWindow;
     private JListData listContents;
-    //-----------------------------------------
-    public JclassAwtList(int rows) {
+
+    public JawtList(int rows) {
         listContents = new JListData();
-        setModel(listContents);
-        setPrototypeCellValue("Abcdefg Hijkmnop");
+        listWindow = new JList(listContents);
+        listWindow.setPrototypeCellValue("Abcdefg Hijkmnop");
+        getViewport().add(listWindow);
     }
     //-----------------------------------------
     public void add(String s) {
@@ -35,14 +31,13 @@ public class JclassAwtList extends JList
     }
     //-----------------------------------------
     public String[] getSelectedItems() {
-        Object[] obj = getSelectedValues();
+        Object[] obj = listWindow.getSelectedValues();
         String[] s = new String[obj.length];
-        for (int i =0; i<obj.length; i++)
+        for (int i =0; i < obj.length; i++)
             s[i] = obj[i].toString();
         return s;
     }
     //-----------------------------------------
     public void valueChanged(ListSelectionEvent e) {
     }
-
 }

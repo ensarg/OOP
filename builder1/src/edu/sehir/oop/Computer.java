@@ -1,4 +1,4 @@
-package edu.sehir;
+package edu.sehir.oop;
 
 /**
  * Created by ensar on 24.10.2016.
