@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter1/adapter1.iml" filepath="$PROJECT_DIR$/adapter1/adapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" filepath="$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder1/builder1.iml" filepath="$PROJECT_DIR$/builder1/builder1.iml" />
     </modules>
   </component>
