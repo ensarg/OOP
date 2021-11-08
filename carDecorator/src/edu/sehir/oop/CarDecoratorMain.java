@@ -1,6 +1,6 @@
-package edu.sehir;
+package edu.sehir.oop;
 
-public class Main {
+public class CarDecoratorMain {
 
     public static void main(String[] args) {
 
