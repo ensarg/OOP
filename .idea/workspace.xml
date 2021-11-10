@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$AnnualListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$AnnualListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$GardenPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$GardenPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$PerenListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$PerenListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$VeggieListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$VeggieListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/midtermQ1/edu/sehir/oop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/midtermQ1/edu/sehir/oop/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +50,16 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.array1">
+    <configuration name="array1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Main" />
+      <module name="array1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ballgame1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
       <module name="ballgame" />
@@ -66,6 +67,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ballgame1" />
+      <item itemvalue="Application.array1" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ballgame1" />
@@ -85,6 +90,8 @@
       <workItem from="1636119889316" duration="1540000" />
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
+      <workItem from="1636542040933" duration="181000" />
+      <workItem from="1636542228741" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
