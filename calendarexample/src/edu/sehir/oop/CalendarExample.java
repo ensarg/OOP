@@ -1,14 +1,14 @@
-package edu.sehir;
+package edu.sehir.oop;
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Main {
+public class CalendarExample {
 
     public static void main(String[] args) {
-
+        /*
         String days [] = {"","SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY"};
         Scanner in = new Scanner(System.in);
         String month = in.next();
@@ -24,5 +24,8 @@ public class Main {
         System.out.println ("y m d"+  year +month +day );
         System.out.println ("y m d  "+  cal.YEAR+" "+ cal.MONTH+" " + cal.DAY_OF_WEEK );
         System.out.println(cal.DAY_OF_WEEK +  days[cal.DAY_OF_WEEK]);
+        */
+        System.out.println("hello. i am here\n");
+
     }
 }

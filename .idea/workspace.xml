@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/calendarexample/calendarExample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendarexample/src/edu/sehir/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/calendarexample/src/edu/sehir/oop/CalendarExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/array1/src/tr/edu/maltepe/oop" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -50,7 +54,7 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.array1">
+  <component name="RunManager" selected="Application.calendarexample">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -67,8 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="calendarexample" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.CalendarExample" />
+      <module name="calendarExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
+      <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.array1" />
     </list>
     <recent_temporary>
@@ -91,7 +105,7 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="164000" />
+      <workItem from="1636542228741" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -191,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636541514291</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="array1 package">
+      <created>1636542548795</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1636542548795</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +228,7 @@
     <MESSAGE value="car decorator and class  loader" />
     <MESSAGE value="new modules" />
     <MESSAGE value="ball game updatr" />
-    <option name="LAST_COMMIT_MESSAGE" value="ball game updatr" />
+    <MESSAGE value="array1 package" />
+    <option name="LAST_COMMIT_MESSAGE" value="array1 package" />
   </component>
 </project>
