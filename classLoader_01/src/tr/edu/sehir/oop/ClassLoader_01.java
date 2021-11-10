@@ -2,7 +2,7 @@ package tr.edu.sehir.oop;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-public class Main {
+public class ClassLoader_01 {
 
     public static void main(String[] args) throws InstantiationException, IllegalAccessException,
             NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException {
