@@ -9,6 +9,6 @@ public class Main {
         a= new classA(3,5);
         b = new classB();
         b.setK(8);
-        b.do_something(a);
+        //b.do_something(a);
     }
 }
