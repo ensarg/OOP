@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="new modules" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/abstractFactory/src" />
+      <recent name="$PROJECT_DIR$/abstractFactory/edu/sehir/oop" />
+      <recent name="$PROJECT_DIR$/calenderexample/src" />
+      <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="testTextDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testTextDemo" />
+      <module name="textDEmo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sehir.edu.sehir.opp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testTextDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
+      <created>1636108394878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636108394878</updated>
+      <workItem from="1636108397968" duration="3391000" />
+      <workItem from="1636114715667" duration="3079000" />
+      <workItem from="1636119889316" duration="1540000" />
+      <workItem from="1636123623647" duration="5707000" />
+      <workItem from="1636533398306" duration="4410000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1636110678607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636110678607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="config files">
+      <created>1636111014879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636111014879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="border window decorator">
+      <created>1636116117210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636116117210</updated>
+    </task>
+    <task id="LOCAL-00004" summary="array1">
+      <created>1636373197384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636373197384</updated>
+    </task>
+    <task id="LOCAL-00005" summary="babstract factory">
+      <created>1636377072637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377072637</updated>
+    </task>
+    <task id="LOCAL-00006" summary="abstract factory updated">
+      <created>1636377219073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636377219073</updated>
+    </task>
+    <task id="LOCAL-00007" summary="car decorator and class  loader">
+      <created>1636378546544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636378546544</updated>
+    </task>
+    <task id="LOCAL-00008" summary="car decorator and class  loader">
+      <created>1636378690381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636378690381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new modules">
+      <created>1636537333992</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636537333992</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new modules">
+      <created>1636537678399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636537678399</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new modules">
+      <created>1636537700584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636537700584</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new modules">
+      <created>1636537770671</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636537770671</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="config files" />
+    <MESSAGE value="border window decorator" />
+    <MESSAGE value="array1" />
+    <MESSAGE value="babstract factory" />
+    <MESSAGE value="abstract factory updated" />
+    <MESSAGE value="car decorator and class  loader" />
+    <MESSAGE value="new modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="new modules" />
+  </component>
+</project>
