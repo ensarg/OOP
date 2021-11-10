@@ -8,7 +8,7 @@ import javax.swing.JFrame;
  * @version October 2010
  * modified by e gul
  */
-public class Main {
+public class BallGame1 {
 
     public static void main(String[] args) {
         // Run UI in the Event Dispatcher Thread (EDT), instead of Main thread

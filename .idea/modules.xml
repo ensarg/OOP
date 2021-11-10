@@ -7,9 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/adapter1/adapter1.iml" filepath="$PROJECT_DIR$/adapter1/adapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array1/array1.iml" filepath="$PROJECT_DIR$/array1/array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ballgame/ballgame.iml" filepath="$PROJECT_DIR$/ballgame/ballgame.iml" />
       <module fileurl="file://$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" filepath="$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder1/builder1.iml" filepath="$PROJECT_DIR$/builder1/builder1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calendarEx1/calendarEx1.iml" filepath="$PROJECT_DIR$/calendarEx1/calendarEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/calendarExample/calendarExample.iml" filepath="$PROJECT_DIR$/calendarExample/calendarExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/carDecorator/carDecorator.iml" filepath="$PROJECT_DIR$/carDecorator/carDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/classLoaderExam/classLoaderExam.iml" filepath="$PROJECT_DIR$/classLoaderExam/classLoaderExam.iml" />
