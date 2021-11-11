@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionHandlingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionThrown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Hello1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello1/hello1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/BorderWindowDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/BorderWindowDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/JxFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/JxFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/borderWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/borderWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +60,7 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exception_handling_01">
+  <component name="RunManager" selected="Application.borderWindowDecorator">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -68,6 +73,13 @@
     <configuration name="ballgame1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
       <module name="ballgame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="borderWindowDecorator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.oop.BorderWindowDecorator" />
+      <module name="borderWindowDecorator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,6 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hello1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Hello1" />
+      <module name="hello1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.calendarexample" />
@@ -182,6 +201,8 @@
       <item itemvalue="Application.echo_server" />
       <item itemvalue="Application.encapsulation01" />
       <item itemvalue="Application.exception_handling_01" />
+      <item itemvalue="Application.hello1" />
+      <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -205,7 +226,8 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="11175000" />
+      <workItem from="1636542228741" duration="13120000" />
+      <workItem from="1636636608892" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -417,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636626845438</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="exception handling">
+      <created>1636632647759</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1636632647759</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +475,8 @@
     <MESSAGE value="dependency injection" />
     <MESSAGE value="echo client and server" />
     <MESSAGE value="encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="encapsulation" />
+    <MESSAGE value="exception handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package edu.oop;
 
 public class BorderWindowDecorator {
 

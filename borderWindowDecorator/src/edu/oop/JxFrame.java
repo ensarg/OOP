@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package edu.oop;
 
 import javax.swing.*;
 import java.awt.*;
