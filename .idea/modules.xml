@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/colorPickerSample/colorPickerSample.iml" filepath="$PROJECT_DIR$/colorPickerSample/colorPickerSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorPickerText/colorPickerText.iml" filepath="$PROJECT_DIR$/colorPickerText/colorPickerText.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" filepath="$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commandpattern/commandpattern.iml" filepath="$PROJECT_DIR$/commandpattern/commandpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/dayandweekQ/dayandweekQ.iml" filepath="$PROJECT_DIR$/dayandweekQ/dayandweekQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator1/decorator1.iml" filepath="$PROJECT_DIR$/decorator1/decorator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/deep_copy_example/deep_copy_example.iml" filepath="$PROJECT_DIR$/deep_copy_example/deep_copy_example.iml" />

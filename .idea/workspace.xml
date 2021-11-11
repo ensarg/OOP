@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/borderWindowDecorator/borderWindowDecorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commandPattern/commandPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite1/composite1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_objects_01/tr.edu.maltepe.oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator2/iterator2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator2/src/tr/edu/maltepe/oop/Iterator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator2/src/tr/edu/maltepe/oop/aClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/CommandPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/RemoteControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/commandPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/commandPattern.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.iterator2">
+  <component name="RunManager" selected="Application.command_pattern">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -119,6 +119,13 @@
     <configuration name="colorPickersample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.ColorPickerSample" />
       <module name="colorPickerSample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="command_pattern" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.ood.CommandPatternTest" />
+      <module name="commandpattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,6 +218,7 @@
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.iterator2" />
+      <item itemvalue="Application.command_pattern" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -235,7 +243,7 @@
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
       <workItem from="1636542228741" duration="13120000" />
-      <workItem from="1636636608892" duration="1119000" />
+      <workItem from="1636636608892" duration="1874000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -461,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636636777238</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="iterator">
+      <created>1636638219825</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1636638219825</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +506,8 @@
     <MESSAGE value="echo client and server" />
     <MESSAGE value="encapsulation" />
     <MESSAGE value="exception handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception handling" />
+    <MESSAGE value="iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
