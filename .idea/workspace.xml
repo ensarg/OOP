@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/classLoader_02/classLoader_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +47,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classLoader_02/src" />
       <recent name="$PROJECT_DIR$/abstractFactory/src" />
       <recent name="$PROJECT_DIR$/abstractFactory/edu/sehir/oop" />
       <recent name="$PROJECT_DIR$/calenderexample/src" />
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.class_loader_01">
+  <component name="RunManager" selected="Application.class_loader_02">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -84,10 +89,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="class_loader_02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Main" />
+      <module name="classLoader_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
+      <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
     <recent_temporary>
@@ -110,7 +123,7 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="2143000" />
+      <workItem from="1636542228741" duration="3100000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -238,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636544442346</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="class loder 1">
+      <created>1636544588620</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1636544588620</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +276,7 @@
     <MESSAGE value="ball game updatr" />
     <MESSAGE value="array1 package" />
     <MESSAGE value="calendar ??" />
-    <option name="LAST_COMMIT_MESSAGE" value="calendar ??" />
+    <MESSAGE value="class loder 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="class loder 1" />
   </component>
 </project>
