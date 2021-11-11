@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deep_copy_example/deep_copy_example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayandweekQ/dayandweekQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayandweekQ/src/tr/edu/sehir/oop/DayAndWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dayandweekQ/src/tr/edu/sehir/oop/DayandWeekQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,7 +56,7 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.deep_copy">
+  <component name="RunManager" selected="Application.dayandweekQ">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -121,6 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dayandweekQ" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.DayandWeekQ" />
+      <module name="dayandweekQ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="deep_copy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.DeepCopy" />
       <module name="deep_copy_example" />
@@ -136,6 +142,7 @@
       <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.commandlineexample" />
       <item itemvalue="Application.deep_copy" />
+      <item itemvalue="Application.dayandweekQ" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -159,7 +166,7 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="6407000" />
+      <workItem from="1636542228741" duration="6918000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -336,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636619747818</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="deep copy example">
+      <created>1636622617635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1636622617635</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +374,8 @@
     <MESSAGE value="color picker sample" />
     <MESSAGE value="color picker text" />
     <MESSAGE value="command line arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="command line arguments" />
+    <MESSAGE value="deep copy example" />
+    <option name="LAST_COMMIT_MESSAGE" value="deep copy example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
