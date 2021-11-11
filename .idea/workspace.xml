@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/ShallowCopyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.shallow_copy">
+  <component name="RunManager" selected="Application.singleton">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -205,6 +200,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="singleton" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testSingleton" />
+      <module name="singleton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.calendarexample" />
@@ -224,6 +226,7 @@
       <item itemvalue="Application.iterator2" />
       <item itemvalue="Application.command_pattern" />
       <item itemvalue="Application.shallow_copy" />
+      <item itemvalue="Application.singleton" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -248,7 +251,7 @@
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
       <workItem from="1636542228741" duration="13120000" />
-      <workItem from="1636636608892" duration="2430000" />
+      <workItem from="1636636608892" duration="2683000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -488,14 +491,20 @@
       <option name="project" value="LOCAL" />
       <updated>1636639381514</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="shallow copy">
+      <created>1636639963433</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1636639963434</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="config files" />
     <MESSAGE value="border window decorator" />
     <MESSAGE value="array1" />
@@ -520,7 +529,8 @@
     <MESSAGE value="exception handling" />
     <MESSAGE value="iterator" />
     <MESSAGE value="command pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="command pattern" />
+    <MESSAGE value="shallow copy" />
+    <option name="LAST_COMMIT_MESSAGE" value="shallow copy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
