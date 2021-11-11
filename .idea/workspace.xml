@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/colorPickerSample/colorPickerSample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colorPickerSample/src/tr/edu/sehir/oop/ColorPickerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colorPickerSample/src/tr/edu/sehir/oop/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colorPickerSample/src/tr/edu/sehir/oop/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorPickerText/colorPickerText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorPickerText/src/tr/edu/sehir/oop/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorPickerText/src/tr/edu/sehir/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorPickerText/src/tr/edu/sehir/oop/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_send_object_01/src/tr/edu/sehir/sockets/client1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.colorPickersample">
+  <component name="RunManager" selected="Application.colorPickerText">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -100,6 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="colorPickerText" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Main" />
+      <module name="colorPickerText" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="colorPickersample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.ColorPickerSample" />
       <module name="colorPickerSample" />
@@ -112,6 +118,7 @@
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
+      <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -135,7 +142,7 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="4556000" />
+      <workItem from="1636542228741" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -291,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636612556352</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="color picker sample">
+      <created>1636613564029</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1636613564029</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +326,8 @@
     <MESSAGE value="class loder 1" />
     <MESSAGE value="class loder 2" />
     <MESSAGE value="client send object" />
-    <option name="LAST_COMMIT_MESSAGE" value="client send object" />
+    <MESSAGE value="color picker sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="color picker sample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
