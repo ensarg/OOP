@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/client_send_object_01/client_send_object_01.iml" filepath="$PROJECT_DIR$/client_send_object_01/client_send_object_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorPickerSample/colorPickerSample.iml" filepath="$PROJECT_DIR$/colorPickerSample/colorPickerSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/colorPickerText/colorPickerText.iml" filepath="$PROJECT_DIR$/colorPickerText/colorPickerText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" filepath="$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator1/decorator1.iml" filepath="$PROJECT_DIR$/decorator1/decorator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_ex1/factory_ex1.iml" filepath="$PROJECT_DIR$/factory_ex1/factory_ex1.iml" />
