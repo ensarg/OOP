@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/echo_client/echo_client.iml" filepath="$PROJECT_DIR$/echo_client/echo_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/echo_server/echo_server.iml" filepath="$PROJECT_DIR$/echo_server/echo_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation_01/encapsulation_01.iml" filepath="$PROJECT_DIR$/encapsulation_01/encapsulation_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception_handling_01/exception_handling_01.iml" filepath="$PROJECT_DIR$/exception_handling_01/exception_handling_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_ex1/factory_ex1.iml" filepath="$PROJECT_DIR$/factory_ex1/factory_ex1.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpServer_01/httpServer_01.iml" filepath="$PROJECT_DIR$/httpServer_01/httpServer_01.iml" />
