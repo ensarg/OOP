@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Hello1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borderWindowDecorator/borderWindowDecorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandPattern/commandPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite1/composite1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_objects_01/tr.edu.maltepe.oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator2/iterator2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator2/src/tr/edu/maltepe/oop/Iterator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator2/src/tr/edu/maltepe/oop/aClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borderWithDecorator/borderWithDecorator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello1/hello1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/BorderWindowDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/BorderWindowDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/JxFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/JxFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop/borderWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/borderWindowDecorator/src/edu/oop/borderWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +46,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/deep_copy_example/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iterator2/src" />
       <recent name="$PROJECT_DIR$/classLoader_02/src" />
       <recent name="$PROJECT_DIR$/abstractFactory/src" />
       <recent name="$PROJECT_DIR$/abstractFactory/edu/sehir/oop" />
       <recent name="$PROJECT_DIR$/calenderexample/src" />
-      <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.borderWindowDecorator">
+  <component name="RunManager" selected="Application.iterator2">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -187,6 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="iterator2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
+      <module name="iterator2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.calendarexample" />
@@ -203,6 +210,7 @@
       <item itemvalue="Application.exception_handling_01" />
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.borderWindowDecorator" />
+      <item itemvalue="Application.iterator2" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -227,7 +235,7 @@
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
       <workItem from="1636542228741" duration="13120000" />
-      <workItem from="1636636608892" duration="137000" />
+      <workItem from="1636636608892" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -446,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636632647759</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="exception handling">
+      <created>1636636777238</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1636636777238</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
