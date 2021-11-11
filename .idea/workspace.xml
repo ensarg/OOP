@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/echo_client/echo_client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_server/echo_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_server/src/tr/edu/sehir/oop/ClientWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_server/src/tr/edu/sehir/oop/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_server/src/tr/edu/sehir/oop/ServerT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation_01/encapsulation_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsulationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,7 +56,7 @@
       <recent name="$PROJECT_DIR$/borderWithDecorator/src/edu/sehir/oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.echo_server">
+  <component name="RunManager" selected="Application.encapsulation01">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -158,6 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="encapsulation01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.EncapsulationTest" />
+      <module name="encapsulation_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.calendarexample" />
@@ -170,6 +174,7 @@
       <item itemvalue="Application.dependency_injection" />
       <item itemvalue="Application.echo_client" />
       <item itemvalue="Application.echo_server" />
+      <item itemvalue="Application.encapsulation01" />
       <item itemvalue="Application.class_loader_02" />
       <item itemvalue="Application.array1" />
     </list>
@@ -193,7 +198,7 @@
       <workItem from="1636123623647" duration="5707000" />
       <workItem from="1636533398306" duration="6807000" />
       <workItem from="1636542040933" duration="181000" />
-      <workItem from="1636542228741" duration="9257000" />
+      <workItem from="1636542228741" duration="9593000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -391,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636625184512</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="echo client and server">
+      <created>1636626314330</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1636626314331</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +430,8 @@
     <MESSAGE value="deep copy example" />
     <MESSAGE value="day and week question" />
     <MESSAGE value="dependency injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="dependency injection" />
+    <MESSAGE value="echo client and server" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo client and server" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
