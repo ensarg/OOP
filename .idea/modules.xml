@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/classLoaderExam/classLoaderExam.iml" filepath="$PROJECT_DIR$/classLoaderExam/classLoaderExam.iml" />
       <module fileurl="file://$PROJECT_DIR$/classLoader_01/classLoader_01.iml" filepath="$PROJECT_DIR$/classLoader_01/classLoader_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/classLoader_02/classLoader_02.iml" filepath="$PROJECT_DIR$/classLoader_02/classLoader_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_send_object_01/client_send_object_01.iml" filepath="$PROJECT_DIR$/client_send_object_01/client_send_object_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator1/decorator1.iml" filepath="$PROJECT_DIR$/decorator1/decorator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_ex1/factory_ex1.iml" filepath="$PROJECT_DIR$/factory_ex1/factory_ex1.iml" />
