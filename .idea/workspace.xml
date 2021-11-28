@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/httpServer_02/httpServer_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +54,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.httpServer_02">
+  <component name="RunManager" selected="Application.httpTest">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -201,6 +197,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="httpTest" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.httpTest" />
+      <module name="httpTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="iterator2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
       <module name="iterator2" />
@@ -242,6 +247,7 @@
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.test_gererics_01" />
       <item itemvalue="Application.httpServer_02" />
+      <item itemvalue="Application.httpTest" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
@@ -288,7 +294,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="3788000" />
+      <workItem from="1638090171520" duration="4274000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -556,14 +562,20 @@
       <option name="project" value="LOCAL" />
       <updated>1638093443399</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="http server 2">
+      <created>1638094582282</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1638094582282</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="border window decorator" />
     <MESSAGE value="array1" />
     <MESSAGE value="babstract factory" />
     <MESSAGE value="abstract factory updated" />
@@ -588,7 +600,8 @@
     <MESSAGE value="command pattern" />
     <MESSAGE value="shallow copy" />
     <MESSAGE value="command pattern and generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="command pattern and generics" />
+    <MESSAGE value="http server 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="http server 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

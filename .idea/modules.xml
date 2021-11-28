@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/hello1/hello1.iml" filepath="$PROJECT_DIR$/hello1/hello1.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpServer_01/httpServer_01.iml" filepath="$PROJECT_DIR$/httpServer_01/httpServer_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpServer_02/httpServer_02.iml" filepath="$PROJECT_DIR$/httpServer_02/httpServer_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpTest/httpTest.iml" filepath="$PROJECT_DIR$/httpTest/httpTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/intMaxValues/intMaxValues.iml" filepath="$PROJECT_DIR$/intMaxValues/intMaxValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator2/iterator2.iml" filepath="$PROJECT_DIR$/iterator2/iterator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/midtermQ1/midtermQ1.iml" filepath="$PROJECT_DIR$/midtermQ1/midtermQ1.iml" />
