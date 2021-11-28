@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/CommandPatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/CommandPatternTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/LightsOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/LightsOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/RemoteControl.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -285,7 +276,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="2400000" />
+      <workItem from="1638090171520" duration="2708000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -539,14 +530,20 @@
       <option name="project" value="LOCAL" />
       <updated>1636640498416</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="command pattern and generics">
+      <created>1638093407085</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1638093407085</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="config files" />
     <MESSAGE value="border window decorator" />
     <MESSAGE value="array1" />
     <MESSAGE value="babstract factory" />
@@ -571,7 +568,8 @@
     <MESSAGE value="iterator" />
     <MESSAGE value="command pattern" />
     <MESSAGE value="shallow copy" />
-    <option name="LAST_COMMIT_MESSAGE" value="shallow copy" />
+    <MESSAGE value="command pattern and generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="command pattern and generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
