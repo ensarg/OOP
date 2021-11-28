@@ -5,19 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/httpServer_01/src/edu/sehir/oop/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_01/src/edu/sehir/oop/NotImplementedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_01/src/edu/sehir/oop/namesHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_01/src/edu/sehir/oop/postHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpServer_02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/src/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/src/Interface01main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface01/src/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/myShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Liskov_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Inheritance_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/MountainBike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +89,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.httpTest">
+  <component name="RunManager" selected="Application.inheritanceEx1">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -220,6 +241,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritanceEx1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.Inheritance_Example" />
+      <module name="inheritanceEx1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="iterator2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
       <module name="iterator2" />
@@ -262,6 +292,7 @@
       <item itemvalue="Application.test_gererics_01" />
       <item itemvalue="Application.httpServer_02" />
       <item itemvalue="Application.httpTest" />
+      <item itemvalue="Application.inheritanceEx1" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
@@ -308,7 +339,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="4600000" />
+      <workItem from="1638090171520" duration="5001000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -597,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638095254620</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="http test">
+      <created>1638095318827</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1638095318827</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
