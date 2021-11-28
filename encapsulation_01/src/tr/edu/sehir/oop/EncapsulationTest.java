@@ -8,7 +8,7 @@ public class EncapsulationTest {
         obj.setEmpName("Mario");
         obj.setEmpAge(32);
         obj.setEmptckn(112233);
-        System.out.println("Employee Name: " + obj.empName); // you can not get private variabale
+       // System.out.println("Employee Name: " + obj.empName); // you can not get private variabale
 
 
         EncapsDemo1 obj2 = new EncapsDemo1();

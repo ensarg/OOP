@@ -1,3 +1,5 @@
+package tr.edu.sehir.opp;
+
 public class Interface01main {
 
     public static void main(String args[]) {
