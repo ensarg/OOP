@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_11_2021_16_10_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_11_2021_16_10__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_11_2021_16_28_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_11_2021_16_28__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/CommandPatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/CommandPatternTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/LightsOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/LightsOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/LightsOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/ood/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/commandPattern/src/tr/edu/sehir/oop/RemoteControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +48,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.jdks/corretto-1.8.0_312/bin" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +63,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.polymothism1">
+  <component name="RunManager" selected="Application.test_gererics_01">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -124,9 +126,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="command_pattern" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.ood.CommandPatternTest" />
-      <module name="commandpattern" />
+    <configuration name="commandPattern" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-1.8.0_312/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.CommandPatternTest" />
+      <module name="commandPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,8 +227,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test_gererics_01" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Test_Generics_01" />
+      <module name="generics_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
+      <item itemvalue="Application.test_gererics_01" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
@@ -240,8 +254,8 @@
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.iterator2" />
-      <item itemvalue="Application.command_pattern" />
       <item itemvalue="Application.shallow_copy" />
+      <item itemvalue="Application.commandPattern" />
       <item itemvalue="Application.singleton" />
       <item itemvalue="Application.polymothism1" />
       <item itemvalue="Application.class_loader_02" />
@@ -271,6 +285,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
+      <workItem from="1638090171520" duration="2400000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -568,5 +583,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

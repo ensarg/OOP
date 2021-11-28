@@ -1,4 +1,4 @@
-package tr.edu.sehir.ood;
+package tr.edu.sehir.oop;
 
 public class LightsOnCommand implements Command{
     //reference to the light

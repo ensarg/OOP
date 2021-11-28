@@ -1,4 +1,4 @@
-package tr.edu.sehir.ood;
+package tr.edu.sehir.oop;
 
 public class Light {
     private boolean on;
