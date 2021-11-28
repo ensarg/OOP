@@ -5,40 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Interface01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/src/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/src/Interface01main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface01/src/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/myShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Liskov_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitution_01/src/tr/edu/sehir/oop/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Inheritance_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/src/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/AbstractAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/src/Interface01main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/Interface01main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface01/src/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface02/src/tr/edu/sehir/basics/myShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/myShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +322,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="5001000" />
+      <workItem from="1638090171520" duration="5312000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -635,14 +618,20 @@
       <option name="project" value="LOCAL" />
       <updated>1638095318827</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="inheritance and interface">
+      <created>1638095898670</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1638095898670</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="babstract factory" />
     <MESSAGE value="abstract factory updated" />
     <MESSAGE value="car decorator and class  loader" />
     <MESSAGE value="new modules" />
@@ -667,7 +656,8 @@
     <MESSAGE value="command pattern and generics" />
     <MESSAGE value="http server 2" />
     <MESSAGE value="http test" />
-    <option name="LAST_COMMIT_MESSAGE" value="http test" />
+    <MESSAGE value="inheritance and interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance and interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
