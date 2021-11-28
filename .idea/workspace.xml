@@ -5,66 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interface01/interface01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/src/tr/edu/sehir/basics/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/src/tr/edu/sehir/basics/Thread_Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread01/thread01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/src/tr/edu/sehir/basics/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/src/tr/edu/sehir/basics/Thread_Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread02/thread02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Thread_Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread03/thread03.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/AbstractAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/Interface01main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Interface01main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/Mammal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/AnnualGarden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Garden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$AnnualListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$GardenPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$PerenListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener$VeggieListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Gardener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/PerennialGarden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/Plant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/VeggieGarden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/abstractFactory/edu/sehir/oop/checkCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/AdapterPatternTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/Socket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/SocketAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/SocketClassAdapterImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/SocketObjectAdapterImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter1/edu/sehir/oop/Volt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/Adapter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JListData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JTwoClassList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JTwoClassList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JTwoList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JTwoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JawtList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/JclassAwtList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/TwoList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/TwoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/awtList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adapter2/edu/sehir/oop/showMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder1/edu/sehir/oop/Builder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder1/edu/sehir/oop/Computer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder1/edu/sehir/oop/Computer$ComputerBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder1/edu/sehir/oop/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/BasicCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/CarDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/CarDecoratorMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/LuxuryCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/carDecorator/edu/sehir/oop/SportsCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classLoaderExam/edu/sehir/oop/ClassLoaderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classLoaderExam/edu/sehir/oop/ClassLoaderFinalExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classLoaderExam/edu/sehir/oop/ExamClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/decorator1/edu/sehir/oop/BorderDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/decorator1/edu/sehir/oop/Decorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/decorator1/edu/sehir/oop/JxFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/decorator1/edu/sehir/oop/JxFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/decorator1/edu/sehir/oop/borderWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +82,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interface01">
+  <component name="RunManager" selected="Application.thread03">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -320,6 +287,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="thread01" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex1" />
+      <module name="thread01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex2" />
+      <module name="thread02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread03" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex3" />
+      <module name="thread03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.test_gererics_01" />
@@ -327,6 +317,9 @@
       <item itemvalue="Application.httpTest" />
       <item itemvalue="Application.inheritanceEx1" />
       <item itemvalue="Application.interface01" />
+      <item itemvalue="Application.thread01" />
+      <item itemvalue="Application.thread02" />
+      <item itemvalue="Application.thread03" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
@@ -373,7 +366,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="6004000" />
+      <workItem from="1638090171520" duration="6875000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -683,7 +676,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638096027402</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="inheritance and interface">
+      <created>1638096912606</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1638096912606</updated>
+    </task>
+    <task id="LOCAL-00046" summary="inheritance and interface">
+      <created>1638096977136</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1638096977136</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
