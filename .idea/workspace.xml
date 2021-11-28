@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/httpServer_02/httpServer_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +58,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test_gererics_01">
+  <component name="RunManager" selected="Application.httpServer_02">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -190,6 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="httpServer_02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.HttpServer_02" />
+      <module name="httpServer_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="iterator2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
       <module name="iterator2" />
@@ -230,6 +241,7 @@
     <list>
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.test_gererics_01" />
+      <item itemvalue="Application.httpServer_02" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.colorPickersample" />
@@ -276,7 +288,7 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638090171520" duration="2708000" />
+      <workItem from="1638090171520" duration="3788000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -537,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638093407085</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="command pattern and generics">
+      <created>1638093443399</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1638093443399</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
