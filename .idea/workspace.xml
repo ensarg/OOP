@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/Ball3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/BallWorld2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/BallWorld3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/DrawCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/GameThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/MainBW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/MainBW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/aCoordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/circleBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/circleBall3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ellipseBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/squareBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallMemoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallWorld4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/CircleBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/SquareBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballGame2/ball_ex3_oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/MainBW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/MainBW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallGame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +65,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ballGame2" />
   </component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +85,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +96,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.thread03">
+  <component name="RunManager" selected="Application.ballgame2">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -69,6 +109,15 @@
     <configuration name="ballgame1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
       <module name="ballgame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ballgame2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW2" />
+      <module name="ballGame2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -296,6 +345,7 @@
       <item itemvalue="Application.thread03" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
+      <item itemvalue="Application.ballgame2" />
       <item itemvalue="Application.colorPickersample" />
       <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.commandlineexample" />
@@ -341,14 +391,7 @@
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
       <workItem from="1638090171520" duration="8054000" />
-      <workItem from="1638204935501" duration="751000" />
-    </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1636110678607</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1636110678607</updated>
+      <workItem from="1638204935501" duration="2792000" />
     </task>
     <task id="LOCAL-00002" summary="config files">
       <created>1636111014879</created>
@@ -679,7 +722,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638108465662</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="threads">
+      <created>1638205865107</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1638205865107</updated>
+    </task>
+    <task id="LOCAL-00050" summary="threads">
+      <created>1638205905166</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1638205905167</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

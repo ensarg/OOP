@@ -1,19 +1,26 @@
 package tr.edu.sehir.oop;
+
+
+
 import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
+import java.util.Vector;
 import javax.swing.*;
 /**
  * The control logic and main display panel for game.
  *
  * @author Hock-Chuan Chua
  * @version October 2010
- * modified by e gul
+ * modified by egul
  */
-public class BallWorld extends JPanel {
+public class BallWorld2 extends JPanel {
     private static final int UPDATE_RATE = 30;    // Frames per second (fps)
 
-    private Ball ball;         // A single bouncing Ball's instance
+    //private Ball ball1, ball2;         // A single bouncing Ball's instance
+
+    Vector<Ball>  balls = new Vector<Ball>();
+
     private ContainerBox box;  // The container rectangular box
 
     private DrawCanvas canvas; // Custom canvas for drawing the box/ball
@@ -27,7 +34,11 @@ public class BallWorld extends JPanel {
      * @param width : screen width
      * @param height : screen height
      */
-    public BallWorld(int width, int height) {
+    public BallWorld2(int width, int height) {
+        int x,y;
+        int speed;
+        int angleInDegree;
+        int balltype=0;
 
         canvasWidth = width;
         canvasHeight = height;
@@ -35,13 +46,35 @@ public class BallWorld extends JPanel {
         // Init the ball at a random location (inside the box) and moveAngle
         Random rand = new Random();
         int radius = 20;
-        int x = rand.nextInt(canvasWidth - radius * 2 - 20) + radius + 10;
-        int y = rand.nextInt(canvasHeight - radius * 2 - 20) + radius + 10;
-        int speed = 5;
-        int angleInDegree = rand.nextInt(360);
-        ball = new Ball(x, y, radius, speed, angleInDegree, Color.BLUE);
 
-//
+        for (int j=0; j < rand.nextInt(1000); j++) {
+            balltype = rand.nextInt(3);
+            if (balltype == 0)
+            {
+                x = rand.nextInt(canvasWidth - radius * 2 - 20) + radius + 10;
+                y = rand.nextInt(canvasHeight - radius * 2 - 20) + radius + 10;
+                speed = 5;
+                angleInDegree = rand.nextInt(360);
+                balls.add( new circleBall(x, y, radius, speed, angleInDegree, Color.BLUE));
+            }else if (balltype == 1) {
+                x = rand.nextInt(canvasWidth - radius * 2 - 20) + radius + 10;
+                y = rand.nextInt(canvasHeight - radius * 2 - 20) + radius + 10;
+                speed = 5;
+                angleInDegree = rand.nextInt(360);
+                balls.add(new squareBall(x, y, radius, speed, angleInDegree, Color.BLUE));
+            }else {
+                x = rand.nextInt(canvasWidth - radius * 2 - 20) + radius + 10;
+                y = rand.nextInt(canvasHeight - radius * 2 - 20) + radius + 10;
+                speed = 5;
+                angleInDegree = rand.nextInt(360);
+                balls.add (new ellipseBall(x, y, radius*2,radius, speed, angleInDegree, Color.YELLOW));
+
+
+            }
+
+
+        }
+
         // Init the Container Box to fill the screen
         box = new ContainerBox(0, 0, canvasWidth, canvasHeight, Color.BLACK, Color.WHITE);
 
@@ -65,16 +98,10 @@ public class BallWorld extends JPanel {
 
         // Start the ball bouncing
         gameStart();
+        System.out.println("Number of balls: "+ Ball.getNumberOfBalls());
     }
 
-    public void gameStart(){
-        gameThread gmthr = new gameThread(this,UPDATE_RATE);
-        gmthr.start();
-
-    }
-    /*
-
-    // Start the ball bouncing.
+    /** Start the ball bouncing. */
     public void gameStart() {
         // Run the game logic in its own thread.
         Thread gameThread = new Thread() {
@@ -94,13 +121,19 @@ public class BallWorld extends JPanel {
         gameThread.start();  // Invoke GaemThread.run()
     }
 
-*/
     /**
      * One game time-step.
      * Update the game objects, with proper collision detection and response.
      */
     public void gameUpdate() {
-        ball.moveOneStepWithCollisionDetection(box);
+        Ball b;
+        for (int i=0; i < balls.size();i++) {
+            b =  balls.elementAt(i);
+            b.moveOneStepWithCollisionDetection(box);
+        }
+        //ball1.moveOneStepWithCollisionDetection(box);
+        //ball2.moveOneStepWithCollisionDetection(box);
+
     }
 
     /** The custom drawing panel for the bouncing ball (inner class). */
@@ -111,8 +144,17 @@ public class BallWorld extends JPanel {
             super.paintComponent(g);    // Paint background
             // Draw the box and the ball
             box.draw(g);
-            ball.draw(g);
-
+            Ball b;
+            for (int i=0; i < balls.size();i++) {
+                b =  balls.elementAt(i);
+                b.draw(g);
+            }
+            //ball1.draw(g);
+            //ball2.draw(g);
+            // Display ball's information
+            //g.setColor(Color.WHITE);
+            //g.setFont(new Font("Courier New", Font.PLAIN, 12));
+            //g.drawString("Ball " + ball.toString(), 20, 30);
         }
 
         /** Called back to get the preferred size of the component. */
