@@ -1,5 +1,4 @@
 package edu.sehir.oop;
-
 import java.awt.*;
 public class checkCommand extends Checkbox
 implements Command {

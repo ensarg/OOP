@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractFactory/abstractFactory.iml" filepath="$PROJECT_DIR$/abstractFactory/abstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter1/adapter1.iml" filepath="$PROJECT_DIR$/adapter1/adapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array1/array1.iml" filepath="$PROJECT_DIR$/array1/array1.iml" />
