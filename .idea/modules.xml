@@ -3,16 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/abstractFactory/abstractFactory.iml" filepath="$PROJECT_DIR$/abstractFactory/abstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter1/adapter1.iml" filepath="$PROJECT_DIR$/adapter1/adapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array1/array1.iml" filepath="$PROJECT_DIR$/array1/array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ballGame1/ballGame1.iml" filepath="$PROJECT_DIR$/ballGame1/ballGame1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ballGame2/ballGame2.iml" filepath="$PROJECT_DIR$/ballGame2/ballGame2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ballGame3/ballGame3.iml" filepath="$PROJECT_DIR$/ballGame3/ballGame3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ballGame4/ballGame4.iml" filepath="$PROJECT_DIR$/ballGame4/ballGame4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ball_ex2_oop/ball_ex2_oop.iml" filepath="$PROJECT_DIR$/ball_ex2_oop/ball_ex2_oop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ballgame/ballgame.iml" filepath="$PROJECT_DIR$/ballgame/ballgame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/borderWindowDecorator/borderWindowDecorator.iml" filepath="$PROJECT_DIR$/borderWindowDecorator/borderWindowDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder1/builder1.iml" filepath="$PROJECT_DIR$/builder1/builder1.iml" />
       <module fileurl="file://$PROJECT_DIR$/calendarExample/calendarExample.iml" filepath="$PROJECT_DIR$/calendarExample/calendarExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/carDecorator/carDecorator.iml" filepath="$PROJECT_DIR$/carDecorator/carDecorator.iml" />

@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ballGame4/ballGame4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ballGame1/ballGame1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/description.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallMemoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/BallMemoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallWorld4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/BallWorld4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/CircleBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/CircleBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/ContainerBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/SquareBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/SquareBall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +59,21 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ballGame4">
+  <component name="RunManager" selected="Application.ballGame2">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Main" />
       <module name="array1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ballGame2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW2" />
+      <module name="ballGame2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,16 +98,7 @@
     </configuration>
     <configuration name="ballgame1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
-      <module name="ballgame" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ballgame2" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW2" />
-      <module name="ballGame2" />
+      <module name="ballGame1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -337,8 +326,8 @@
       <item itemvalue="Application.thread03" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
-      <item itemvalue="Application.ballgame2" />
       <item itemvalue="Application.ballGame3" />
+      <item itemvalue="Application.ballGame2" />
       <item itemvalue="Application.ballGame4" />
       <item itemvalue="Application.colorPickersample" />
       <item itemvalue="Application.colorPickerText" />
@@ -386,6 +375,7 @@
       <workItem from="1637092560530" duration="2067000" />
       <workItem from="1638090171520" duration="8054000" />
       <workItem from="1638204935501" duration="3489000" />
+      <workItem from="1638210390368" duration="383000" />
     </task>
     <task id="LOCAL-00005" summary="babstract factory">
       <created>1636377072637</created>
@@ -736,9 +726,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/ball_ex3_oop" />
+      <path value="$PROJECT_DIR$/ballGame2" />
     </ignored-roots>
     <MESSAGE value="new modules" />
     <MESSAGE value="ball game updatr" />
