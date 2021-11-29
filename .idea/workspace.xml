@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/Ball3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/BallWorld2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/BallWorld3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/DrawCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/GameThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/MainBW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/MainBW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/aCoordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/circleBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/circleBall3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/ellipseBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex3b/src/tr/edu/sehir/oop/squareBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallMemoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallWorld4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/CircleBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/SquareBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame2/ball_ex3_oop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/MainBW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/MainBW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallGame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballgame/src/tr/edu/sehir/oop/BallWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,12 +54,21 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ballgame2">
+  <component name="RunManager" selected="Application.ballGame3">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Main" />
       <module name="array1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ballGame3" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW3" />
+      <module name="ballGame3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -346,6 +313,7 @@
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.ballgame2" />
+      <item itemvalue="Application.ballGame3" />
       <item itemvalue="Application.colorPickersample" />
       <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.commandlineexample" />
@@ -391,14 +359,7 @@
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
       <workItem from="1638090171520" duration="8054000" />
-      <workItem from="1638204935501" duration="2792000" />
-    </task>
-    <task id="LOCAL-00002" summary="config files">
-      <created>1636111014879</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1636111014879</updated>
+      <workItem from="1638204935501" duration="2850000" />
     </task>
     <task id="LOCAL-00003" summary="border window decorator">
       <created>1636116117210</created>
@@ -736,14 +697,20 @@
       <option name="project" value="LOCAL" />
       <updated>1638205905167</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="ball games">
+      <created>1638207743667</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1638207743667</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="car decorator and class  loader" />
     <MESSAGE value="new modules" />
     <MESSAGE value="ball game updatr" />
     <MESSAGE value="array1 package" />
@@ -768,7 +735,8 @@
     <MESSAGE value="http test" />
     <MESSAGE value="inheritance and interface" />
     <MESSAGE value="threads" />
-    <option name="LAST_COMMIT_MESSAGE" value="threads" />
+    <MESSAGE value="ball games" />
+    <option name="LAST_COMMIT_MESSAGE" value="ball games" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

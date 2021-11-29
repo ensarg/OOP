@@ -9,7 +9,7 @@ import javax.swing.*;
  *      modified by egul
         */
 
-
+//try to run  game on 2 computers
 public class MainBW3 {
 
     public static final int computer1 = 0;
