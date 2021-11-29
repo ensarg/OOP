@@ -1,7 +1,7 @@
 package tr.edu.sehir.oop;
 
 import javax.swing.*;
-
+// test how to run out of memeory
 public class BallMemoryTest {
 
     public static void main(String[] args) {

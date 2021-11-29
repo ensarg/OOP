@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ballGame4/ballGame4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallMemoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/BallMemoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/BallWorld4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/BallWorld4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/CircleBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/CircleBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/ContainerBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/ContainerBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball_ex4_memory/src/tr/edu/sehir/oop/SquareBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/SquareBall.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +70,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ballGame3">
+  <component name="RunManager" selected="Application.ballGame4">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -69,6 +85,15 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW3" />
       <module name="ballGame3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ballGame4" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallMemoryTest" />
+      <module name="ballGame4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -314,6 +339,7 @@
       <item itemvalue="Application.class_loader_01" />
       <item itemvalue="Application.ballgame2" />
       <item itemvalue="Application.ballGame3" />
+      <item itemvalue="Application.ballGame4" />
       <item itemvalue="Application.colorPickersample" />
       <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.commandlineexample" />
@@ -359,14 +385,7 @@
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
       <workItem from="1638090171520" duration="8054000" />
-      <workItem from="1638204935501" duration="3157000" />
-    </task>
-    <task id="LOCAL-00004" summary="array1">
-      <created>1636373197384</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1636373197384</updated>
+      <workItem from="1638204935501" duration="3489000" />
     </task>
     <task id="LOCAL-00005" summary="babstract factory">
       <created>1636377072637</created>
@@ -704,7 +723,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638208053020</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="ball games">
+      <created>1638208100463</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1638208100463</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
