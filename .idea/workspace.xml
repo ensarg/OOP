@@ -23,7 +23,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ballGame2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -359,14 +359,7 @@
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
       <workItem from="1638090171520" duration="8054000" />
-      <workItem from="1638204935501" duration="2850000" />
-    </task>
-    <task id="LOCAL-00003" summary="border window decorator">
-      <created>1636116117210</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1636116117210</updated>
+      <workItem from="1638204935501" duration="3157000" />
     </task>
     <task id="LOCAL-00004" summary="array1">
       <created>1636373197384</created>
@@ -704,13 +697,23 @@
       <option name="project" value="LOCAL" />
       <updated>1638207743667</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="ball games">
+      <created>1638208053020</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1638208053020</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ball_ex3_oop" />
+    </ignored-roots>
     <MESSAGE value="new modules" />
     <MESSAGE value="ball game updatr" />
     <MESSAGE value="array1 package" />
