@@ -1,5 +1,5 @@
 package edu.sehir.oop;
-
+import java.lang.*;
 public class Car extends Vehicle{
     private static int numberofcars=0;
     private float gaslevel=0;

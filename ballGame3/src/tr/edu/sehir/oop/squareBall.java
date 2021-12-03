@@ -36,7 +36,7 @@ public class squareBall extends Ball {
      * @param box: the container (obstacle) for this ball.
      */
     @Override
-    public void moveOneStepWithCollisionDetection(ContainerBox box) {
+    public boolean moveOneStepWithCollisionDetection(ContainerBox box) {
         // Get the ball's bounds, offset by the radius of the ball
         float ballMinX = box.minX + (xlength/2);
         float ballMinY = box.minY + (xlength/2);
@@ -64,6 +64,7 @@ public class squareBall extends Ball {
             speedY = -speedY;
             y = ballMaxY;
         }
+        return false;
     }
 
 

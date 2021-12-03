@@ -1,5 +1,6 @@
 package tr.edu.sehir.oop;
 
+
 import java.awt.*;
 import java.util.Formatter;
 /**
@@ -62,7 +63,7 @@ public class circleBall3  extends Ball3 {
             speedX = -speedX;
             x = ballMaxX;
 
-            if (computerno ==  BallWorld3.LEFT_COMPUTER)
+            if (computerno ==  BallWorld3b.LEFT_COMPUTER)
                 return true;
         }
         // May cross both x and y bounds

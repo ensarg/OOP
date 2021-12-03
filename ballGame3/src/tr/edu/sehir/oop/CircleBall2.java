@@ -2,12 +2,10 @@ package tr.edu.sehir.oop;
 
 import java.awt.*;
 import java.util.Formatter;
-/**
- * The bouncing ball.
- *
- *
- */
-public class circleBall  extends Ball {
+
+public class CircleBall2 extends Ball{
+
+
     //float x, y;           // Ball's center x and y (package access)
     //float speedX, speedY; // Ball's speed per step in x and y (package access)
     float radius;         // Ball's radius (package access)
@@ -20,15 +18,15 @@ public class circleBall  extends Ball {
      * speedY in Java graphics coordinates for ease of operation.
      */
 
-    public circleBall(float x, float y, float radius, float speed, float angleInDegree,
-                      Color color) {
+    public CircleBall2(float x, float y, float radius, float speed, float angleInDegree,
+                       Color color) {
         super( x,  y, speed, angleInDegree, color);
         // Convert (speed, angle) to (x, y), with y-axis inverted
         this.radius = radius;
 
     }
     /** Constructor with the default color */
-    public circleBall(float x, float y, float radius, float speed, float angleInDegree) {
+    public CircleBall2(float x, float y, float radius, float speed, float angleInDegree) {
         this(x, y, radius, speed, angleInDegree, DEFAULT_COLOR);
     }
 
@@ -38,7 +36,7 @@ public class circleBall  extends Ball {
      * @param box: the container (obstacle) for this ball.
      */
     @Override
-    public  boolean moveOneStepWithCollisionDetection(ContainerBox box) {
+    public boolean  moveOneStepWithCollisionDetection(ContainerBox box) {
         // Get the ball's bounds, offset by the radius of the ball
         float ballMinX = box.minX + radius;
         float ballMinY = box.minY + radius;
@@ -52,10 +50,15 @@ public class circleBall  extends Ball {
         if (x < ballMinX) {
             speedX = -speedX; // Reflect along normal
             x = ballMinX;     // Re-position the ball at the edge
-        } else if (x > ballMaxX) {
+            //System.out.println("Ball hits left edge");
+            //if (computerno ==  RIGHT_COMPUTER )
+            //    return true;
+
+        } else if (x > ballMaxX)
+        {
             speedX = -speedX;
             x = ballMaxX;
-
+            return true;
         }
         // May cross both x and y bounds
         if (y < ballMinY) {
@@ -65,7 +68,8 @@ public class circleBall  extends Ball {
             speedY = -speedY;
             y = ballMaxY;
         }
-    return false;
+
+        return false;
     }
 
 
@@ -99,4 +103,5 @@ public class circleBall  extends Ball {
     // Re-use to build the formatted string for toString()
     private StringBuilder sb = new StringBuilder();
     private Formatter formatter = new Formatter(sb);
+
 }

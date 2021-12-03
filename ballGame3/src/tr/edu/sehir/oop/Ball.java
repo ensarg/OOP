@@ -45,11 +45,18 @@ public class Ball {
         g.setColor(color);
     }
 
-    public void moveOneStepWithCollisionDetection(ContainerBox box) {
+    //public void moveOneStepWithCollisionDetection(ContainerBox box) {
         // Get the ball's bounds, offset by the radius of the ball
         // Calculate the ball's new position
 
+    //}
+
+    public boolean moveOneStepWithCollisionDetection(ContainerBox box) {
+        // Get the ball's bounds, offset by the radius of the ball
+        // Calculate the ball's new position
+    return false;
     }
+
 
 
 }

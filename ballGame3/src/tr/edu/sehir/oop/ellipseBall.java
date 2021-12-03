@@ -53,7 +53,7 @@ public class ellipseBall extends Ball {
      */
 
     @Override
-    public  void moveOneStepWithCollisionDetection(ContainerBox box) {
+    public  boolean moveOneStepWithCollisionDetection(ContainerBox box) {
         // Get the ball's bounds, offset by the radius of the ball
         float ballMinX = box.minX   + (rectwidth/2);
         float ballMinY = box.minY  + (rectheight/2);
@@ -80,7 +80,7 @@ public class ellipseBall extends Ball {
             speedY = -speedY;
             y = ballMaxY;
         }
-
+    return false;
     }
 
 

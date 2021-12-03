@@ -1,6 +1,4 @@
 package tr.edu.sehir.oop;
-
-
 import java.awt.*;
 import java.io.Serializable;
 

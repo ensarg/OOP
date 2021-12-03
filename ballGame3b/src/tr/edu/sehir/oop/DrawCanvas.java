@@ -1,5 +1,6 @@
 package tr.edu.sehir.oop;
 
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.Vector;
@@ -7,11 +8,11 @@ import java.util.Vector;
 public class DrawCanvas extends JPanel {
     /** Custom drawing codes */
 
-   ContainerBox box;
-   Vector<Ball> balls;
-   int canvasWidth, canvasHeight;
+    ContainerBox box;
+    Vector<Ball3> balls;
+    int canvasWidth, canvasHeight;
 
-    public DrawCanvas(ContainerBox box, Vector<Ball>  balls,int canvasWidth, int canvasHeight){
+    public DrawCanvas(ContainerBox box, Vector<Ball3>  balls,int canvasWidth, int canvasHeight){
 
         this.box=box;
         this.balls=balls;
@@ -25,7 +26,7 @@ public class DrawCanvas extends JPanel {
         // Draw the box and the ball
 
         box.draw(g);
-        Ball b;
+        Ball3 b;
         for (int i=0; i < balls.size();i++) {
             b =  balls.elementAt(i);
             b.draw(g);
@@ -35,7 +36,7 @@ public class DrawCanvas extends JPanel {
 
 
     /** Called back to get the preferred size of the component. */
-  //  @Override
+    //  @Override
 
     public Dimension getPreferredSize() {
         return (new Dimension(canvasWidth, canvasHeight));
