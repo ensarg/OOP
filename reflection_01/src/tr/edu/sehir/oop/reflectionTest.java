@@ -26,7 +26,7 @@ public class reflectionTest {
         System.out.println("x*y="+z);
     }
 
-
+     /*
     public void addintegers2(int n, int m){
 
           int z;
@@ -34,7 +34,7 @@ public class reflectionTest {
          System.out.println("x+y="+z);
      }
 
-
+*/
 
 
 

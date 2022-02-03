@@ -33,7 +33,7 @@ public class ShowReflection_01 {
 
 
             System.out.println("Canonical name is: "+ c.getCanonicalName() );
-            System.out.println("package name name is: "+ c.getPackageName() );
+            //System.out.println("package name name is: "+ c.getPackageName() );
 
 
             System.out.println("we can also invoke methods ");
@@ -47,7 +47,6 @@ public class ShowReflection_01 {
                 m.invoke(ob);
 
             }
-
 /*
             for (int i = 0; i < all_m.length; i++) {
                 //Method amethod= c.getMethod(all_m[i].getName());

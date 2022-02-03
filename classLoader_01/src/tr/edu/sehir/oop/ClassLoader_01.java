@@ -8,9 +8,15 @@ public class ClassLoader_01 {
             NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException {
 
         CustomClassLoaderDemo loader = new CustomClassLoaderDemo();
-        Class<?> c = loader.findClass("tr.edu.sehir.oop.Test");
+        Class<?> c = loader.findClass("tr.edu.sehir.oop.Test2");
         Object ob = c.getDeclaredConstructor().newInstance();
-        Method md = c.getMethod("show");
-        md.invoke(ob);
+        Method md[] = c.getDeclaredMethods();
+        for (Method m : md ){
+            String mname = m.getName();
+            System.out.println("method -->" +mname);
+            m.invoke(ob);
+
+        }
+
     }
 }

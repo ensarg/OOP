@@ -184,7 +184,7 @@ public class Test_Generics_01 {
         // section 9
         //print an array of different type using a single Generic method printArray
 
-        //ook b1=new Book(113,"OOPogrammimg");
+        //Book b1=new Book(113,"OOPogrammimg");
        // Book b2 =new Book(114, "Programming in Java");
 
        // Book [] bookArray={b1,b2};

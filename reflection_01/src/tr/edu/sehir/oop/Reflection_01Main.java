@@ -7,7 +7,7 @@ public class Reflection_01Main {
     public static void main(String args[])
     {
         int status=0;
-        ShowReflection_02 shr = new ShowReflection_02();
+        ShowReflection_01 shr = new ShowReflection_01();
         if (args.length != 1) {
             System.out.println("Pls enter name of the class");
             System.exit(status);

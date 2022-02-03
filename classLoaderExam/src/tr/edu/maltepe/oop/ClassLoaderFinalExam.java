@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

@@ -8,7 +8,7 @@ public class Main {
         double min =1.0;
         double max = 63.0;
         int i;
-        long x;
+        long x,y;
        
 
         for (i=0; i < 5; i++) {

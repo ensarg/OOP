@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 public class ExamClass {
 

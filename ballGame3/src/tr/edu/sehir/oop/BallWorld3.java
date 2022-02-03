@@ -52,7 +52,7 @@ public class BallWorld3 extends JPanel {
         boolean flip=false;
         for (int j=0; j < rand.nextInt(20); j++) {
             balltype = rand.nextInt(3);
-            balltype=0;
+            //balltype=0;
 
             if (balltype == 0)
             {

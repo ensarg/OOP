@@ -7,7 +7,7 @@ import java.util.Formatter;
  *
  *
  */
-public class circleBall  extends Ball {
+public class circleBall  extends Ball  {
     //float x, y;           // Ball's center x and y (package access)
     //float speedX, speedY; // Ball's speed per step in x and y (package access)
     float radius;         // Ball's radius (package access)
@@ -99,4 +99,6 @@ public class circleBall  extends Ball {
     // Re-use to build the formatted string for toString()
     private final StringBuilder sb = new StringBuilder();
     private final Formatter formatter = new Formatter(sb);
+
+
 }

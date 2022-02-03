@@ -1,11 +1,11 @@
-package edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 public class ClassLoaderExample {
 
     public static void main(String[] args) throws  SecurityException, IllegalArgumentException {
 
         ClassLoaderFinalExam clfe = new ClassLoaderFinalExam();
-        clfe.testClassLoader("edu.sehir.oop.ExamClass");
+        clfe.testClassLoader("tr.edu.maltepe.oop.ExamClass");
     }
 
 }

@@ -9,7 +9,7 @@ public class testPolymorphism_1 {
     public static void main(String[] args) {
 
         Vector v = new  Vector();
-        Random rand=new Random();
+        //Random rand=new Random();
 
         Vehicle  vh,vh1,vh2,vh3;
         vh1= new MotorBike();
@@ -29,11 +29,11 @@ public class testPolymorphism_1 {
 
         }
         */
-
+       /*
         System.out.println("\ncar count:"+Car.getNumberofcars());
         System.out.println("\nmotorbike count:"+MotorBike.getNumberofmotorbikes());
         System.out.println("\nvehicle count:"+Vehicle.getVehiclecount());
-
+        */
         for (int i=0;i < v.size();i++) {
 
             vh =  (Vehicle)v.get(i);

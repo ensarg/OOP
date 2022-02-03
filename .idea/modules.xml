@@ -44,8 +44,10 @@
       <module fileurl="file://$PROJECT_DIR$/intMaxValues/intMaxValues.iml" filepath="$PROJECT_DIR$/intMaxValues/intMaxValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface01/interface01.iml" filepath="$PROJECT_DIR$/interface01/interface01.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator2/iterator2.iml" filepath="$PROJECT_DIR$/iterator2/iterator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/makeup_exam_01/makeup_exam_01.iml" filepath="$PROJECT_DIR$/makeup_exam_01/makeup_exam_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/midtermQ1/midtermQ1.iml" filepath="$PROJECT_DIR$/midtermQ1/midtermQ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" filepath="$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection_01/reflection_01.iml" filepath="$PROJECT_DIR$/reflection_01/reflection_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/scanInput/scanInput.iml" filepath="$PROJECT_DIR$/scanInput/scanInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensorObservers/sensorObservers.iml" filepath="$PROJECT_DIR$/sensorObservers/sensorObservers.iml" />
       <module fileurl="file://$PROJECT_DIR$/shallow_copy/shallow_copy.iml" filepath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" />

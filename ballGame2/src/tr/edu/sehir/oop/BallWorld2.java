@@ -49,7 +49,7 @@ public class BallWorld2 extends JPanel {
         Random rand = new Random();
         int radius = 20;
 
-        for (int j=0; j < rand.nextInt(50); j++) {
+        for (int j=0; j < rand.nextInt(10); j++) {
             balltype = rand.nextInt(3);
             if (balltype == 0)
             {
@@ -78,6 +78,27 @@ public class BallWorld2 extends JPanel {
 
         }
 
+
+        //**try clone, it did not work
+        /*
+        System.out.println("balls.size() before cloning: "+ balls.size());
+        Ball clonedball;
+
+        try {
+                clonedball = (Ball) balls.get(0).clone();
+                clonedball.set_xy(clonedball.getX()+5,clonedball.getY()+3);
+                balls.add(clonedball);
+            }
+            catch (CloneNotSupportedException e)
+            {
+                e.printStackTrace();
+            }
+
+
+        System.out.println("balls.size() after cloning: "+ balls.size());
+        */
+
+
         // Init the Container Box to fill the screen
         box = new ContainerBox(0, 0, canvasWidth, canvasHeight, Color.BLACK, Color.WHITE);
 
@@ -101,7 +122,7 @@ public class BallWorld2 extends JPanel {
 
         // Start the ball bouncing
         gameStart();
-        System.out.println("Number of balls: "+ Ball.getNumberOfBalls());
+        System.out.println("Total number of balls: "+ Ball.getNumberOfBalls());
     }
 
     /** Start the ball bouncing. */

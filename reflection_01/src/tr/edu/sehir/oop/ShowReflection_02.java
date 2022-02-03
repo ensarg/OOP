@@ -34,7 +34,6 @@ public class ShowReflection_02 {
 
 
             System.out.println("Canonical name is: "+ c.getCanonicalName() );
-            System.out.println("package name name is: "+ c.getPackageName() );
 
 
             System.out.println("we can also invoke methods ");
