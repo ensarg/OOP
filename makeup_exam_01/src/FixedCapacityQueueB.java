@@ -1,11 +1,11 @@
-public class FixedCapacityQueue {
+public class FixedCapacityQueueB {
 
     private int[] mData = null;
     private int mHead=0; // index of first full cell
     private int mTail=0; // index of next empty cell
     private int capacity=0;
     private int numberofelements=0;
-    public FixedCapacityQueue(int capacity) {
+    public FixedCapacityQueueB(int capacity) {
         mData = new int[capacity];
         this.capacity=capacity;
     }

@@ -4,7 +4,8 @@ public class makeup_01 {
 
     public static void main(String[] args) {
 
-        FixedCapacityQueue myq1 = new FixedCapacityQueue(5);
+        /*
+        FixedCapacityQueueB myq1 = new FixedCapacityQueueB(5);
 
         myq1.enqueue(5);
         myq1.enqueue(6);
@@ -25,18 +26,24 @@ public class makeup_01 {
         System.out.println("\n----------2-----------------\n");
         myq1.enqueue(20);
         myq1.printQ();
+*/
 
-        /*
         genericQueue gq = new genericQueue(5);
-        gq.enqueue(14);
-        gq.enqueue(15);
+        gq.enqueue(14.2345);
+        gq.enqueue("ensar");
+        gq.enqueue(16);
+
         gq.printQ();
         System.out.println("\n-----now dequeue----------------------\n");
-        System.out.println(" "+gq.dequeue());
-        System.out.println(" "+gq.dequeue());
-        //System.out.println(" "+gq.dequeue());
-       */
+        try {
+            System.out.println(" " + gq.dequeue());
+            System.out.println(" " + gq.dequeue());
+            System.out.println(" " + gq.dequeue());
+            //System.out.println(" " + gq.dequeue());
 
+        } catch (QueueEmptyException exp){
+            System.out.println(exp);
+        }
 
 
 

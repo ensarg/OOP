@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="ballworld3 and ballworld3b are seperated">
-      <change afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/makeup_exam_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/genericQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/makeup_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflection_01/reflection_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="makeup exam Queue">
+      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueueA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/simple2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/BallWorld2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/BallWorld2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/circleBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame2/src/tr/edu/sehir/oop/circleBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballGame3/src/tr/edu/sehir/oop/BallWorld3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ballGame3/src/tr/edu/sehir/oop/BallWorld3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoaderExam/src/edu/sehir/oop/ClassLoaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ClassLoaderExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoaderExam/src/edu/sehir/oop/ClassLoaderFinalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ClassLoaderFinalExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoaderExam/src/edu/sehir/oop/ExamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ExamClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random1/src/tr/edu/sehir/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/random1/src/tr/edu/sehir/oop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/reflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/reflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueueB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/genericQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/genericQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/makeup_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/makeup_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -390,7 +370,10 @@
       <workItem from="1641304717974" duration="457000" />
       <workItem from="1641800516257" duration="1961000" />
       <workItem from="1641980692239" duration="3517000" />
-      <workItem from="1643879046787" duration="11281000" />
+      <workItem from="1643879046787" duration="11403000" />
+      <workItem from="1643972485233" duration="6154000" />
+      <workItem from="1646134772032" duration="112000" />
+      <workItem from="1646733903374" duration="953000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -651,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638534140024</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="makeup exam Queue">
+      <created>1643903418066</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1643903418067</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,8 +660,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="border window decorator" />
-    <MESSAGE value="array1" />
     <MESSAGE value="babstract factory" />
     <MESSAGE value="abstract factory updated" />
     <MESSAGE value="car decorator and class  loader" />
@@ -695,7 +683,9 @@
     <MESSAGE value="command pattern" />
     <MESSAGE value="shallow copy" />
     <MESSAGE value="ballworld3 and ballworld3b are seperated" />
-    <option name="LAST_COMMIT_MESSAGE" value="ballworld3 and ballworld3b are seperated" />
+    <MESSAGE value="make up exam Queue" />
+    <MESSAGE value="makeup exam Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="makeup exam Queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
