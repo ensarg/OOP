@@ -8,7 +8,7 @@ import states.*;
 import java.awt.*;
 import java.awt.image.BufferStrategy;
 
-public class Game {
+public class Game implements Runnable{
 
 	private static final int NEXT_PIECE_X = 11;
 	private static final int NEXT_PIECE_Y = 1;
@@ -33,6 +33,7 @@ public class Game {
 	private State menuState;
 	private State settingsState;
 	private Field field;
+	private  Thread thread;
 	
 	private Piece currentPiece;
 	private Piece nextPiece;
@@ -177,7 +178,11 @@ public class Game {
 			this.render();
 		}
 	}
+	public void start(){
+		thread= new Thread(this);
+		thread.start();
 
+	}
 	public void pause() {
 		this.paused = true;
 	}

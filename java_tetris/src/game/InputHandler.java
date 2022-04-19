@@ -17,7 +17,7 @@ public class InputHandler implements KeyListener {
 	public void keyPressed(KeyEvent e) {
 		int keyCode = e.getKeyCode();
 
-		if (keyCode == KeyEvent.VK_SPACE) {
+		if (keyCode == KeyEvent.VK_UP) {
 			game.rotatePiece();
 		} else if (keyCode == KeyEvent.VK_DOWN) {
 			game.movePieceDown();
