@@ -1,74 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="simple example">
-      <change afterPath="$PROJECT_DIR$/java-tetris" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-tetris/java-tetris.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/MaltepeLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/simple2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/doSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/simple2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris3/tetris_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/TetrisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/BoardCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/EmptyBoardCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/FilledBoardCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/Tetromino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/TetrominoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/TetrominoDataFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Dimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/PeriodicTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/BlankGameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/GraphicGameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_1/tetris_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_2/src/tr/edu/maltepe/oop/Tetris2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tetris_2/tetris_2.iml" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="update polymorphism">
+      <change afterPath="$PROJECT_DIR$/java_tetris/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/java_tetris.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/display/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/game/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/game/FieldSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/game/InputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/game/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/piece/PieceShapeZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/states/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/states/MenuState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/states/SettingsState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_tetris/src/states/StateManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsulationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tetris/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tetris/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tetris/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-tetris/src/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tetris/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-tetris/src/game/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/JavaBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/JavaBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/OOPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/OOPStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/JavaBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/JavaBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/simpleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/OOPStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/OOPStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple2/src/Professor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple2/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple2/src/simple2Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +45,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -89,7 +54,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-tetris" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
@@ -109,10 +74,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-tetris" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -123,7 +89,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java-tetris">
+  <component name="RunManager" selected="Application.javatetris">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -141,25 +107,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ball_game2" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallWorld2" />
-      <module name="ballGame2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ballgame1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
-      <module name="ballgame" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ballgame2" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW2" />
-      <module name="ballGame2" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop." />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,15 +120,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW3" />
       <module name="ballGame3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ballgame4" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallMemoryTest" />
-      <module name="ballGame4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,24 +152,6 @@
     <configuration name="class_loader_02" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Main" />
       <module name="classLoader_02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="classloader01" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.ClassLoader_01" />
-      <module name="classLoader_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="classloaderexam" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.ClassLoaderExample" />
-      <module name="classLoaderExam" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -324,18 +248,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java-tetris" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
-      <module name="java-tetris" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="makeup_01" type="Application" factoryName="Application">
+    <configuration name="javatetris" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="makeup_01" />
-      <module name="makeup_exam_01" />
+      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
+      <module name="java_tetris" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -347,45 +264,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reflection_01" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Reflection_01Main" />
-      <module name="reflection_01" />
-      <option name="PROGRAM_PARAMETERS" value="tr.edu.sehir.oop.reflectionTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="shallow_copy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.ShallowCopyTest" />
       <module name="shallow_copy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simple1" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.simpleMain" />
-      <module name="simple1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simple2" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="simple2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="simple2b" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.simple2Main" />
-      <module name="simple2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -397,97 +278,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testPolymorphism_1" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testPolymorphism_1" />
-      <module name="polymorphism_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tetris1" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="hu.klenium.tetris.Main" />
-      <module name="tetris_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tetris2" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Tetris2Main" />
-      <module name="tetris_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thread_ex1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex1" />
-      <module name="thread01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thread_ex2" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex2" />
-      <module name="thread02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thread_ex3" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex3" />
-      <module name="thread03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.array1" />
-      <item itemvalue="Application.ballGame3b" />
       <item itemvalue="Application.ballgame1" />
-      <item itemvalue="Application.ballgame3" />
-      <item itemvalue="Application.java-tetris" />
-      <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
-      <item itemvalue="Application.class_loader_02" />
-      <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.colorPickersample" />
-      <item itemvalue="Application.command_pattern" />
+      <item itemvalue="Application.colorPickerText" />
       <item itemvalue="Application.commandlineexample" />
-      <item itemvalue="Application.dayandweekQ" />
       <item itemvalue="Application.deep_copy" />
+      <item itemvalue="Application.dayandweekQ" />
       <item itemvalue="Application.dependency_injection" />
       <item itemvalue="Application.echo_client" />
       <item itemvalue="Application.echo_server" />
       <item itemvalue="Application.encapsulation01" />
-      <item itemvalue="Application.simple1" />
-      <item itemvalue="Application.tetris1" />
-      <item itemvalue="Application.tetris2" />
-      <item itemvalue="Application.simple2" />
       <item itemvalue="Application.exception_handling_01" />
       <item itemvalue="Application.hello1" />
+      <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.iterator2" />
-      <item itemvalue="Application.polymothism1" />
+      <item itemvalue="Application.command_pattern" />
       <item itemvalue="Application.shallow_copy" />
       <item itemvalue="Application.singleton" />
-      <item itemvalue="Application.ballgame2" />
-      <item itemvalue="Application.ballgame4" />
-      <item itemvalue="Application.reflection_01" />
-      <item itemvalue="Application.classloader01" />
-      <item itemvalue="Application.classloaderexam" />
-      <item itemvalue="Application.testPolymorphism_1" />
-      <item itemvalue="Application.thread_ex1" />
-      <item itemvalue="Application.thread_ex2" />
-      <item itemvalue="Application.thread_ex3" />
-      <item itemvalue="Application.ball_game2" />
-      <item itemvalue="Application.makeup_01" />
-      <item itemvalue="Application.simple2b" />
+      <item itemvalue="Application.polymothism1" />
+      <item itemvalue="Application.ballgame3" />
+      <item itemvalue="Application.ballGame3b" />
+      <item itemvalue="Application.class_loader_02" />
+      <item itemvalue="Application.javatetris" />
+      <item itemvalue="Application.array1" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ballgame1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -507,40 +329,9 @@
       <workItem from="1636636608892" duration="2807000" />
       <workItem from="1636645425032" duration="26000" />
       <workItem from="1637092560530" duration="2067000" />
-      <workItem from="1638470772949" duration="5624000" />
-      <workItem from="1638717270263" duration="730000" />
-      <workItem from="1638776589183" duration="678000" />
-      <workItem from="1638886164776" duration="563000" />
-      <workItem from="1639481926451" duration="4795000" />
-      <workItem from="1639488884639" duration="1136000" />
-      <workItem from="1639675280033" duration="2171000" />
-      <workItem from="1640548542178" duration="1270000" />
-      <workItem from="1640594798460" duration="340000" />
-      <workItem from="1640700423551" duration="385000" />
-      <workItem from="1641196995201" duration="5083000" />
-      <workItem from="1641304717974" duration="457000" />
-      <workItem from="1641800516257" duration="1961000" />
-      <workItem from="1641980692239" duration="3517000" />
-      <workItem from="1643879046787" duration="11403000" />
-      <workItem from="1643972485233" duration="6154000" />
-      <workItem from="1646134772032" duration="112000" />
-      <workItem from="1646733903374" duration="1913000" />
-      <workItem from="1646736862407" duration="267000" />
-      <workItem from="1647245260936" duration="3645000" />
-      <workItem from="1647352908671" duration="33000" />
-      <workItem from="1647355663510" duration="190000" />
-      <workItem from="1647850960953" duration="5680000" />
-      <workItem from="1647956555539" duration="996000" />
-      <workItem from="1647964399630" duration="571000" />
-      <workItem from="1647965342732" duration="1150000" />
-      <workItem from="1648454774483" duration="5487000" />
-      <workItem from="1648634072733" duration="3625000" />
-      <workItem from="1649061036591" duration="132000" />
-      <workItem from="1649065074101" duration="2723000" />
-      <workItem from="1649086608167" duration="1485000" />
-      <workItem from="1650273029299" duration="2416000" />
-      <workItem from="1650276576228" duration="334000" />
-      <workItem from="1650364588559" duration="689000" />
+      <workItem from="1638470772949" duration="3290000" />
+      <workItem from="1650376919242" duration="1213000" />
+      <workItem from="1650378138286" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -794,28 +585,7 @@
       <option name="project" value="LOCAL" />
       <updated>1636640498416</updated>
     </task>
-    <task id="LOCAL-00037" summary="ballworld3 and ballworld3b are seperated">
-      <created>1638534140024</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1638534140024</updated>
-    </task>
-    <task id="LOCAL-00038" summary="makeup exam Queue">
-      <created>1643903418066</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1643903418067</updated>
-    </task>
-    <task id="LOCAL-00039" summary="simple example">
-      <created>1646734877315</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1646734877315</updated>
-    </task>
-    <option name="localTasksCounter" value="40" />
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -835,6 +605,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/java-tetris" />
+    </ignored-roots>
+    <MESSAGE value="config files" />
+    <MESSAGE value="border window decorator" />
+    <MESSAGE value="array1" />
+    <MESSAGE value="babstract factory" />
     <MESSAGE value="abstract factory updated" />
     <MESSAGE value="car decorator and class  loader" />
     <MESSAGE value="new modules" />
@@ -856,11 +633,7 @@
     <MESSAGE value="iterator" />
     <MESSAGE value="command pattern" />
     <MESSAGE value="shallow copy" />
-    <MESSAGE value="ballworld3 and ballworld3b are seperated" />
-    <MESSAGE value="make up exam Queue" />
-    <MESSAGE value="makeup exam Queue" />
-    <MESSAGE value="simple example" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple example" />
+    <option name="LAST_COMMIT_MESSAGE" value="shallow copy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,12 +648,11 @@
           <line>24</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ballGame4/src/tr/edu/sehir/oop/BallWorld4.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

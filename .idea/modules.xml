@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/interface01/interface01.iml" filepath="$PROJECT_DIR$/interface01/interface01.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator2/iterator2.iml" filepath="$PROJECT_DIR$/iterator2/iterator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-tetris/java-tetris.iml" filepath="$PROJECT_DIR$/java-tetris/java-tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_tetris/java_tetris.iml" filepath="$PROJECT_DIR$/java_tetris/java_tetris.iml" />
       <module fileurl="file://$PROJECT_DIR$/makeup_exam_01/makeup_exam_01.iml" filepath="$PROJECT_DIR$/makeup_exam_01/makeup_exam_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/midtermQ1/midtermQ1.iml" filepath="$PROJECT_DIR$/midtermQ1/midtermQ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" filepath="$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" />
@@ -57,7 +58,6 @@
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_1/tetris_1.iml" filepath="$PROJECT_DIR$/tetris_1/tetris_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_2/tetris_2.iml" filepath="$PROJECT_DIR$/tetris_2/tetris_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tetris3/tetris_3.iml" filepath="$PROJECT_DIR$/tetris3/tetris_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/textDEmo/textDEmo.iml" filepath="$PROJECT_DIR$/textDEmo/textDEmo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread01/thread01.iml" filepath="$PROJECT_DIR$/thread01/thread01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread02/thread02.iml" filepath="$PROJECT_DIR$/thread02/thread02.iml" />
