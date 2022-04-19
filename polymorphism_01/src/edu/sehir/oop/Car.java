@@ -8,8 +8,8 @@ public class Car extends Vehicle{
         numberofcars++;
     }
     public void move(){
-        //releaseHandBrake();
-        //pressGasPedal();
+        releaseHandBrake();
+        pressGasPedal();
         System.out.println("car is faster than motorbike");
     }
 

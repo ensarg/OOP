@@ -1,5 +1,5 @@
 package tr.edu.sehir.opp;
-public class Mammal implements Animal {
+public class Mammal implements Animal  {
     private float weight;
     public void Mammal(float w){
         weight=w;

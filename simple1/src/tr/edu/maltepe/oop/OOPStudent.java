@@ -2,7 +2,6 @@ package tr.edu.maltepe.oop;
 
 public class OOPStudent extends Student {
 
-
     public void learnJava(){
 
         System.out.println(" OOP student learns java ");
@@ -13,7 +12,6 @@ public class OOPStudent extends Student {
         System.out.println(" OOP student learns java using the book "+ bookname);
 
     }
-
 
     public void readBook(JavaBook abook){
 

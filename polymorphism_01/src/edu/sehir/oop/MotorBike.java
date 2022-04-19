@@ -7,10 +7,12 @@ public class MotorBike extends Vehicle {
         numberofmotorbikes++;
     }
     public void move(){
+
         System.out.println("MotorBike can move and accelerate too!!");
     }
 
-    public static int getNumberofmotorbikes(){return  numberofmotorbikes;}
+    public static int getNumberofmotorbikes(){
+        return  numberofmotorbikes;}
 
 
 }

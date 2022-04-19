@@ -4,6 +4,7 @@ public class Counter {
          private static int c = 0;
 
         public   synchronized void   increment() {
+
             c++;
         }
 

@@ -3,7 +3,7 @@ package tr.edu.sehir.oop;
 public class EncapsDemo1 {
 
     private int tckn;
-    private String empName;
+     String empName;
     private int empAge;
 
     //Getter and Setter methods

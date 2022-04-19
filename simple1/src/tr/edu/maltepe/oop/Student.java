@@ -10,23 +10,21 @@ public class Student {
     }
 
     public Student(String stdname){
-
-        name=stdname;
-
+        this.name=stdname;
     }
 
-    public Student(int id){
+    public void Student(int id){
         stdid =id;
     }
 
-    int getId(){
+    public int getId(){
         return stdid;
     }
 
-    String gretName(){
+    public String getName(){
         return name;
     }
-    void setId(int id){
+    public void setId(int id){
         stdid =id;
     }
 

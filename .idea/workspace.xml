@@ -1,16 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="makeup exam Queue">
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueueA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeup_exam_01/src/QueueEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple2/src/simple2Main.java" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="simple example">
+      <change afterPath="$PROJECT_DIR$/java-tetris" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tetris/java-tetris.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/MaltepeLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/simple2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/doSport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/simple2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris3/tetris_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/TetrisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/BoardCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/EmptyBoardCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/FilledBoardCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/board/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/Tetromino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/TetrominoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/TetrominoDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/logic/tetromino/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/PeriodicTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/util/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/BlankGameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/GraphicGameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/src/hu/klenium/tetris/view/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_1/tetris_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_2/src/tr/edu/maltepe/oop/Tetris2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris_2/tetris_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/FixedCapacityQueueB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/genericQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/genericQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makeup_exam_01/src/makeup_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/makeup_exam_01/src/makeup_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation_01/src/tr/edu/sehir/oop/EncapsulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-tetris/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-tetris/src/game/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/JavaBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/JavaBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/OOPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/OOPStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simple1/tr/edu/maltepe/oop/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/JavaBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/JavaBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/simpleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/OOPStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/OOPStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple2/src/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple2/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple2/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple2/src/simple2Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -30,16 +89,19 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-tetris" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -61,7 +123,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.makeup_01">
+  <component name="RunManager" selected="Application.java-tetris">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -75,6 +137,13 @@
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.MainBW3b" />
       <module name="ballGame3b" />
       <option name="PROGRAM_PARAMETERS" value="computer2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ball_game2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallWorld2" />
+      <module name="ballGame2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -255,6 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java-tetris" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
+      <module name="java-tetris" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="makeup_01" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -288,6 +364,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="simple1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.simpleMain" />
+      <module name="simple1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simple2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="simple2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simple2b" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.simple2Main" />
+      <module name="simple2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="singleton" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testSingleton" />
       <module name="singleton" />
@@ -304,11 +406,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tetris1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hu.klenium.tetris.Main" />
+      <module name="tetris_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tetris2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Tetris2Main" />
+      <module name="tetris_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_ex1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex1" />
+      <module name="thread01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_ex2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex2" />
+      <module name="thread02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_ex3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Thread_Ex3" />
+      <module name="thread03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.array1" />
       <item itemvalue="Application.ballGame3b" />
       <item itemvalue="Application.ballgame1" />
       <item itemvalue="Application.ballgame3" />
+      <item itemvalue="Application.java-tetris" />
       <item itemvalue="Application.borderWindowDecorator" />
       <item itemvalue="Application.calendarexample" />
       <item itemvalue="Application.class_loader_01" />
@@ -323,6 +465,10 @@
       <item itemvalue="Application.echo_client" />
       <item itemvalue="Application.echo_server" />
       <item itemvalue="Application.encapsulation01" />
+      <item itemvalue="Application.simple1" />
+      <item itemvalue="Application.tetris1" />
+      <item itemvalue="Application.tetris2" />
+      <item itemvalue="Application.simple2" />
       <item itemvalue="Application.exception_handling_01" />
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.iterator2" />
@@ -335,7 +481,12 @@
       <item itemvalue="Application.classloader01" />
       <item itemvalue="Application.classloaderexam" />
       <item itemvalue="Application.testPolymorphism_1" />
+      <item itemvalue="Application.thread_ex1" />
+      <item itemvalue="Application.thread_ex2" />
+      <item itemvalue="Application.thread_ex3" />
+      <item itemvalue="Application.ball_game2" />
       <item itemvalue="Application.makeup_01" />
+      <item itemvalue="Application.simple2b" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -373,7 +524,23 @@
       <workItem from="1643879046787" duration="11403000" />
       <workItem from="1643972485233" duration="6154000" />
       <workItem from="1646134772032" duration="112000" />
-      <workItem from="1646733903374" duration="953000" />
+      <workItem from="1646733903374" duration="1913000" />
+      <workItem from="1646736862407" duration="267000" />
+      <workItem from="1647245260936" duration="3645000" />
+      <workItem from="1647352908671" duration="33000" />
+      <workItem from="1647355663510" duration="190000" />
+      <workItem from="1647850960953" duration="5680000" />
+      <workItem from="1647956555539" duration="996000" />
+      <workItem from="1647964399630" duration="571000" />
+      <workItem from="1647965342732" duration="1150000" />
+      <workItem from="1648454774483" duration="5487000" />
+      <workItem from="1648634072733" duration="3625000" />
+      <workItem from="1649061036591" duration="132000" />
+      <workItem from="1649065074101" duration="2723000" />
+      <workItem from="1649086608167" duration="1485000" />
+      <workItem from="1650273029299" duration="2416000" />
+      <workItem from="1650276576228" duration="334000" />
+      <workItem from="1650364588559" duration="689000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -641,7 +808,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643903418067</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="simple example">
+      <created>1646734877315</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1646734877315</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,7 +834,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="babstract factory" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="abstract factory updated" />
     <MESSAGE value="car decorator and class  loader" />
     <MESSAGE value="new modules" />
@@ -685,7 +859,8 @@
     <MESSAGE value="ballworld3 and ballworld3b are seperated" />
     <MESSAGE value="make up exam Queue" />
     <MESSAGE value="makeup exam Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="makeup exam Queue" />
+    <MESSAGE value="simple example" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -14,6 +14,7 @@ package tr.edu.sehir.basics;
         }
 
         public double getArea(){
+
             return Math.PI*this.radius*this.radius;
         }
 

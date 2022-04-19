@@ -1,20 +1,30 @@
 package tr.edu.maltepe.oop;
 
-public class Main {
+public class simpleMain {
 
     public static void main(String[] args) {
 
-
-
         int x;
         OOPStudent s1,s2;
-        JavaBook ajavabook;
+        JavaBook ajavabook, anotherjavabook;
+        MaltepeLibrary mylib;
 
-        ajavabook = new JavaBook("name of the book");
+        mylib =new MaltepeLibrary();
+
+        ajavabook = new JavaBook("essential java",500);
+        anotherjavabook = new JavaBook("intro java prog",300);
+
+        mylib.add_book(ajavabook);
+        mylib.add_book(anotherjavabook);
+
+        mylib.list_books();
+
 
         s1= new OOPStudent();
 
         s1.readBook(ajavabook);
+
+
 
 
 /*
