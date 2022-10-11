@@ -173,9 +173,14 @@ public class Game implements Runnable{
 				e.printStackTrace();
 				break;
 			}
-
+            //if (this.field.doesPieceTouchesTop(this.currentPiece))  ??? check this method, implementation wrong
+			//	setRunning(false);
 			this.tick();
 			this.render();
+
+			//if (this.field.doesPieceTouchesTop(this.currentPiece)){
+			//	this.setRunning(false);
+			//}
 		}
 	}
 	public void start(){
@@ -195,7 +200,7 @@ public class Game implements Runnable{
 		// get next piece
 		Piece nextPiece = this.getNextPiece();				
 		// move it to the staring position of the field
-		nextPiece.movePieceToStartingPoing();									
+		nextPiece.movePieceToStartingPoint();
 		// assign the current piece to be the old next piece
 		this.setCurrentPiece(nextPiece);				
 		// create new next piece

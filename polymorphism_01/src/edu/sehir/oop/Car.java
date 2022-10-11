@@ -7,6 +7,12 @@ public class Car extends Vehicle{
         System.out.println("car is produced");
         numberofcars++;
     }
+    public Car(String car_plate){
+        super(car_plate);
+        numberofcars++;
+        System.out.println("car is produced with number_plate");
+    }
+
     public void move(){
         releaseHandBrake();
         pressGasPedal();

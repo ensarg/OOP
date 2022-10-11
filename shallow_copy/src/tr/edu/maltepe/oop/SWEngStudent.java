@@ -1,8 +1,5 @@
 package tr.edu.maltepe.oop;
 public class SWEngStudent implements Cloneable{
-
-
-
         int stdId;
         String studentName;
         SWEngCourse swengcourses;

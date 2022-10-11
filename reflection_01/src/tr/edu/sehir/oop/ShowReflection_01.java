@@ -16,7 +16,7 @@ public class ShowReflection_01 {
 
 
     }
-
+     //tr.edu.sehir.oop.reflectionTest
     public void DumpMethods(String aclass) {
 
         try {
@@ -35,9 +35,9 @@ public class ShowReflection_01 {
             System.out.println("Canonical name is: "+ c.getCanonicalName() );
             //System.out.println("package name name is: "+ c.getPackageName() );
 
-
+            /*
             System.out.println("we can also invoke methods ");
-
+            //reflectionTest ob1 = new reflectionTest();
             Object ob = c.getDeclaredConstructor().newInstance();
             //printClassName(ob);
 
@@ -45,8 +45,12 @@ public class ShowReflection_01 {
                 String mname = m.getName();
                 System.out.println("method -->" +mname);
                 m.invoke(ob);
+                // ob1.addIntegers()
+                //ob1.multiplyIntegers()
 
             }
+
+          */
 /*
             for (int i = 0; i < all_m.length; i++) {
                 //Method amethod= c.getMethod(all_m[i].getName());

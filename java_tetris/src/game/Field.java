@@ -11,6 +11,8 @@ public class Field {
 	private static final Color[] FIELD_COLORS = { Color.RED, Color.LIGHT_GRAY, Color.MAGENTA, Color.PINK, Color.GREEN,
 			Color.ORANGE, Color.CYAN };
 
+	private  int score=0;
+
 	private FieldSquare[][] field;
 	private Color[][] fieldColor;
 	private Random random;
@@ -61,6 +63,8 @@ public class Field {
 	}
 
 	public void render(Graphics g) {
+		g.drawRect(300,550,120,50);
+		g.drawString(" "+score,350,580);
 		for (int row = 0; row < field.length; row++) {
 			for (int col = 0; col < field[row].length; col++) {
 				if (this.field[row][col].equals(FieldSquare.EMPTY)) {
@@ -71,9 +75,14 @@ public class Field {
 					g.fillRect(col * 30, row * 30, 30, 30);
 					g.setColor(Color.WHITE);				
 					g.drawRect(col * 30, row * 30, 30, 30);
-				}				
+				}
+
+
 			}
+
+
 		}
+
 	}
 
 	public boolean isPieceFallen(Piece piece) {
@@ -170,6 +179,25 @@ public class Field {
 
 		return false;
 	}
+    // not working
+	public boolean doesPieceTouchesTop(Piece piece) {
+		int pieceX = piece.getX();
+		int pieceY = piece.getY();
+
+		PieceShape pieceShape = piece.getShape();
+		int pieceHeight = pieceShape.getHeight();
+		int pieceWidth = pieceShape.getWidth();
+
+		for (int row = 0; row < pieceHeight; row++) {
+			for (int col = 0; col < pieceWidth; col++) {
+				if (pieceShape.isPieceBrick(row, col) &&  ((pieceY+row) == 0)) {
+					return true;
+				}
+			}
+		}
+
+		return false;
+	}
 
 	public boolean isPieceOut(Piece piece) {
 		int pieceX = piece.getX();
@@ -221,6 +249,8 @@ public class Field {
 
 			if (isFullRow) {
 				this.shiftRows(row);
+				score++;
+				System.out.println("score:"+ score);
 			}
 		}
 	}

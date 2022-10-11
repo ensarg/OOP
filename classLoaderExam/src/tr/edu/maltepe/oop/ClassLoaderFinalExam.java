@@ -1,8 +1,6 @@
 package tr.edu.maltepe.oop;
-
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
-
 
 public class ClassLoaderFinalExam extends ClassLoader{
 
@@ -18,14 +16,15 @@ public class ClassLoaderFinalExam extends ClassLoader{
             System.out.println("Loaded class name: " + loadedMyClass.getName());
 
             Constructor<?> constructor = loadedMyClass.getConstructor();
-            System.out.println("Constructor: " + constructor);
+            //System.out.println("Constructor: " + constructor);
 
             myClassObject = constructor.newInstance();
 
             Method mm[] = loadedMyClass.getDeclaredMethods();
 
             System.out.println(mm[0].invoke(myClassObject));
-            System.out.println(mm[1].invoke(myClassObject,3,5));
+            //System.out.println(mm[1].invoke(myClassObject));
+            //System.out.println(mm[1].invoke(myClassObject, 3,5));
 
 
         } catch (ClassNotFoundException e) {

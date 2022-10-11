@@ -9,8 +9,7 @@ public class GenericBox<T> {
 
     void genericDisplay (T element)
     {
-        System.out.println("element is: " +
-                element);
+        System.out.println("element is: " + element);
     }
 
 

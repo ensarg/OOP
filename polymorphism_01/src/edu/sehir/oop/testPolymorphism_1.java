@@ -21,12 +21,12 @@ public class testPolymorphism_1 {
         */
 
 
-        for (int i=0; i< rand.nextInt(10);i++) {
+        for (int i=0; i< rand.nextInt(20);i++) {
             int r=rand.nextInt(2);
             if (r==0)
-                v.add(new MotorBike());
+                v.add(new MotorBike(" 34 Motorbike "+i));
             else if (r==1)
-                v.add(new Car());
+                v.add(new Car(" 34 Car "+i));
             else
                 System.out.println("\nimpsosible case");
 
@@ -37,11 +37,20 @@ public class testPolymorphism_1 {
         System.out.println("\nmotorbike count:"+MotorBike.getNumberofmotorbikes());
         System.out.println("\nvehicle count:"+Vehicle.getVehiclecount());
 
+
+
+        for (int i=0;i < v.size();i++) {
+
+            vh =  (Vehicle)v.get(i);
+            vh.printVehiclePlate();
+        }
+
+        /*
         for (int i=0;i < v.size();i++) {
 
             vh =  (Vehicle)v.get(i);
             vh.move();
         }
-
+      */
     }
 }

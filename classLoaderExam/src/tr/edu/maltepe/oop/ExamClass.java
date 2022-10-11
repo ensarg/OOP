@@ -6,6 +6,8 @@ public class ExamClass {
 
     public String sayMerhaba() {  return "Merhaba from the exam class !!";  }
 
+    public String sayHello() {  return "Hello from the exam class !!";  }
+
     public int calculate_example(int x, int y) {
         return x*y;
     }

@@ -3,7 +3,6 @@ package tr.edu.sehir.oop;
 public class SWEngStudent implements Cloneable{
 
 
-
         int stdId;
         String studentName;
         SWEngCourse swengcourses;

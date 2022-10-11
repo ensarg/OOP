@@ -71,7 +71,7 @@ public class Piece {
 		this.shape.undoRotate();
 	}
 
-	public void movePieceToStartingPoing() {
+	public void movePieceToStartingPoint() {
 		this.setX(Game.STARTING_PIECE_X);
 		this.setY(Game.STARTING_PIECE_Y);
 	}

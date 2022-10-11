@@ -54,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/shallow_copy/shallow_copy.iml" filepath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple1/simple1.iml" filepath="$PROJECT_DIR$/simple1/simple1.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple2/simple2.iml" filepath="$PROJECT_DIR$/simple2/simple2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple3/simple3.iml" filepath="$PROJECT_DIR$/simple3/simple3.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_1/tetris_1.iml" filepath="$PROJECT_DIR$/tetris_1/tetris_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_2/tetris_2.iml" filepath="$PROJECT_DIR$/tetris_2/tetris_2.iml" />

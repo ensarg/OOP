@@ -6,7 +6,6 @@ public class Test2 {
     int y;
 
 
-
     public void addnumbers(){
 
         int z;

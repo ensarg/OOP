@@ -10,7 +10,6 @@ public class ShallowCopyTest {
         SWEngStudent std1 = new SWEngStudent(2019123, "Ahmet", courses);
 
         SWEngStudent std2 = null;
-
         /*
         std2=std1;
 
@@ -37,7 +36,7 @@ public class ShallowCopyTest {
         System.out.println(std2.swengcourses.course2);
 
         //Changing the course3 of 'student 22'
-        std2.studentName="Mehmet";
+        std2.studentName="Ecem";
         std2.swengcourses.course2 = "Physics";
 
         //This change will be reflected in original stdudent1'
@@ -46,15 +45,12 @@ public class ShallowCopyTest {
         System.out.println(std1.swengcourses.course1);
         System.out.println(std1.swengcourses.course2);
 
-       */
+*/
 
         System.out.println("\n---------------------------------------------------- ");
 
-
-        try
-        {
+        try {
             //Creating a clone of learner1 and assigning it to learner2
-
             std2 = (SWEngStudent) std1.clone();
         }
         catch (CloneNotSupportedException e)
@@ -69,7 +65,7 @@ public class ShallowCopyTest {
         System.out.println("Course name: "+std1.swengcourses);
 
         //Printing all the courses of 'student1'
-        System.out.println("Courses of stdudent 1: ");
+        System.out.println("Courses of student 1: ");
         System.out.println(std1.swengcourses.course1);
         System.out.println(std1.swengcourses.course2);
 
@@ -86,12 +82,12 @@ public class ShallowCopyTest {
 
 
         //Changing the course3 of 'student 22'
-        std2.studentName="Mehmet";
+        std2.studentName="Ecem";
         std2.swengcourses.course2 = "Physics";
 
         //This change will be reflected in original stdudent1'
         System.out.println("Updated names and courses :");
-        System.out.println("stdudent 1 name: "+std1.studentName);
+        System.out.println("student 1 name: "+std1.studentName);
         System.out.println("stdudent 2 name: "+std2.studentName);
         System.out.println(std1.swengcourses.course1);
         System.out.println(std1.swengcourses.course2);

@@ -90,7 +90,6 @@ public class DeepCopy {
         std2.studentName="Mehmet";
        // std2.swengcourses.course1 = "data structures";
         std2.swengcourses.course2 = "Physics";
-
         std1.swengcourses.course1="probability ";
 
         //This change will be reflected in original stdudent1'

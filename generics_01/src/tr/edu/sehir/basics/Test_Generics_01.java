@@ -7,36 +7,38 @@ public class Test_Generics_01 {
     public static void main(String[] args) {
 
     //section 1
-        /*
-        ArrayList<Integer> list = new ArrayList<Integer>();
+      /*
+        ArrayList<String > list = new ArrayList<String >();
 
-        //list.add("xyzxghfhgfghf");
-        //list.add("mnbbvvcxz");
-        //list.add("gfgfffjjfjfjj");
-        //list.add("opp class");
-        list.add(32);//
-        list.add(45);
-        list.add(50);
+        list.add("xyzxghfhgfghf");
+        list.add("mnbbvvcxz");
+        list.add("gfgfffjjfjfjj");
+        list.add("opp class");
+        */
 
-       // String s = list.get(1);//type casting is not required
-        //System.out.println("element is: " + s);
+     //   list.add(32);
+     //   list.add(45);
+     //   list.add(50);
 
+       //String s = list.get(1);//type casting is not required
+        // System.out.println("element is: " + s);
+/*
         System.out.println("elements of arraylist list are: " );
 
-        Iterator<Integer> itr = list.iterator();
+        Iterator<String> itr = list.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
-       */
+      */
       //end of section 1-------------------------------------------------------------------------
 
         //section 2
 
-        /*
+      /*
         Map<Integer,String> map=new HashMap<Integer,String>();
         map.put(1,"ali");
         map.put(4,"veli");
-        map.put(2,34);//compile error
+     //   map.put(2,34);//compile error
 
         //Now use Map.Entry for Set and Iterator
         Set<Map.Entry<Integer,String>> set=map.entrySet();
@@ -47,18 +49,18 @@ public class Test_Generics_01 {
             System.out.println(e.getKey()+" "+e.getValue());
         }
 
-    */
+     */
 
         //end of section 2--------------------------------------------------------------------
 
 
         //section 3
 
-/*
+     /*
 
         GenericBox <Integer> m=new GenericBox<Integer>();
         m.set(2);
-       //m.set("etcjkjh");//Compile time error
+        m.set("etcjkjh");//Compile time error
         System.out.println(m.get());
         m.genericDisplay(m.get());
 */
@@ -66,7 +68,7 @@ public class Test_Generics_01 {
 
         //section 4
 
-/*
+        /*
         GenericBox2 <String, String> obj =
                 new GenericBox2<String, String>("ensar", "GUL");
 
@@ -89,13 +91,13 @@ public class Test_Generics_01 {
 
         obj3.genericDisplay(obj3.get());
 
-*/
+        */
         // end of section 4----------------------------------------------------------------------------
 
         // section 5
         // not using generics may cause run time exceptions
 
-/*
+        /*
         ArrayList al = new ArrayList();
 
         al.add("Ahmet");
@@ -108,13 +110,13 @@ public class Test_Generics_01 {
         // Causes Runtime Exception
         String s3 = (String)al.get(2);
 
-       */
+*/
 
        //end of section 5-------------------------------------------------------------
 
         // section 6
-/*
 
+        /*
         // Creating a an ArrayList with String specified
         ArrayList <String> al2 = new ArrayList<String> ();
 
@@ -122,22 +124,23 @@ public class Test_Generics_01 {
         al2.add("yazıyor işte    ");
 
         // Now Compiler doesn't allow this
-        al2.add(10);
+       // al2.add(10);
 
         String s1 = (String)al2.get(0);
         String s2 = (String)al2.get(1);
-        String s3 = (String)al2.get(2);
-        System.out.println(s1 +s2+ s3);
+       // String s3 = (String)al2.get(2);
+        System.out.println(s1 +s2);
 
-*/
+       */
         //end of section 6--------------------------------------------------------------------------------------
 
         // section 7
 
-/*
+
         // We don't need to typecast individual members of ArrayList
 
         // Creating a an ArrayList with String specified
+       /*
         ArrayList <String> al3 = new ArrayList<String> ();
 
         al3.add("Ahmet  ");
@@ -148,12 +151,12 @@ public class Test_Generics_01 {
         String s2 = al3.get(1);
 
         System.out.println(s1 +s2);
-*/
+       */
         //end of section 7------------------------------------------------------------------------
 
         // section 8
-        /*
 
+        /*
         //invoking generic method, try different keys and values
         Pair<Integer, String> p1 = new Pair<>(1, "apple");
         Pair<Integer, String> p2 = new Pair<>(2, "apple");
@@ -171,25 +174,25 @@ public class Test_Generics_01 {
 
         System.out.println("\n-------------------------------------------------------------------------\n");
 
-        Pair<String, String> p5 = new Pair<>("ahmet", "mehmet  ...     gkjhjl kljhl");
-        Pair<String, String> p6 = new Pair<>("ahmet", "mehmet  ..     gkjhjl kljhl");
+        Pair<String, String> p5 = new Pair<>("ahmet", "mehmet");
+        Pair<String, String> p6 = new Pair<>("ahmet", "mehmet.  ");
         boolean same3 = GUtility.<String, String>compare(p5, p6);
 
         System.out.println("\npairs are equal? "+same3);
 
-*/
 
+        */
         //end of section 8-------------------------------------------------------------
 
         // section 9
         //print an array of different type using a single Generic method printArray
+       /*
+        Book b1=new Book(113,"OOPogrammimg");
+        Book b2 =new Book(114, "Programming in Java");
 
-        //Book b1=new Book(113,"OOPogrammimg");
-       // Book b2 =new Book(114, "Programming in Java");
-
-       // Book [] bookArray={b1,b2};
-
-
+        Book [] bookArray={b1,b2};
+*/
+/*
         Integer[] intArray = { 1, 2, 3, 4, 5 };
 
         Double[] doubleArray = { 1.1, 2.2, 3.3, 4.4 };
@@ -205,9 +208,9 @@ public class Test_Generics_01 {
         System.out.println("\nArray characterArray contains:");
         PrintA.printArray(charArray);   // pass a Character array
 
-
-       // System.out.println("\nArray bookArray  contains:");
-       // PrintA.printArray(bookArray);   // pass objects
+*/
+  //     System.out.println("\nArray bookArray  contains:");
+  //      PrintA.printArray(bookArray);   // pass objects
 
 
         //end of section 9----------------------------------------------------------------------------------
