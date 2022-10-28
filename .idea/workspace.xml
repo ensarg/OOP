@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="java_tetris">
-      <change afterPath="$PROJECT_DIR$/Echo.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple3/simple3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple3/src/Simple3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Inheritance_Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ClassLoaderFinalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ClassLoaderFinalExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ExamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoaderExam/src/tr/edu/maltepe/oop/ExamClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/GenericBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_tetris/src/game/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tetris/src/game/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_tetris/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tetris/src/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_tetris/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tetris/src/game/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_tetris/src/piece/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tetris/src/piece/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/ShallowCopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/ShallowCopyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Inheritance_Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple3/src/Simple3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple3/src/Simple3Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +63,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.simple3">
+  <component name="RunManager" selected="Application.inheritance_ex1">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -290,6 +265,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritance_ex1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Inheritance_Example" />
+      <module name="inheritanceEx1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="iterator2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
       <module name="iterator2" />
@@ -365,15 +349,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simple3" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Simple3Main" />
-      <module name="simple3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="singleton" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testSingleton" />
       <module name="singleton" />
@@ -439,7 +414,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.simple3" />
+      <item itemvalue="Application.inheritance_ex1" />
       <item itemvalue="Application.array1" />
       <item itemvalue="Application.ballGame3b" />
       <item itemvalue="Application.ballgame1" />
@@ -549,6 +524,12 @@
       <workItem from="1655723032364" duration="2506000" />
       <workItem from="1664953504911" duration="3054000" />
       <workItem from="1665041003164" duration="1677000" />
+      <workItem from="1665472735330" duration="1064000" />
+      <workItem from="1665478344284" duration="818000" />
+      <workItem from="1665480793889" duration="643000" />
+      <workItem from="1665481807506" duration="560000" />
+      <workItem from="1666081487329" duration="2128000" />
+      <workItem from="1666681632860" duration="5483000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -837,7 +818,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650382400840</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="java_tetris">
+      <created>1665472962076</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1665472962076</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

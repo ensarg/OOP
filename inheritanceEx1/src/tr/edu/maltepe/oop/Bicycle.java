@@ -1,13 +1,11 @@
-package tr.edu.sehir;
+package tr.edu.maltepe.oop;
 
 public class Bicycle {
 
     // the Bicycle class has two fields
 
-     int gear;
-     int speed;
-
-    // the Bicycle class has two constructors
+     private int gear;
+     private int speed;
 
     public Bicycle( int startSpeed, int startGear) {
         gear = startGear;
@@ -15,11 +13,16 @@ public class Bicycle {
     }
 
 
-
-    // the Bicycle class has three methods
-
     public void setGear(int newValue) {
         gear = newValue;
+    }
+
+    public int getGear() {
+        return gear;
+    }
+
+    public int getSpeed() {
+        return speed;
     }
 
     public void applyBrake(int decrement) {
@@ -28,6 +31,6 @@ public class Bicycle {
 
     public void speedUp(int increment) {
         speed += increment;
-        System.out.println("new speed " +speed);
+        System.out.println("bike: new speed " +speed);
     }
 }

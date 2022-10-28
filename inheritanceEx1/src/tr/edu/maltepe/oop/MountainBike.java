@@ -1,9 +1,9 @@
-package tr.edu.sehir;
+package tr.edu.maltepe.oop;
 
 public class MountainBike extends Bicycle{
 
     // the MountainBike subclass adds one field
-    public int seatHeight;
+    private int seatHeight;
 
     // the MountainBike subclass has one constructor
     public MountainBike(int startHeight,
@@ -13,18 +13,18 @@ public class MountainBike extends Bicycle{
         seatHeight = startHeight;
     }
 
-    // the MountainBike subclass adds one method
     public void setHeight(int newValue) {
         seatHeight = newValue;
     }
 
-    public void printH(){
-        System.out.println("Bike H:"+seatHeight);
-
+    public void printBikeProperties(){
+        System.out.println("Bike H:"+seatHeight+"gear:"+getGear());
     }
 
     public void speedUp(int increment) {
-        speed = speed + 2*increment;
-        System.out.println("new speed mountain bike " +speed);
+        int tempsps = getSpeed();
+
+        tempsps = tempsps + 2*increment;
+        System.out.println("mountain bike: new speed " +tempsps);
     }
 }
