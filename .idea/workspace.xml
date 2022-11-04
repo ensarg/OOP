@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="java_tetris">
-      <change afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Inheritance_Example.java" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="java tetris unmodified">
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface02/interface02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_h1/simple_h1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/Inheritance_Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/sehir/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/MountainBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple3/src/Simple3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple3/src/Simple3Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/basics/myShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/myShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/MaltepeLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/MaltepeLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/simpleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple1/src/tr/edu/maltepe/oop/simpleMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -63,7 +71,7 @@
       <recent name="$PROJECT_DIR$/calenderexample/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.inheritance_ex1">
+  <component name="RunManager" selected="Application.java_tetris">
     <configuration name="array1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -265,11 +273,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritance_ex1" type="Application" factoryName="Application">
+    <configuration name="interface_02" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Inheritance_Example" />
-      <module name="inheritanceEx1" />
+      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
+      <module name="java-tetris-unmodified" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -414,7 +422,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.inheritance_ex1" />
+      <item itemvalue="Application.interface_02" />
       <item itemvalue="Application.array1" />
       <item itemvalue="Application.ballGame3b" />
       <item itemvalue="Application.ballgame1" />
@@ -529,7 +537,12 @@
       <workItem from="1665480793889" duration="643000" />
       <workItem from="1665481807506" duration="560000" />
       <workItem from="1666081487329" duration="2128000" />
-      <workItem from="1666681632860" duration="5483000" />
+      <workItem from="1666681632860" duration="6595000" />
+      <workItem from="1667280545294" duration="115000" />
+      <workItem from="1667280699629" duration="6396000" />
+      <workItem from="1667294816919" duration="599000" />
+      <workItem from="1667303001434" duration="617000" />
+      <workItem from="1667471772594" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -825,7 +838,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665472962076</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="byüicycle example update">
+      <created>1666950149792</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950149792</updated>
+    </task>
+    <task id="LOCAL-00044" summary="java tetris unmodified">
+      <created>1667303488790</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1667303488790</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -845,8 +872,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new modules" />
-    <MESSAGE value="ball game updatr" />
     <MESSAGE value="array1 package" />
     <MESSAGE value="calendar ??" />
     <MESSAGE value="class loder 1" />
@@ -870,7 +895,9 @@
     <MESSAGE value="simple example" />
     <MESSAGE value="java tetris" />
     <MESSAGE value="java_tetris" />
-    <option name="LAST_COMMIT_MESSAGE" value="java_tetris" />
+    <MESSAGE value="byüicycle example update" />
+    <MESSAGE value="java tetris unmodified" />
+    <option name="LAST_COMMIT_MESSAGE" value="java tetris unmodified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

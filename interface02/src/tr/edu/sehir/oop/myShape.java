@@ -1,4 +1,4 @@
-package tr.edu.sehir.basics;
+package tr.edu.sehir.oop;
 
 public interface myShape {
 
@@ -6,7 +6,7 @@ public interface myShape {
     public String LABLE="Shape";
 
     //interface methods are implicitly abstract and public
-    void draw();
+   public void draw();
 
     double getArea();
 }

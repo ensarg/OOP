@@ -1,4 +1,4 @@
-package tr.edu.sehir.basics;
+package tr.edu.sehir.oop;
 
 public class Main {
 
@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Area="+c.getArea());
 
         //switching from one implementation to another easily
-        shape=new Rectangle(10,10);
+        Rectangle shape=new Rectangle(10,10);
         shape.draw();
         System.out.println("Area="+shape.getArea());
     }
