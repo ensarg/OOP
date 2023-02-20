@@ -7,34 +7,33 @@ public class Test_Generics_01 {
     public static void main(String[] args) {
 
     //section 1
-      /*
+    /*
         ArrayList<String > list = new ArrayList<String >();
 
         list.add("xyzxghfhgfghf");
         list.add("mnbbvvcxz");
         list.add("gfgfffjjfjfjj");
-        list.add("opp class");
-        */
+        list.add("oop class");
 
-     //   list.add(32);
+     // list.add(32);
      //   list.add(45);
      //   list.add(50);
 
-       //String s = list.get(1);//type casting is not required
+       String s = list.get(1);//type casting is not required
         // System.out.println("element is: " + s);
-/*
+
         System.out.println("elements of arraylist list are: " );
 
         Iterator<String> itr = list.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
-      */
+       */
       //end of section 1-------------------------------------------------------------------------
 
         //section 2
+       /*
 
-      /*
         Map<Integer,String> map=new HashMap<Integer,String>();
         map.put(1,"ali");
         map.put(4,"veli");
@@ -55,15 +54,14 @@ public class Test_Generics_01 {
 
 
         //section 3
-
-     /*
+      /*
 
         GenericBox <Integer> m=new GenericBox<Integer>();
         m.set(2);
-        m.set("etcjkjh");//Compile time error
+       // m.set("etcjkjh");//Compile time error
         System.out.println(m.get());
         m.genericDisplay(m.get());
-*/
+      */
         //end of section 3 ---------------------------------------------------------------------------------
 
         //section 4
@@ -110,8 +108,8 @@ public class Test_Generics_01 {
         // Causes Runtime Exception
         String s3 = (String)al.get(2);
 
-*/
 
+        */
        //end of section 5-------------------------------------------------------------
 
         // section 6
@@ -140,7 +138,7 @@ public class Test_Generics_01 {
         // We don't need to typecast individual members of ArrayList
 
         // Creating a an ArrayList with String specified
-       /*
+        /*
         ArrayList <String> al3 = new ArrayList<String> ();
 
         al3.add("Ahmet  ");
@@ -151,7 +149,7 @@ public class Test_Generics_01 {
         String s2 = al3.get(1);
 
         System.out.println(s1 +s2);
-       */
+        */
         //end of section 7------------------------------------------------------------------------
 
         // section 8
@@ -191,8 +189,8 @@ public class Test_Generics_01 {
         Book b2 =new Book(114, "Programming in Java");
 
         Book [] bookArray={b1,b2};
-*/
-/*
+        */
+
         Integer[] intArray = { 1, 2, 3, 4, 5 };
 
         Double[] doubleArray = { 1.1, 2.2, 3.3, 4.4 };
@@ -208,7 +206,7 @@ public class Test_Generics_01 {
         System.out.println("\nArray characterArray contains:");
         PrintA.printArray(charArray);   // pass a Character array
 
-*/
+
   //     System.out.println("\nArray bookArray  contains:");
   //      PrintA.printArray(bookArray);   // pass objects
 

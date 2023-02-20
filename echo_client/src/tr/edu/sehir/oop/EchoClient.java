@@ -22,14 +22,14 @@ public class EchoClient {
 
         try (
 
-            Socket socket = new Socket(/*hostname*/"192.168.114.248", portNumber);
+            Socket socket = new Socket(/*hostname*/"192.168.112.246", portNumber);
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader( socket.getInputStream()));
             BufferedReader stdin = new BufferedReader(new InputStreamReader((System.in)));
            )  {
             String userInput;
             System.out.println("type a sentence and press enter");
-            while((userInput =stdin.readLine())!="."){
+            while(!((userInput =stdin.readLine()).equals("."))){
                 out.println(userInput);
                 System.out.println("echo: "+ in.readLine());
                // System.out.println("echo2: " + in.readLine());

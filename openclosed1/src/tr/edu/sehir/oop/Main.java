@@ -7,10 +7,10 @@ public class Main {
         SoundManager1 s1 = new SoundManager1();
         Cat c1 = new Cat();
         Dog d1 = new Dog();
-       // Bird b1 = new Bird();
+       Bird b1 = new Bird();
         s1.add(c1);
         s1.add(d1);
-       // s1.add(b1);
+        s1.add(b1);
         s1.makeSound();
 
         //-----------------------

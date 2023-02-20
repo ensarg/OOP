@@ -10,18 +10,18 @@ public class testSingleton {
 
          //classic singleton
 
-       //  ClassicSingleton s1, s2;
-/*
+         ClassicSingleton s1, s2;
+
          s1=ClassicSingleton.getInstance();
          s1.writeName();
-         System.out.println("s1_id " + s1.hashCode());
+         System.out.println("s1_id " + s1);
          System.out.println("instance_counter " + ClassicSingleton.instance_counter);
          s2=ClassicSingleton.getInstance();
          s2.writeName();
-         System.out.println("s2_id " + s2.hashCode());
+         System.out.println("s2_id " + s2);
          System.out.println("instance_counter " + ClassicSingleton.instance_counter);
 
-*/
+
 
         /**
         * better singleton
@@ -36,7 +36,7 @@ public class testSingleton {
         System.out.println("s2_id " + s2.hashCode());
         System.out.println("instance_counter " + Singleton.instance_counter);
 */
-
+       /*
         //not sıngleton
         notSingleton s1, s2;
         s1=notSingleton.getInstance();
@@ -47,7 +47,7 @@ public class testSingleton {
         s2.writeName();
         System.out.println("s2_id " + s2.hashCode());
         System.out.println("instance_counter " + notSingleton.instance_counter);
-
+       */
 
     }
 }

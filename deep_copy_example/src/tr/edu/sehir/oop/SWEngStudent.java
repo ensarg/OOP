@@ -2,7 +2,6 @@ package tr.edu.sehir.oop;
 
 public class SWEngStudent implements Cloneable{
 
-
         int stdId;
         String studentName;
         SWEngCourse swengcourses;
@@ -18,7 +17,6 @@ public class SWEngStudent implements Cloneable{
 
         protected Object clone() throws CloneNotSupportedException
         {
-
             SWEngStudent astd = (SWEngStudent) super.clone();
             astd.swengcourses =(SWEngCourse) swengcourses.clone();
             return astd;

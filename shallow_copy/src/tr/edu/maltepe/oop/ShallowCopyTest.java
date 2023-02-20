@@ -7,7 +7,7 @@ public class ShallowCopyTest {
 
         SWEngCourse courses = new SWEngCourse("OP Sys", "OOP");
 
-        SWEngStudent std1 = new SWEngStudent(2019123, "Ahmet", courses);
+        SWEngStudent std1 = new SWEngStudent(2019123, "Emre", courses);
 
         SWEngStudent std2 = null;
         /*
@@ -15,9 +15,10 @@ public class ShallowCopyTest {
 
         //Printing Details of student1
         System.out.println("Details of Student 1: ");
-        System.out.println("Id: "+std1.stdId);
-        System.out.println("Name: "+std1.studentName);
-        System.out.println("Course name: "+std1.swengcourses);
+        System.out.println("Id: "+std1.getStdId());
+        System.out.println("Name: "+std1.getStudentName());
+        System.out.println("Course name: "+std1.getSwengcourses().getCourse1());
+
 
         //Printing all the courses of 'student1'
         System.out.println("Courses of student 1: ");
@@ -26,27 +27,28 @@ public class ShallowCopyTest {
 
         //Printing Details of student2
         System.out.println("Details of Student 2: ");
-        System.out.println("Id: "+std2.stdId);
-        System.out.println("Name: "+std2.studentName);
-        System.out.println("Course name: "+std2.swengcourses);
+        System.out.println("Id: "+std2.getStdId());
+        System.out.println("Name: "+std2.getStudentName());
+        System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
 
         //Printing all the courses of 'student2'
-        System.out.println("Courses of stdudent 2: ");
-        System.out.println(std2.swengcourses.course1);
-        System.out.println(std2.swengcourses.course2);
+        //System.out.println("Courses of stdudent 2: ");
+        //System.out.println(std2.getStudentName());
+        //System.out.println(std2.getSwengcourses().getCourse2());
+
 
         //Changing the course3 of 'student 22'
-        std2.studentName="Ecem";
-        std2.swengcourses.course2 = "Physics";
+        std2.setStudentName("Gökberk");
+        std2.getSwengcourses().setCourse1( "Physics");
 
         //This change will be reflected in original stdudent1'
         System.out.println("Updated Courses of std1:");
-        System.out.println(std1.studentName);
-        System.out.println(std1.swengcourses.course1);
-        System.out.println(std1.swengcourses.course2);
+        System.out.println(std1.getStudentName());
+        System.out.println(std1.getSwengcourses().getCourse1());
+        System.out.println(std1.getSwengcourses().getCourse2());
 
-*/
 
+        */
         System.out.println("\n---------------------------------------------------- ");
 
         try {
@@ -60,37 +62,36 @@ public class ShallowCopyTest {
 
         //Printing Details of student1
         System.out.println("Details of Student 1: ");
-        System.out.println("Id: "+std1.stdId);
-        System.out.println("Name: "+std1.studentName);
-        System.out.println("Course name: "+std1.swengcourses);
+        System.out.println("Id: "+std1.getStdId());
+        System.out.println("Name: "+std1.getStudentName());
+        System.out.println("Course name: "+std1.getSwengcourses().getCourse1());
+        System.out.println("Course name: "+std1.getSwengcourses().getCourse2());
 
-        //Printing all the courses of 'student1'
-        System.out.println("Courses of student 1: ");
-        System.out.println(std1.swengcourses.course1);
-        System.out.println(std1.swengcourses.course2);
 
         //Printing Details of student2
         System.out.println("Details of Student 2: ");
-        System.out.println("Id: "+std2.stdId);
-        System.out.println("Name: "+std2.studentName);
-        System.out.println("Course name: "+std2.swengcourses);
+        System.out.println("Id: "+std2.getStdId());
+        System.out.println("Name: "+std2.getStudentName());
+        System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
+         System.out.println("Course name: "+std2.getSwengcourses().getCourse2());
 
+        /*
         //Printing all the courses of 'student2'
         System.out.println("Courses of stdudent 2: ");
         System.out.println(std2.swengcourses.course1);
         System.out.println(std2.swengcourses.course2);
-
+        */
 
         //Changing the course3 of 'student 22'
-        std2.studentName="Ecem";
-        std2.swengcourses.course2 = "Physics";
+        std2.setStudentName("Gökberk");
+        std2.getSwengcourses().setCourse1( "Physics");
 
         //This change will be reflected in original stdudent1'
         System.out.println("Updated names and courses :");
-        System.out.println("student 1 name: "+std1.studentName);
-        System.out.println("stdudent 2 name: "+std2.studentName);
-        System.out.println(std1.swengcourses.course1);
-        System.out.println(std1.swengcourses.course2);
+        System.out.println("student 1 name: "+std1.getStudentName());
+        System.out.println("stdudent 2 name: "+std2.getStudentName());
+        System.out.println("std1 course1 "+std1.getSwengcourses().getCourse1());
+        System.out.println("std1 course2 "+std1.getSwengcourses().getCourse2());
 
 
     }

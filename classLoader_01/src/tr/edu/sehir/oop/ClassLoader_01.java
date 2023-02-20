@@ -9,9 +9,10 @@ public class ClassLoader_01 {
 
         Object ob=null;
         CustomClassLoaderDemo loader = new CustomClassLoaderDemo();
-        Class<?> c = loader.findClass("tr.edu.sehir.oop.Test");
+        Class<?> c = loader.findClass("tr.edu.sehir.oop.Test2");
 
-        //Object ob = c.getDeclaredConstructor().newInstance();
+         ob = c.getDeclaredConstructor().newInstance();
+
         Method md[] = c.getDeclaredMethods();
         for (Method m : md ){
             String mname = m.getName();
@@ -19,6 +20,9 @@ public class ClassLoader_01 {
             m.invoke(ob);
 
         }
+
+        Test2 tt = new Test2();
+        tt.addnumbers();
 
     }
 }

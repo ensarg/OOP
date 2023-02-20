@@ -13,9 +13,9 @@ public class ProcessingP implements Runnable {
     public void run() {
 
         try {
-            for(int i = 10; i > 0; i--) {
+            for(int i = 100; i > 0; i--) {
                 mycounter.increment();
-                mycounter.decrement();
+                // mycounter.decrement();
                 // Let the thread sleep for a while.
                 Thread.sleep(3);
             }

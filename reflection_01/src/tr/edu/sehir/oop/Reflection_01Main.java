@@ -7,17 +7,16 @@ public class Reflection_01Main {
     {
         int status=0;
         ShowReflection_01 shr = new ShowReflection_01();
-        /*
+
         if (args.length != 1) {
-            System.out.println("Pls enter name of the class");
+            System.out.println("Pls enter name of the class name");
             System.exit(status);
         }
-       */
-        //System.out.println("arg 0: " +args[0]);
-       //shr.DumpMethods(args[0]);
+        System.out.println("arg 0: " +args[0]);
+       shr.DumpMethods(args[0]);
         //shr.DumpMethods(args[0]);
 
-       shr.DumpMethods("java.lang.String");
+       //shr.DumpMethods("java.lang.String");
       //  shr.printClassName(shr);
 
     }

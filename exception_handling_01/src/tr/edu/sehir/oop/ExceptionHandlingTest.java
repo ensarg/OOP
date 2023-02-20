@@ -6,17 +6,15 @@ public class ExceptionHandlingTest {
         int a = 10;
         int b = 0;
 
-        ExceptionThrown exp= new ExceptionThrown();
+        ExceptionExamples exp= new ExceptionExamples();
 
         try
-        {
+       {
             int result;
             result = exp.computeDivision(a,b);
             System.out.println("the result is: "+ result);
-
         }
-
-        // matching ArithmeticException
+        //matching ArithmeticException
         catch(ArithmeticException ex)
         {
             // getMessage will print description of exception(here / by zero)
@@ -26,16 +24,13 @@ public class ExceptionHandlingTest {
 
         System.out.println("\n**********************************");
 
-
-
+        /*
         try {
 
             exp.arrayBoundtest();
-
         }
         catch (ArrayIndexOutOfBoundsException ax){
-            System.out.println(ax.getMessage());
-
+            System.out.println("printing the error message " +ax.getMessage());
         }
          /*
         catch (java.lang.Exception exc){

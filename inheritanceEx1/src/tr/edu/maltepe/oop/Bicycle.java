@@ -12,7 +12,6 @@ public class Bicycle {
         speed = startSpeed;
     }
 
-
     public void setGear(int newValue) {
         gear = newValue;
     }

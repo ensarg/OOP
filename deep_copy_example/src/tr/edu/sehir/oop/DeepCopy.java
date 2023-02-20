@@ -5,9 +5,9 @@ public class DeepCopy {
     public static void main(String[] args) {
 
 
-        SWEngCourse courses = new SWEngCourse("Digital System Design", "OOP");
+        SWEngCourse courses = new SWEngCourse("OP sys", "OOP");
 
-        SWEngStudent std1 = new SWEngStudent(2019123, "Ahmet", courses);
+        SWEngStudent std1 = new SWEngStudent(2019123, "Emre", courses);
 
         SWEngStudent std2 = null;
 
@@ -50,10 +50,8 @@ public class DeepCopy {
 
         System.out.println("\n---------------------------------------------------- ");
 
-
         try
         {
-
             std2 = (SWEngStudent) std1.clone();
         }
         catch (CloneNotSupportedException e)
@@ -87,10 +85,11 @@ public class DeepCopy {
         System.out.println("\n---------------------------------------------------- ");
         //Changing the course3 of 'student 22'
         std2.stdId=2019456;
-        std2.studentName="Mehmet";
-       // std2.swengcourses.course1 = "data structures";
+        std2.studentName="Gökberk";
+
+        std2.swengcourses.course1 = "data structures";
         std2.swengcourses.course2 = "Physics";
-        std1.swengcourses.course1="probability ";
+       // std1.swengcourses.course1="";
 
         //This change will be reflected in original stdudent1'
         System.out.println("Updated names and courses :");

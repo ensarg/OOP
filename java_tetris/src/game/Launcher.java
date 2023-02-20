@@ -6,6 +6,9 @@ public class Launcher {
         //game.run();
 		Game game = new Game("My Tetris 1");
 		game.start();
+		}
+
+
 
 		//Gpieces gp = new Gpieces("piece generator ");
 		//gp.start();
@@ -13,7 +16,7 @@ public class Launcher {
 		//Game game3 = new Game("My Tetris 3");
 		//game3.start();
 
-
+      
 
 	}
 }

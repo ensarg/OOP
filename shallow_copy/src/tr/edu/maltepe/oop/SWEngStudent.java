@@ -1,8 +1,8 @@
 package tr.edu.maltepe.oop;
 public class SWEngStudent implements Cloneable{
-        int stdId;
-        String studentName;
-        SWEngCourse swengcourses;
+        private int stdId;
+        private String studentName;
+        private SWEngCourse swengcourses;
 
         public SWEngStudent(int stdid, String stdName, SWEngCourse coursename)
         {
@@ -17,5 +17,29 @@ public class SWEngStudent implements Cloneable{
         {
             return super.clone();
         }
+
+   public int getStdId() {
+      return stdId;
+   }
+
+   public void setStdId(int stdId) {
+      this.stdId = stdId;
+   }
+
+   public String getStudentName() {
+      return studentName;
+   }
+
+   public void setStudentName(String studentName) {
+      this.studentName = studentName;
+   }
+
+   public SWEngCourse getSwengcourses() {
+      return swengcourses;
+   }
+
+   public void setSwengcourses(SWEngCourse swengcourses) {
+      this.swengcourses = swengcourses;
+   }
 
 }
