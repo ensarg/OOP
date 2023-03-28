@@ -1,9 +1,9 @@
-package tr.edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
-public class EncapsDemo1 {
+public class Employee {
 
     private int tckn;
-     String empName;
+    private String empName;
     private int empAge;
 
     //Getter and Setter methods
@@ -14,7 +14,6 @@ public class EncapsDemo1 {
     public String getEmpName(){
         return empName;
     }
-
     public int getEmpAge(){
         return empAge;
     }
