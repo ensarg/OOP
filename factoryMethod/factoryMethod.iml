@@ -8,4 +8,7 @@
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="38aa0db6-c264-41d0-a06b-0d79e40bd328" />
+  </component>
 </module>

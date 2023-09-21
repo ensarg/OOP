@@ -1,108 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="java tetris unmodified">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liskov_01/Liskov_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid6469.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-tetris-unmodified/java-tetris-unmodified.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge_sort/merge_sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge_sort/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midtermQ2/midtermQ2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midtermQ2/src/tr/edu/maltepe/oop/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midtermQ2/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed1/openclosed1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/openclosed2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/src/OnlineShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/src/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/src/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openclosed2/src/TestOnlineShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quick_sort/quick_sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quick_sort/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion_1/recursion_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion_1/src/Rec1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_object1/send_object1.iml" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="static variables">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/0103fb74f5b8f0b696adc6d4759a9c2432a6db21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06f296727f57f17ee9b257efff51170f4eb5733b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25b2a413ab3a1f768328b14bf7b31782bee5111c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/274546ed7e183d81a636fa7756f8626d6135f08b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2955ce8877b5db1b4e9376d9ef48e83b9e2409ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29c88acee3d01e652c40322eea1149227b0866f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ae8424f8a2eeb4aff886905ff24d2195996905d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c492129436e4eb086ab1c8d56e5aa142a3882fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3610803d6936f18e59e6a5a18dabb867334fab0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f3574c75996216c046d33d8cbc52b7cbc098040" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4371eb45840a849570b0e6db9b01d5d5eb8f2083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a8376f4564a97e688be04e71097e43b302f0534" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fa6d346cb344b1523bb78c5555b9503256947fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54f4c4f6a2b5186135ed42b4d66d390e431a560b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a0af7e7b37f34ea6de4cde77f77646b1bd02664" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ea258316444c87328c36f4403d6db22d57db1ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62f41845624995631019e6e4ee482b13f93f73ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78a90595ce1714f456f369bc8084d132f6c59560" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84d2720a67d7627cb812482f64ce68b389c6428f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dcde3e62dc5cd09cc2c26dfcae63c782777f57d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a462288bfa03c2a599b111cda920d980d745539d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/befbbd405f24232b182cbb17ce82e92b9f4bbd0f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/ddc2b77a0caf55aadf8d0e0bee909aae2dcca31f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfdadb559a974f12ee3473a1cebe6c8952fea599" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1902ed85cd13e30d4e436a670dc8b4579ad9049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3b03c0ee70bec6834ad1fe32a5eb7e67d2a5a04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open_closed_q/src/C_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open_closed_q/src/O_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open_closed_q/src/P_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open_closed_q/src/P_Py.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open_closed_q/src/Test_Q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialize2/serialize2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_int_num/sort_int_num.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_int_num/src/SortIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/array1/src/tr/edu/maltepe/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/array1/src/tr/edu/maltepe/oop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/ClassLoader_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/sehir/oop/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/echo_client/src/tr/edu/sehir/oop/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionHandlingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionThrown.java" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/GenericBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/DeepCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/maltepe/oop/DeepCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/maltepe/oop/SWEngCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/sehir/oop/SWEngStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/deep_copy_example/src/tr/edu/maltepe/oop/SWEngStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/maltepe/oop/ExceptionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/sehir/oop/ExceptionHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling_01/src/tr/edu/maltepe/oop/ExceptionHandlingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/sehir/basics/Test_Generics_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Hello1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello1/src/tr/edu/maltepe/oop/Hello1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Bicycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Inheritance_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/Inheritance_Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/MountainBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceEx1/src/tr/edu/maltepe/oop/MountainBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface01/src/tr/edu/sehir/opp/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/maltepe/opp/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/maltepe/opp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/maltepe/opp/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface02/src/tr/edu/sehir/oop/myShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/interface02/src/tr/edu/maltepe/opp/myShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tetris-unmodified/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-tetris-unmodified/src/game/Launcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_tetris/src/game/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_tetris/src/game/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/src/tr/edu/sehir/oop/Liskov_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Liskov_01/src/tr/edu/maltepe/ood/Liskov_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/src/tr/edu/sehir/oop/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Liskov_01/src/tr/edu/maltepe/ood/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liskovSubstitution_01/src/tr/edu/sehir/oop/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Liskov_01/src/tr/edu/maltepe/ood/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openclosed1/src/tr/edu/sehir/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/openclosed1/src/tr/edu/sehir/oop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openclosed1/src/tr/edu/sehir/oop/SoundManager1.java" beforeDir="false" afterPath="$PROJECT_DIR$/openclosed1/src/tr/edu/sehir/oop/SoundManager1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/Rectangle.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/Shape.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/ShapeFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/Square.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factoryMethod/edu/sehir/oop/testFactorymethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/FirstFirst.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/LastFirst.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/Namer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/NamerFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/Person.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/factory_ex1/edu/sehir/oop/bLabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/httpServer_01/edu/sehir/oop/displayNamesHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/httpServer_01/edu/sehir/oop/infoHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/httpServer_01/edu/sehir/oop/testHttpserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/httpServer_01/edu/sehir/oop/welcomePageHandler.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/intMaxValues/edu/sehir/oop/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/midtermQ1/edu/sehir/oop/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/midtermQ1/edu/sehir/oop/classA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/midtermQ1/edu/sehir/oop/classB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/MotorBike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/polymorphism_01/edu/sehir/oop/testPolymorphism_1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Gates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Gates.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Lighting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Lighting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/SensorSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/SensorSystem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Surveillance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sensorObservers/edu/sehir/oop/Surveillance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/singleton/edu/sehir/oop/testSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/singleton/edu/sehir/oop/testSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/maltepe/oop/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/MotorBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/maltepe/oop/MotorBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/maltepe/oop/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_01/src/edu/sehir/oop/testPolymorphism_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_01/src/edu/maltepe/oop/testPolymorphism_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/Reflection_01Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/src/tr/edu/maltepe/sockets/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/send_object1/src/tr/edu/maltepe/sockets/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/src/tr/edu/maltepe/sockets/Message1.java" beforeDir="false" afterPath="$PROJECT_DIR$/send_object1/src/tr/edu/maltepe/sockets/Message1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/src/tr/edu/maltepe/sockets/Message2.java" beforeDir="false" afterPath="$PROJECT_DIR$/send_object1/src/tr/edu/maltepe/sockets/Message2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/src/tr/edu/maltepe/sockets/Server1.java" beforeDir="false" afterPath="$PROJECT_DIR$/send_object1/src/tr/edu/maltepe/sockets/Server1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendObject1/src/tr/edu/maltepe/sockets/client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/send_object1/src/tr/edu/maltepe/sockets/client1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/sehir/oop/ShowReflection_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Gates.java" beforeDir="false" afterPath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Gates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Lighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Lighting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/SensorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Surveillance.java" beforeDir="false" afterPath="$PROJECT_DIR$/sensorObservers/src/edu/sehir/oop/Surveillance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo1/.idea/serializeDemo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/open_closed_q/open_closed_q.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo1/src/SerializeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/artifacts/serializeDemo2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/src/tr/edu/sehir/ood/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/serialize2/src/tr/edu/maltepe/oop/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serializeDemo2/src/tr/edu/sehir/ood/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/serialize2/src/tr/edu/maltepe/oop/SerializeTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/SWEngStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/ShallowCopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop/ShallowCopyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/src/edu/sehir/oop/testSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton/src/edu/sehir/oop/testSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/ProcessingP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Thread_Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread03/src/tr/edu/sehir/basics/Thread_Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread01/src/tr/edu/sehir/basics/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread01/src/tr/edu/sehir/basics/MyThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +136,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,30 +147,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/shallow_copy/src/tr/edu/maltepe/oop" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/open_closed_q/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/serialize2/src" />
+      <recent name="$PROJECT_DIR$/serializeDemo2/src/tr/edu/maltepe/oop" />
       <recent name="$PROJECT_DIR$/send_object1/src" />
       <recent name="$PROJECT_DIR$/Liskov_01/src/tr/edu/maltepe/ood" />
       <recent name="$PROJECT_DIR$/iterator2/src" />
-      <recent name="$PROJECT_DIR$/classLoader_02/src" />
-      <recent name="$PROJECT_DIR$/abstractFactory/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.open_closed2">
+  <component name="RunManager" selected="Application.java_tetris">
     <configuration name="BW4memory" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallMemoryTest" />
       <module name="ballGame4" />
@@ -327,8 +333,8 @@
       </method>
     </configuration>
     <configuration name="deep_copy" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.Adapter2" />
-      <module name="adapter2" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.DeepCopy" />
+      <module name="deep_copy_example" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -355,8 +361,17 @@
       </method>
     </configuration>
     <configuration name="encapsulation01" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.EncapsulationTest" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.EncapsulationTest" />
       <module name="encapsulation_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exception1" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.ExceptionHandlingTest" />
+      <module name="exception_handling_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -380,8 +395,8 @@
     <configuration name="interface_02" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
-      <module name="java-tetris-unmodified" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.opp.Main" />
+      <module name="interface02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -450,8 +465,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="open_closed_Q" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test_Q" />
+      <module name="open_closed_q" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="polymothism1" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="edu.sehir.oop.testPolymorphism_1" />
+      <option name="MAIN_CLASS_NAME" value="edu.maltepe.oop.testPolymorphism_1" />
       <module name="polymorphism_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -493,6 +515,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="serialize2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.SerializeTest2" />
+      <module name="serialize2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="shallow_copy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.ShallowCopyTest" />
       <module name="shallow_copy" />
@@ -522,6 +553,20 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.simple2Main" />
       <module name="simple2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort_integers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortIntegers" />
+      <module name="sort_int_num" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticvartest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tr.maltepe.edu.Teststaticvar" />
+      <module name="staticvarexample" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -617,11 +662,15 @@
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.iterator2" />
       <item itemvalue="Application.polymothism1" />
+      <item itemvalue="Application.staticvartest" />
       <item itemvalue="Application.shallow_copy" />
+      <item itemvalue="Application.serialize2" />
       <item itemvalue="Application.recursive1" />
       <item itemvalue="Application.quicksort" />
       <item itemvalue="Application.merge_sort" />
       <item itemvalue="Application.open_closed2" />
+      <item itemvalue="Application.open_closed_Q" />
+      <item itemvalue="Application.sort_integers" />
       <item itemvalue="Application.open_closed1" />
       <item itemvalue="Application.reflection1" />
       <item itemvalue="Application.liskov1Substitution_01" />
@@ -631,6 +680,7 @@
       <item itemvalue="Application.classloader01" />
       <item itemvalue="Application.classloaderexam" />
       <item itemvalue="Application.thread_ex1" />
+      <item itemvalue="Application.exception1" />
       <item itemvalue="Application.thread_ex2" />
       <item itemvalue="Application.thread_ex3" />
       <item itemvalue="Application.ball_game2" />
@@ -740,6 +790,32 @@
       <workItem from="1674214245931" duration="79000" />
       <workItem from="1674214504882" duration="2253000" />
       <workItem from="1675601291323" duration="3329000" />
+      <workItem from="1676903420816" duration="541000" />
+      <workItem from="1676905217261" duration="88000" />
+      <workItem from="1676905356561" duration="4611000" />
+      <workItem from="1678361982144" duration="1580000" />
+      <workItem from="1678886179819" duration="16000" />
+      <workItem from="1678891054143" duration="8000" />
+      <workItem from="1679400426101" duration="857000" />
+      <workItem from="1679427026520" duration="165000" />
+      <workItem from="1679565738453" duration="506000" />
+      <workItem from="1680002627486" duration="4186000" />
+      <workItem from="1680607771578" duration="4716000" />
+      <workItem from="1680706124751" duration="25000" />
+      <workItem from="1681214096041" duration="6488000" />
+      <workItem from="1682421515105" duration="4286000" />
+      <workItem from="1682428237384" duration="379000" />
+      <workItem from="1682612775363" duration="870000" />
+      <workItem from="1683029792625" duration="2134000" />
+      <workItem from="1683631323242" duration="4057000" />
+      <workItem from="1683819743033" duration="623000" />
+      <workItem from="1684229588633" duration="13704000" />
+      <workItem from="1685445563785" duration="154000" />
+      <workItem from="1685445791511" duration="3683000" />
+      <workItem from="1688459600144" duration="245000" />
+      <workItem from="1688460786721" duration="269000" />
+      <workItem from="1688462019907" duration="5379000" />
+      <workItem from="1695286726600" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -1056,7 +1132,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667551131643</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="new examples">
+      <created>1676903753906</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1676903753906</updated>
+    </task>
+    <task id="LOCAL-00047" summary="modified encapsulation example">
+      <created>1680007428012</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1680007428012</updated>
+    </task>
+    <task id="LOCAL-00048" summary="static variables">
+      <created>1681823935184</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1681823935184</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1072,14 +1169,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="array1 package" />
-    <MESSAGE value="calendar ??" />
-    <MESSAGE value="class loder 1" />
-    <MESSAGE value="class loder 2" />
     <MESSAGE value="client send object" />
     <MESSAGE value="color picker sample" />
     <MESSAGE value="color picker text" />
@@ -1101,7 +1193,11 @@
     <MESSAGE value="java_tetris" />
     <MESSAGE value="byüicycle example update" />
     <MESSAGE value="java tetris unmodified" />
-    <option name="LAST_COMMIT_MESSAGE" value="java tetris unmodified" />
+    <MESSAGE value="new examples" />
+    <MESSAGE value="comments" />
+    <MESSAGE value="modified encapsulation example" />
+    <MESSAGE value="static variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="static variables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1115,6 +1211,17 @@
           <url>file://$PROJECT_DIR$/ballGame3b/src/tr/edu/sehir/oop/circleBall3.java</url>
           <line>24</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/thread02/src/tr/edu/sehir/basics/RunnableDemo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/serialize2/src/tr/edu/maltepe/oop/Employee.java</url>
+          <line>7</line>
+          <properties field="stdno" class="tr.edu.maltepe.oop.Employee" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

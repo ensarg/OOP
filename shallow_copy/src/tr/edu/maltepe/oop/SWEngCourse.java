@@ -14,7 +14,7 @@ public class SWEngCourse {
    public String getCourse1() {
       return course1;
    }
-public void setCourse1(String course1) {
+   public void setCourse1(String course1) {
       this.course1 = course1;
    }
 

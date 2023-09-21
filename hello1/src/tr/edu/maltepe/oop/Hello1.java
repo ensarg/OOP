@@ -9,7 +9,7 @@ public class Hello1{
        c1 = new Counter();
        c2 = new Counter(5);
        c1.icrement();
-       c1.icrement();
+       //c1.icrement();
 
        c2.icrement();
        c2.icrement();

@@ -14,7 +14,8 @@ public class Reflection_01Main {
         }
         System.out.println("arg 0: " +args[0]);
        shr.DumpMethods(args[0]);
-        //shr.DumpMethods(args[0]);
+
+       //shr.DumpMethods(args[0]);
 
        //shr.DumpMethods("java.lang.String");
       //  shr.printClassName(shr);

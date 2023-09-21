@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/merge_sort/merge_sort.iml" filepath="$PROJECT_DIR$/merge_sort/merge_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/midtermQ1/midtermQ1.iml" filepath="$PROJECT_DIR$/midtermQ1/midtermQ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/midtermQ2/midtermQ2.iml" filepath="$PROJECT_DIR$/midtermQ2/midtermQ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open_closed_q/open_closed_q.iml" filepath="$PROJECT_DIR$/open_closed_q/open_closed_q.iml" />
       <module fileurl="file://$PROJECT_DIR$/openclosed1/openclosed1.iml" filepath="$PROJECT_DIR$/openclosed1/openclosed1.iml" />
       <module fileurl="file://$PROJECT_DIR$/openclosed2/openclosed2.iml" filepath="$PROJECT_DIR$/openclosed2/openclosed2.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" filepath="$PROJECT_DIR$/polymorphism_01/polymorphism_01.iml" />
@@ -61,12 +62,15 @@
       <module fileurl="file://$PROJECT_DIR$/scanInput/scanInput.iml" filepath="$PROJECT_DIR$/scanInput/scanInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/send_object1/send_object1.iml" filepath="$PROJECT_DIR$/send_object1/send_object1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensorObservers/sensorObservers.iml" filepath="$PROJECT_DIR$/sensorObservers/sensorObservers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialize2/serialize2.iml" filepath="$PROJECT_DIR$/serialize2/serialize2.iml" />
       <module fileurl="file://$PROJECT_DIR$/shallow_copy/shallow_copy.iml" filepath="$PROJECT_DIR$/shallow_copy/shallow_copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple1/simple1.iml" filepath="$PROJECT_DIR$/simple1/simple1.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple2/simple2.iml" filepath="$PROJECT_DIR$/simple2/simple2.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple3/simple3.iml" filepath="$PROJECT_DIR$/simple3/simple3.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple_h1/simple_h1.iml" filepath="$PROJECT_DIR$/simple_h1/simple_h1.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort_int_num/sort_int_num.iml" filepath="$PROJECT_DIR$/sort_int_num/sort_int_num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticvarexample/staticvarexample.iml" filepath="$PROJECT_DIR$/staticvarexample/staticvarexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_1/tetris_1.iml" filepath="$PROJECT_DIR$/tetris_1/tetris_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tetris_2/tetris_2.iml" filepath="$PROJECT_DIR$/tetris_2/tetris_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/textDEmo/textDEmo.iml" filepath="$PROJECT_DIR$/textDEmo/textDEmo.iml" />

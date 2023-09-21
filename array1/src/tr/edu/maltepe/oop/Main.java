@@ -26,7 +26,7 @@ public class Main {
 
         }
 
-        System.out.println("my prg is executing");
+        System.out.println("my prg is executing...");
 
     }
 }

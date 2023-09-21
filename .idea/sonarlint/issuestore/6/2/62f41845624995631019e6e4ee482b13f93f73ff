@@ -1,0 +1,8 @@
+
+a
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Я÷Щ
+i
+java:S1450"TRemove the "speed" field and declare it as a local variable in the relevant methods.(┤зы)
+N	java:S106"9Replace this use of System.out or System.err by a logger.(╫вя╘
+>
+java:S1068")Remove this unused "speed" private field.(┤зы)

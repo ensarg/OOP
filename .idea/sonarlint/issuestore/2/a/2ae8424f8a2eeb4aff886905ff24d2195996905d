@@ -1,0 +1,24 @@
+
+*
+java:S1700"Rename field "field"(ÒØ‚Í
+P	java:S125"<This block of commented-out lines of code should be removed.(á‰Ïz
+V	java:S125$"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Q
+java:S1854€":Remove this useless assignment to local variable "pieceY".(©Àöæ
+B
+java:S1481€"+Remove this unused "pieceY" local variable.(©Àöæ
+Q
+java:S1854¥":Remove this useless assignment to local variable "pieceX".(›©œÖ
+B
+java:S1481¥"+Remove this unused "pieceX" local variable.(›©œÖ
+Q
+java:S1854¸":Remove this useless assignment to local variable "pieceX".(›©œÖ
+B
+java:S1481¸"+Remove this unused "pieceX" local variable.(›©œÖ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(¦Ò™æùÿÿÿÿ
+u
+java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ò±Ç²øÿÿÿÿ
+F
+java:S1068"0Remove this unused "FIELD_COLORS" private field.(ß©ËŸ
+E
+java:S1068"*Remove this unused "random" private field.(’ºİÃøÿÿÿÿ

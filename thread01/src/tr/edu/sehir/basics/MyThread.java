@@ -10,7 +10,6 @@ public class MyThread extends Thread{
     // Override the run() method to specify the thread's running behavior
     @Override
     public void run() {
-
             for (int i = 1; i <= 5000; ++i) {
                 System.out.println(name + ": " + i);
             //yield();
