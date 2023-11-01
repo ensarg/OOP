@@ -14,7 +14,7 @@ public class Main {
         shape.draw();
         System.out.println("Area="+shape.getArea());
 
-        //myShape m2 = new myShape();  you can't create an instance of an interface
+       // myShape m2 = new myShape();  you can't create an instance of an interface
 
 
 }

@@ -36,6 +36,7 @@ public class Person {
     }
 
     public void print() {
+
         System.out.println("Name: " + name + " Surname: " + surname + " Age: " + age);
     }
 }

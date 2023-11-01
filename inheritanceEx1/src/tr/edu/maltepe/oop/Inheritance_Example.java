@@ -17,10 +17,10 @@ public class Inheritance_Example {
 
         aylinsbike.speedUp(3);
 
-        //yourbike.speedUp(2);
+        yourbike.speedUp(2);
 
         System.out.println("yourbike gear is: "+yourbike.getGear());
-         System.out.println("yourbike speed is: "+yourbike.getSpeed());
+        System.out.println("yourbike speed is: "+yourbike.getSpeed());
 
 
         System.out.println("-----------------");

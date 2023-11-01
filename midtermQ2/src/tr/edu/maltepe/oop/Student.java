@@ -39,4 +39,8 @@ public class Student extends Person{
         super.print();
         System.out.println("Student ID: " + studentId + " Department: " + department);
     }
+
+      public void listen_lecture() {
+         System.out.println("Student " + this.getName() + " is studying.");
+      }
 }

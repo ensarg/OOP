@@ -10,7 +10,6 @@ public class Bicycle {
         gear = startGear;
         speed = startSpeed;
     }
-
     public Bicycle() {
         gear = 1;
         speed = 0;

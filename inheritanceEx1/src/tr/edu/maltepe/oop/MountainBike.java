@@ -24,7 +24,7 @@ public class MountainBike extends Bicycle{
     }
 
     public void speedUp(int increment) {
-       // super.speedUp(increment);
+        //super.speedUp(increment);
         int tempsps = getSpeed();
 
         tempsps = tempsps + 2*increment;

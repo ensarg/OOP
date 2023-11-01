@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Liskov_01/Liskov_01.iml" filepath="$PROJECT_DIR$/Liskov_01/Liskov_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstractFactory/abstractFactory.iml" filepath="$PROJECT_DIR$/abstractFactory/abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract_class/abstract_class.iml" filepath="$PROJECT_DIR$/abstract_class/abstract_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter1/adapter1.iml" filepath="$PROJECT_DIR$/adapter1/adapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter2/adapter2.iml" filepath="$PROJECT_DIR$/adapter2/adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array1/array1.iml" filepath="$PROJECT_DIR$/array1/array1.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" filepath="$PROJECT_DIR$/commandLineArgExample/commandLineArgExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandPattern/commandPattern.iml" filepath="$PROJECT_DIR$/commandPattern/commandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandpattern/commandpattern.iml" filepath="$PROJECT_DIR$/commandpattern/commandpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition_and_aggregation/composition_and_aggregation.iml" filepath="$PROJECT_DIR$/composition_and_aggregation/composition_and_aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/dayandweekQ/dayandweekQ.iml" filepath="$PROJECT_DIR$/dayandweekQ/dayandweekQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator1/decorator1.iml" filepath="$PROJECT_DIR$/decorator1/decorator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/deep_copy_example/deep_copy_example.iml" filepath="$PROJECT_DIR$/deep_copy_example/deep_copy_example.iml" />
