@@ -1,6 +1,6 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ð†¢¡ûÿÿÿÿ
-O
-java:S1161":Add the "@Override" annotation above this method signature(¯ÛÚl
-V	java:S125"<This block of commented-out lines of code should be removed.(‹¤šƒýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(µ•üÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(ð†¢¡ûÿÿÿÿ8éÑ´„¶1
+V
+java:S1161":Add the "@Override" annotation above this method signature(¯ÛÚl8íÑ´„¶1
+]	java:S125"<This block of commented-out lines of code should be removed.(‹¤šƒýÿÿÿÿ8Ž’Ý„¶1
+L	java:S106"+Replace this use of System.out by a logger.(µ•üÿÿÿÿ8ñÑ´„¶1

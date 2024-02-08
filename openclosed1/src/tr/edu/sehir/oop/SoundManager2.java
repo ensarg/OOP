@@ -3,7 +3,6 @@ package tr.edu.sehir.oop;
 import java.util.Vector;
 
 public class SoundManager2 {
-
     private Vector<Animal2> animalList;
 
     public SoundManager2(){

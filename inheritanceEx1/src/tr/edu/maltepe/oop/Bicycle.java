@@ -4,8 +4,7 @@ public class Bicycle {
 
     // the Bicycle class has two fields
      private int gear;
-     private int speed;
-
+     private int speed
     public Bicycle( int startSpeed, int startGear) {
         gear = startGear;
         speed = startSpeed;

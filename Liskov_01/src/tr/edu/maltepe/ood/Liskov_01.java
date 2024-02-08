@@ -15,8 +15,8 @@ public class Liskov_01 {
         Square sq = new Square(20);
 
         System.out.println("square area is : " + sq.getArea());
-      */
 
+         */
 
         Square r2 = new Square(20);
 
@@ -34,5 +34,9 @@ public class Liskov_01 {
             System.out.println("square "+i+ " area is : " + temp.getArea());
 
         }
-            }
+
+
+    }
+
 }
+

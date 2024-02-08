@@ -1,0 +1,13 @@
+
+*
+java:S1700"Rename field "field"(ÒØ‚Í
+P
+java:S1854w":Remove this useless assignment to local variable "pieceY".(©Àöæ
+A
+java:S1481w"+Remove this unused "pieceY" local variable.(©Àöæ
+Q
+java:S1854œ":Remove this useless assignment to local variable "pieceX".(›©œÖ
+B
+java:S1481œ"+Remove this unused "pieceX" local variable.(›©œÖ
+u
+java:S3012ç"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ò±Ç²øÿÿÿÿ

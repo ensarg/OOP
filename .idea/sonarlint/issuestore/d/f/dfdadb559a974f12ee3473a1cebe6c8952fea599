@@ -3,8 +3,8 @@ g
 java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Éßê®ùÿÿÿÿ
 p
 java:S1450"URemove the "weight" field and declare it as a local variable in the relevant methods.(‘ÿ“­ùÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(å‹ýùþÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ŽØ©ã
+E	java:S106
+"+Replace this use of System.out by a logger.(å‹ýùþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ŽØ©ã
 E
 java:S1068"*Remove this unused "weight" private field.(‘ÿ“­ùÿÿÿÿ

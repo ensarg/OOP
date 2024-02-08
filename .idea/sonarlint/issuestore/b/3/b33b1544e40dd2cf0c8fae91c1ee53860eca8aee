@@ -1,0 +1,12 @@
+
+M
+java:S3518"7Make sure "y" can't be zero before doing this division.(‘¼“‡
+K
+java:S1854"5Remove this useless assignment to local variable "x".(‘¼“‡
+:
+java:S1659	"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ºéÔ
+@	java:S106"+Replace this use of System.out by a logger.(¡¯Èä
+E	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŸÒ„ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(äâÎ–úÿÿÿÿ

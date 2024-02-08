@@ -50,7 +50,7 @@ public class BallWorld3 extends JPanel {
         Random rand = new Random();
         int radius = 20;
         boolean flip=false;
-        for (int j=0; j < rand.nextInt(20); j++) {
+        for (int j=0; j < rand.nextInt(200); j++) {
             balltype = rand.nextInt(3);
             //balltype=0;
 

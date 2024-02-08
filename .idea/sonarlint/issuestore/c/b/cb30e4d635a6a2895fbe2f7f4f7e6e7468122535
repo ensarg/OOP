@@ -1,0 +1,7 @@
+
+`
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV
+E	java:S106"+Replace this use of System.out by a logger.(—¿Ëğÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ŞÈ“÷
+p
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ìúÇV

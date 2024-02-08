@@ -1,0 +1,12 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï°ŞÁøÿÿÿÿ
+Z
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(†ô”£
+“
+java:S1130
+"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(áôÛ£øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ş¨ øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ì›òæ
+@	java:S106"+Replace this use of System.out by a logger.(•şÀÄ
+@	java:S106"+Replace this use of System.out by a logger.(†…Ü†
+@	java:S106"+Replace this use of System.out by a logger.(ßÏôÇ

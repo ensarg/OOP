@@ -1,16 +1,21 @@
 
-E
-java:S3740"/Provide the parametrized type for this generic.(íÒ«
-E
-java:S3740"/Provide the parametrized type for this generic.(íÒ«
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢
-{
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
-Q	java:S125"<This block of commented-out lines of code should be removed.(§Æ«ø
-Q	java:S125"<This block of commented-out lines of code should be removed.(è„àğ
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÀÅªşÿÿÿÿ
-N	java:S1065"9Replace this use of System.out or System.err by a logger.(—Ì¤·
-N	java:S1066"9Replace this use of System.out or System.err by a logger.(ğÑı”
-S	java:S1067"9Replace this use of System.out or System.err by a logger.(ğ¿ÌÛøÿÿÿÿ
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(Õ³ ûÿÿÿÿ
-V	java:S125A"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ
+L
+java:S3740
+"/Provide the parametrized type for this generic.(”¢•‡8“Õä†¿1
+L
+java:S3740
+"/Provide the parametrized type for this generic.(”¢•‡8“Õä†¿1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢8•Õä†¿1
+‚
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”¢•‡8Öä†¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(§Æ«ø8‡Öä†¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ü¨‹8‡Öä†¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(çé›ü8‡Öä†¿1
+X	java:S125"<This block of commented-out lines of code should be removed.(œ½é8ˆÖä†¿1
+L	java:S106."+Replace this use of System.out by a logger.(ÀÅªşÿÿÿÿ8ŠÖä†¿1
+G	java:S1067"+Replace this use of System.out by a logger.(—Ì¤·8ŒÖä†¿1
+G	java:S1068"+Replace this use of System.out by a logger.(ğÑı”8Öä†¿1
+L	java:S1069"+Replace this use of System.out by a logger.(ğ¿ÌÛøÿÿÿÿ8Öä†¿1
+]	java:S125;"<This block of commented-out lines of code should be removed.(Õ³ ûÿÿÿÿ8‹¯¦•¿1
+]	java:S125C"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ8ïç¦•¿1

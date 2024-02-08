@@ -1,0 +1,27 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(Õ»Äô8ØÎ¨Ê1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ²ôæıÿÿÿÿ8‚ØÎ¨Ê1
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÉÕ8ƒØÎ¨Ê1
+L	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8¤ØÎ¨Ê1
+L	java:S106"+Replace this use of System.out by a logger.(›Ääáşÿÿÿÿ8ªØÎ¨Ê1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö™Şäıÿÿÿÿ8«ØÎ¨Ê1
+G
+java:S1181Q"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8­ØÎ¨Ê1
+G	java:S106"+Replace this use of System.out by a logger.(ªà¢í8¯ØÎ¨Ê1
+L	java:S106"+Replace this use of System.out by a logger.(±ÈÖ‘şÿÿÿÿ8°ØÎ¨Ê1
+G	java:S106"+Replace this use of System.out by a logger.(­üıÎ8±ØÎ¨Ê1
+L
+java:S1197"*Move the array designators [] to the type.(ƒ²ôæıÿÿÿÿ8²ØÎ¨Ê1
+G	java:S106"+Replace this use of System.out by a logger.(¬Îôæ8³ØÎ¨Ê1
+G	java:S106&"+Replace this use of System.out by a logger.(‚Íùî8´ØÎ¨Ê1
+X	java:S125""<This block of commented-out lines of code should be removed.(–§ññ8´ØÎ¨Ê1
+]	java:S125'"<This block of commented-out lines of code should be removed.(ĞÕ¤øÿÿÿÿÿ8µØÎ¨Ê1
+X	java:S125+"<This block of commented-out lines of code should be removed.(§Ó¦Á8·ØÎ¨Ê1
+G	java:S106/"+Replace this use of System.out by a logger.(ñÒ‡8¸ØÎ¨Ê1
+]	java:S1255"<This block of commented-out lines of code should be removed.(ÍœÄÊÿÿÿÿÿ8ºØÎ¨Ê1
+X	java:S125A"<This block of commented-out lines of code should be removed.(‡Æ’8ºØÎ¨Ê1
+L	java:S106R"+Replace this use of System.err by a logger.(Şàš¬øÿÿÿÿ8»ØÎ¨Ê1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼ØÎ¨Ê1

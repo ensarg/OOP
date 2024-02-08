@@ -1,0 +1,10 @@
+
+Z
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(”ı¾
+E	java:S106"+Replace this use of System.out by a logger.(±œ˜Æüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÚÂÍÉ
+V	java:S125"<This block of commented-out lines of code should be removed.(š»¸Üøÿÿÿÿ
+E
+java:S1197$"*Move the array designators [] to the type.(’ÎÒºøÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(¶ãïÿÿÿÿÿ
+P	java:S125%"<This block of commented-out lines of code should be removed.(¥½/

@@ -2,7 +2,6 @@ package tr.edu.sehir.oop;
 import java.util.Vector;
 
 public class SoundManager1 {
-
     private Vector animalList;
 
     public SoundManager1(){
@@ -19,7 +18,7 @@ public class SoundManager1 {
             else if(a instanceof Dog)
                 ((Dog) a).bark();
             else if(a instanceof Bird)
-               ((Bird) a).birdSing();
+              ((Bird) a).birdSing();
 
     }
 

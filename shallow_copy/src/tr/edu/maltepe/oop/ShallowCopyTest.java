@@ -11,7 +11,7 @@ public class ShallowCopyTest {
 
         SWEngStudent std2 = null;
 
-        /*
+
         std2=std1;
 
         //Printing Details of student1
@@ -26,13 +26,13 @@ public class ShallowCopyTest {
         System.out.println("Id: "+std2.getStdId());
         System.out.println("Name: "+std2.getStudentName());
         System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
-         */
-        //Printing all the courses of 'student2'
-        //System.out.println("Courses of stdudent 2: ");
-        //System.out.println(std2.getStudentName());
-        //System.out.println(std2.getSwengcourses().getCourse2());
 
-         /*
+        //Printing all the courses of 'student2'
+        System.out.println("Courses of stdudent 2: ");
+        System.out.println(std2.getStudentName());
+        System.out.println(std2.getSwengcourses().getCourse2());
+
+
         //Changing the course3 of 'student 22'
         std2.setStudentName("Elif");
         std2.getSwengcourses().setCourse1( "Physics");
@@ -43,7 +43,7 @@ public class ShallowCopyTest {
         System.out.println(std1.getSwengcourses().getCourse1());
         System.out.println(std1.getSwengcourses().getCourse2());
 
-         */
+
 
 
         System.out.println("\n---------------------------------------------------- ");
@@ -56,6 +56,7 @@ public class ShallowCopyTest {
         {
             e.printStackTrace();
         }
+
 
         //Printing Details of student1
         System.out.println("Details of Student 1: ");
@@ -71,8 +72,7 @@ public class ShallowCopyTest {
         System.out.println("Name: "+std2.getStudentName());
         System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
          System.out.println("Course name: "+std2.getSwengcourses().getCourse2());
-
-        /*
+         /*
         //Printing all the courses of 'student2'
         System.out.println("Courses of stdudent 2: ");
         System.out.println(std2.swengcourses.course1);
@@ -81,7 +81,7 @@ public class ShallowCopyTest {
 
         //Changing the course3 of 'student 22'
 
-        std2.setStudentName("Elif");
+        std2.setStudentName("Melih");
         std2.getSwengcourses().setCourse1( "Physics");
         std2.getSwengcourses().setCourse2( "Math");
 
@@ -96,7 +96,7 @@ public class ShallowCopyTest {
          System.out.println("std2 course2 "+std2.getSwengcourses().getCourse2());
 
 
-        //
+
     }
 
 

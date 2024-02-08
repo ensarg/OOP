@@ -1,0 +1,9 @@
+
+v
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(™ž’ß
+x
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(¦äµÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(™ž’ß
+E
+java:S1656"/Remove or correct this useless self-assignment.(¦äµÿ

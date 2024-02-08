@@ -1,0 +1,43 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼¤™Â
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÊ¹ıÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÊ¹ıÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÊ¹ıÿÿÿÿ
+~	java:S116,"dRename this field "ipadress_of_othercomputer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÊÚÍùÿÿÿÿ
+|	java:S116-"hRename this field "serverportno_of_othercomputer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è‡—
+€	java:S116."fRename this field "server_port_of_thiscomputer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íö…¹úÿÿÿÿ
+?
+java:S1948(")Make "ssocket" transient or serializable.(§ş›õ
+@
+java:S1948)"*Make "socketin" transient or serializable.(¨ÿµŞ
+?
+java:S1948*"$Make "is" transient or serializable.(üÅÁûÿÿÿÿ
+I
+java:S1948/".Make "clientsocket" transient or serializable.(Ë¥§‰øÿÿÿÿ
+?
+java:S19480"$Make "os" transient or serializable.(«°€çøÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼¤™Â
+V	java:S125+"<This block of commented-out lines of code should be removed.(¾£şúÿÿÿÿÿ
+:
+java:S1659A"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(ƒ«“äûÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(ƒÕˆ–
+R	java:S125Š"<This block of commented-out lines of code should be removed.(º©¹û
+F	java:S106š"+Replace this use of System.out by a logger.(Ó¿Œ›ÿÿÿÿÿ
+A	java:S106œ"+Replace this use of System.out by a logger.(Õï÷ş
+A	java:S106"+Replace this use of System.out by a logger.(ç™•à
+C
+java:S1481°",Remove this unused "hitedge" local variable.(½³Êˆ
+F	java:S106Æ"+Replace this use of System.out by a logger.(ï°¨ıÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(êŠ–
+R	java:S125É"<This block of commented-out lines of code should be removed.(·€å¤
+A	java:S106Î"+Replace this use of System.out by a logger.(À•ìŒ
+F	java:S106Ğ"+Replace this use of System.out by a logger.(åé¸øÿÿÿÿ
+A	java:S106Ó"+Replace this use of System.out by a logger.(³‘Š×
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(µáÅòùÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(µáÅòùÿÿÿÿ
+A	java:S106Ø"+Replace this use of System.out by a logger.(øÎ¦
+E
+java:S1068"/Remove this unused "UPDATE_RATE" private field.(«â¸æ

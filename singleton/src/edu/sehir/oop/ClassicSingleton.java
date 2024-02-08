@@ -13,6 +13,7 @@ public class ClassicSingleton {
     }
 
     void writeName(){
+
         System.out.println("my Name is "+e1 );
     }
     public static ClassicSingleton getInstance() {

@@ -14,7 +14,7 @@ public class Thread_Ex3 {
         Thread t1 = new Thread(pt1, "t1");
         Thread t2 = new Thread(pt2, "t2");
         Thread t3 = new Thread(pt3, "t3");
-        Thread t4 = new Thread(pt4, "t3");
+        Thread t4 = new Thread(pt4, "t4");
 
         t1.start();
         t2.start();

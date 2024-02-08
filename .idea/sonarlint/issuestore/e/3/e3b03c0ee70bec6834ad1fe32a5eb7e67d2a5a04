@@ -3,9 +3,9 @@ k	java:S117
 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¼Áüÿÿÿÿ
 l
 java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(‡Îè
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŞŠÄşÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(‡Îè
+E	java:S106"+Replace this use of System.out by a logger.(ƒŞŠÄşÿÿÿÿ
 \
 java:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8˜›Æ£ù0
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¿ÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ëÅñß
+@	java:S106"+Replace this use of System.out by a logger.(Ÿ¿ÿ
+G	java:S106"+Replace this use of System.out by a logger.(ëÅñß8Ò…´„¿1

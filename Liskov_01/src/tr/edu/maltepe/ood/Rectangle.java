@@ -1,7 +1,6 @@
 package tr.edu.maltepe.ood;
 
 public class Rectangle {
-
         private int length;
         private int height;
         Rectangle(int length, int height){
@@ -17,5 +16,6 @@ public class Rectangle {
 
         public void setHeight(int height) { this.height = height; }
 
-        public int getArea() { return this.length * this.height; }
+        public int getArea() {
+                return this.length * this.height; }
 }

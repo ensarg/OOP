@@ -14,7 +14,6 @@ public class ShowReflection_01 {
         System.out.println("The class of " + obj +
                 " is " + obj.getClass().getName());
 
-
     }
      //tr.edu.sehir.oop.reflectionTest
     public void DumpMethods(String aclass) {
@@ -38,6 +37,8 @@ public class ShowReflection_01 {
 
             System.out.println("we can also invoke methods ");
             //reflectionTest ob1 = new reflectionTest();
+            // ob1.addintegers();
+            //ob1.multiplyintegers();
             Object ob = c.getDeclaredConstructor().newInstance();
             //printClassName(ob);
 
@@ -45,11 +46,8 @@ public class ShowReflection_01 {
                 String mname = m.getName();
                 System.out.println("method -->" +mname);
                 m.invoke(ob);
-                // ob1.addIntegers()
-                //ob1.multiplyIntegers()
 
             }
-
 
 /*
             for (int i = 0; i < all_m.length; i++) {

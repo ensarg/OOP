@@ -3,7 +3,7 @@ public class Rec1Main {
 
   public static void main(String[] args) {
 
-    int x = Rec1Main.recurse(1, 1);
+    int x = Rec1Main.recurse(4, 2);
     System.out.println("----------------n=" + n + "   the value of x=" + x);
   }
 

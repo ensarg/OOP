@@ -1,0 +1,19 @@
+
+z
+java:S4165"_Remove this useless assignment; "y" already holds the assigned value along all execution paths.(Æ™êÿúÿÿÿÿ
+5
+java:S1659"Declare "y" on a separate line.(æ¥Ï§
+?
+java:S1659	"$Declare "speedY" on a separate line.(˜Îöêþÿÿÿÿ
+?
+java:S1172")Remove this unused method parameter "yp".(¬ûï´
+>
+java:S1905"(Remove this unnecessary cast to "float".(Æÿ±®
+@
+java:S11726"*Remove this unused method parameter "box".(ÿó„î
+V	java:S1250"<This block of commented-out lines of code should be removed.(ôÇý°ÿÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(Æ™êÿúÿÿÿÿ
+G
+java:S1068"1Remove this unused "DEFAULT_COLOR" private field.(á‹Ð 

@@ -31,6 +31,7 @@ public final class PieceGenerator {
 	}
 
 	public static Piece generatePiece() {
+
 		return generatePiece(Game.STARTING_PIECE_X, Game.STARTING_PIECE_Y);
 	}
 }

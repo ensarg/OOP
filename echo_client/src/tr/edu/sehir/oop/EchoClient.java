@@ -17,12 +17,12 @@ public class EchoClient {
        //InetAddress address = InetAddress.getLocalHost();
         InetAddress address = InetAddress.getLocalHost();
 
-        //String hostname = address.getHostName();
+        String hostname = address.getHostName();
         int portNumber =4321; //= Integer.parseInt(args[0]);
 
         try (
 
-            Socket socket = new Socket(/*hostname*/"192.168.112.246", portNumber);
+            Socket socket = new Socket(hostname, portNumber);
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader( socket.getInputStream()));
             BufferedReader stdin = new BufferedReader(new InputStreamReader((System.in)));

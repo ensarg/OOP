@@ -1,0 +1,38 @@
+
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·—å
+^
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8ªûÁ¼1
+^
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8«ûÁ¼1
+^
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8¬ûÁ¼1
+d
+java:S2184R"GCast one of the operands of this multiplication operation to a "float".(÷·Ò8¬ûÁ¼1
+p	java:S116"VRename this field "other_balls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞèÑ—şÿÿÿÿ
+D
+java:S1948"'Make "balls" transient or serializable.(¿®´¤8¦Â¼1
+O
+java:S1948"-Make "other_balls" transient or serializable.(ŞèÑ—şÿÿÿÿ8§Â¼1
+B
+java:S1948"%Make "box" transient or serializable.(¼ãàÕ8¨Â¼1
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿®´¤
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞèÑ—şÿÿÿÿ
+{
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—å
+{
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—å
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿®´¤
+:
+java:S1659'"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(…·õîúÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(ø³››ÿÿÿÿÿ
+E	java:S106q"+Replace this use of System.out by a logger.(‚Ò¨Ãùÿÿÿÿ
+P
+java:S1161x":Add the "@Override" annotation above this method signature(“–ış
+z
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÚíĞİşÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ÚíĞİşÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(şãĞ°şÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(„¯íº

@@ -1,0 +1,9 @@
+
+x
+java:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "shape".(‰šÞ’ÿÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(òÂŽï
+_
+java:S1117+"DRename "currentShapeIndex" which hides the field declared at line 9.(ˆ¬ÑÝúÿÿÿÿ
+_
+java:S11176"DRename "currentShapeIndex" which hides the field declared at line 9.(ˆ¬ÑÝúÿÿÿÿ

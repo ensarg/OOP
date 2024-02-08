@@ -1,0 +1,12 @@
+
+I
+java:S2387
+"."width" is the name of a field in "Component".(•õ¦òùÿÿÿÿ
+E
+java:S2387"/"height" is the name of a field in "Component".(ÅœÔ˜
+j
+java:S1450"TRemove the "frame" field and declare it as a local variable in the relevant methods.(ñğ‰Í
+U
+java:S1161":Add the "@Override" annotation above this method signature(’ªâÌşÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(ÖòŒÆ

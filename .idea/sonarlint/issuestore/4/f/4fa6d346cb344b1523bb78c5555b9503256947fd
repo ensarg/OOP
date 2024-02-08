@@ -8,4 +8,4 @@ W
 java:S1854-"5Remove this useless assignment to local variable "i".(ûõ¯™øÿÿÿÿ8Å‚ÿ„€1
 H
 java:S1481,"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ8Ö‚ÿ„€1
-N	java:S1060"9Replace this use of System.out or System.err by a logger.(°öŞÊ
+@	java:S1060"+Replace this use of System.out by a logger.(°öŞÊ

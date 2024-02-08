@@ -1,0 +1,11 @@
+
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ª‹¬
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ‘ýÑÿÿÿÿÿ
+{
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(†ª‹¬
+€
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(õ‘ýÑÿÿÿÿÿ

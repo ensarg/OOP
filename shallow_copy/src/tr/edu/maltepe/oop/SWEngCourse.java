@@ -1,7 +1,6 @@
 
 package tr.edu.maltepe.oop;
 public class SWEngCourse {
-
    private String course1;
    private String course2;
 

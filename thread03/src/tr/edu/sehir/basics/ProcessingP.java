@@ -7,15 +7,13 @@ public class ProcessingP implements Runnable {
     ProcessingP( String name, Counter cc) {
         this.pname = name;
         this.mycounter =cc;
-
     }
 
     public void run() {
-
         try {
             for(int i = 100; i > 0; i--) {
                 mycounter.increment();
-                // mycounter.decrement();
+                mycounter.decrement();
                 // Let the thread sleep for a while.
                 Thread.sleep(3);
             }

@@ -23,11 +23,9 @@ public class Car extends Vehicle{
         gaslevel=gaslevel+5;
     }
     public void releaseHandBrake(){
-
         System.out.println("handbreak is released");
     }
     public static int getNumberofcars(){
-
         return numberofcars;
     }
 
