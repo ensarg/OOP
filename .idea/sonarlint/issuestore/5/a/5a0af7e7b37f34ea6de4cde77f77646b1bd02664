@@ -1,7 +1,8 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßËÜ…8»ÃœØ¸1
-G	java:S106"+Replace this use of System.out by a logger.(ÉèÅ÷8ÑÃœØ¸1
-L	java:S106"+Replace this use of System.out by a logger.(öĞ¶ïşÿÿÿÿ8ÓÃœØ¸1
-L	java:S106"+Replace this use of System.out by a logger.(Å˜õçüÿÿÿÿ8ÔÃœØ¸1
-X	java:S125"<This block of commented-out lines of code should be removed.(¬§éı8ÕÃœØ¸1
-]	java:S125""<This block of commented-out lines of code should be removed.(Å˜õçüÿÿÿÿ8ÕÃœØ¸1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßËÜ…8÷Òšå1J$5c0066cd-4aea-43bf-a423-ec1767e4a3d5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(…Ğ®Âûÿÿÿÿ8ñïê·å1J$000e539f-95e0-4382-9775-302afc5554ea
+m	java:S106"+Replace this use of System.out by a logger.(ÉèÅ÷8œÓšå1J$01b3021c-6aff-4654-96db-a107ac54cae9
+r	java:S106"+Replace this use of System.out by a logger.(öĞ¶ïşÿÿÿÿ8¡Óšå1J$e233908d-b4ec-499c-a3fd-af3b0d832ce3
+r	java:S106"+Replace this use of System.out by a logger.(Å˜õçüÿÿÿÿ8¥Óšå1J$d9b70e8c-5dbd-492f-8f5f-bb48a99fab05
+~	java:S125!"<This block of commented-out lines of code should be removed.(¬§éı8¦Óšå1J$25299ca1-ef53-4aff-9b4a-ad54753748dd
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(Å˜õçüÿÿÿÿ8§Óšå1J$d0ab7c34-d883-4a57-b943-dcaf975f326a

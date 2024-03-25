@@ -71,7 +71,6 @@
       <module fileurl="file://$PROJECT_DIR$/simple1/simple1.iml" filepath="$PROJECT_DIR$/simple1/simple1.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple2/simple2.iml" filepath="$PROJECT_DIR$/simple2/simple2.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple3/simple3.iml" filepath="$PROJECT_DIR$/simple3/simple3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simple_h1/simple_h1.iml" filepath="$PROJECT_DIR$/simple_h1/simple_h1.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort_int_num/sort_int_num.iml" filepath="$PROJECT_DIR$/sort_int_num/sort_int_num.iml" />
       <module fileurl="file://$PROJECT_DIR$/staticvarexample/staticvarexample.iml" filepath="$PROJECT_DIR$/staticvarexample/staticvarexample.iml" />

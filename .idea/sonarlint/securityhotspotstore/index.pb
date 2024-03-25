@@ -965,8 +965,6 @@ Q.idea/sonarlint/securityhotspotstore/2/6/26823682273d27c6b01a6ec54814653a92f4c9
 Q.idea/sonarlint/securityhotspotstore/9/3/939370ab3cb21d24acbc636c884371b47dba8bf1,8/e/8e4c3542065572561ffe8ea40f60781dc6997026
 Å
 Q.idea/sonarlint/securityhotspotstore/e/2/e2744f2fae4e59dfb4152ee6f561e5185470df1d,e/7/e7054366b927e303ac4052635fc9b8df85ad971b
-C
-hs_err_pid85191.log,6/3/639add27ae723f5358dce07345ec2bb2e416a5cf
 Å
 Q.idea/sonarlint/securityhotspotstore/9/4/94d3a10c028e7c7fe5e0fa1e4172aed99df0a20d,6/b/6b1c1ee9072d6c0576fb2c5586c2f7d1251a5d25
 Å
@@ -1187,3 +1185,13 @@ w
 G.idea/sonarlint/issuestore/a/d/ad2433f6b6b00659805bfdcdee78c6659ae0f5c3,6/4/64a6b4a3eb6aeaab6e2dfa153602d51c561c8525
 w
 G.idea/sonarlint/issuestore/a/e/ae6bcca670acc8ed64a2b98fec748850e27d0cbb,6/2/620c4e0e0d35acb324da9562b9c96c31608febd1
+L
+simple3/src/Simple3Main.java,1/8/187b8594521e5a494e6bd54ffc06c20f2a61cf77
+^
+.simple1/src/tr/edu/maltepe/oop/simpleMain.java,1/4/14327de5a39f7c632155aa971f3c0b063f4d0bdb
+d
+4interface01/src/tr/edu/sehir/opp/AbstractAnimal.java,b/1/b153005cb67e5d56e85e139f70fe83e5f178614b
+\
+,interface01/src/tr/edu/sehir/opp/Animal.java,2/9/2955ce8877b5db1b4e9376d9ef48e83b9e2409ac
+Y
+)interface01/src/tr/edu/sehir/opp/Dog.java,6/2/62f41845624995631019e6e4ee482b13f93f73ff

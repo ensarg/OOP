@@ -9,6 +9,8 @@ public class Inheritance_Example {
 
         Bicycle aylinsbike =new Bicycle();
 
+       // Bicycle yourbike2 = new Bicycle(5,1);
+
 
         MountainBike yourbike = new MountainBike(100,10,1);
 
