@@ -1,10 +1,10 @@
 
-g
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Éßê®ùÿÿÿÿ
-p
-java:S1450"URemove the "weight" field and declare it as a local variable in the relevant methods.(‘ÿ“­ùÿÿÿÿ
-E	java:S106
-"+Replace this use of System.out by a logger.(å‹ıùşÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(Ø©ã
-E
-java:S1068"*Remove this unused "weight" private field.(‘ÿ“­ùÿÿÿÿ
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Éßê®ùÿÿÿÿ8—†â°ç1J$4cb20a90-ca0e-4453-9b1c-4e9f86dc074a
+
+java:S1450"URemove the "weight" field and declare it as a local variable in the relevant methods.(‘ÿ“­ùÿÿÿÿ8¨†â°ç1J$7e03de6a-c8e7-4cad-aff9-7d628806417b
+r	java:S106	"+Replace this use of System.out by a logger.(å‹ıùşÿÿÿÿ8±†â°ç1J$cc240033-cc9c-42dc-8247-c6b4c4a964b5
+m	java:S106"+Replace this use of System.out by a logger.(Ø©ã8´†â°ç1J$ccb467de-ea53-4370-a7a8-9a69e9b766f2
+m	java:S106"+Replace this use of System.out by a logger.(ù®¨8¶†â°ç1J$2177205a-df91-4df4-a10d-e56bf53460bf
+r
+java:S1068"*Remove this unused "weight" private field.(‘ÿ“­ùÿÿÿÿ8¹†â°ç1J$24754b89-b3b3-4ddb-a6e8-4ac1b0b5bd0d

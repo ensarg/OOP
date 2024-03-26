@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+E	java:S106"+Replace this use of System.out by a logger.(εΐΌ¶ώÿÿÿÿ
+S
+java:S1172"=Remove these unused method parameters "startDate", "endDate".(α†µ΅
+d
+java:S1172"NRemove these unused method parameters "startDate", "endDate", "someOtherDate".(ρ½Ελ

@@ -1,8 +1,10 @@
 
-a
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ñŸı
-i
-java:S1450"TRemove the "speed" field and declare it as a local variable in the relevant methods.(‡ÚÙ)
-@	java:S106"+Replace this use of System.out by a logger.(½×Ñ©
->
-java:S1068")Remove this unused "speed" private field.(‡ÚÙ)
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ñŸı8¿ˆ©°ç1J$492346f6-d5b4-4710-ae1b-59eeb5d9c5a0
+–
+java:S1450"TRemove the "speed" field and declare it as a local variable in the relevant methods.(‡ÚÙ)8Ïˆ©°ç1J$ead728fc-b599-4f4d-ada1-39056067b4a7
+m	java:S106"+Replace this use of System.out by a logger.(ª°ÈÒ8îŸ¬°ç1J$437bac3b-c797-4bd5-9926-ff4e60b82967
+m	java:S106"+Replace this use of System.out by a logger.(æÒÂ¥8ìÜ¬°ç1J$38e9a849-d58b-48e5-a45b-810ab484d4a8
+m	java:S106"+Replace this use of System.out by a logger.(½×Ñ©8è§­°ç1J$796b9e26-64ad-4a6d-8582-5244c42a19cd
+k
+java:S1068")Remove this unused "speed" private field.(‡ÚÙ)8Şˆ©°ç1J$a2167bfb-4ace-445f-b50d-103cfa359ce0

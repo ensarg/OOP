@@ -6,5 +6,11 @@ public class Interface01main {
         Mammal m = new Mammal();
         m.eat();
         m.travel();
+
+         Dog d = new Dog();
+         d.eat();
+         d.travel();
+         d.bark();
+
     }
 }

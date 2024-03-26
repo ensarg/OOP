@@ -10,11 +10,11 @@ public class Main {
         System.out.println("Area="+c.getArea());
 
         //switching from one implementation to another easily
-        Rectangle shape=new Rectangle(10,10);
-        shape.draw();
-        System.out.println("Area="+shape.getArea());
+        Rectangle rr=new Rectangle(10,10);
+        rr.draw();
+        System.out.println("Area="+rr.getArea());
 
-       // myShape m2 = new myShape();  you can't create an instance of an interface
+       // myShape m2 = new myShape(); // you can't create an instance of an interface
 
 
 }

@@ -1,0 +1,11 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒ–„ή
+;
+java:S1659" Declare "s2" on a separate line.(¬ίδύόÿÿÿÿ
+C
+java:S1659	"-Declare "anotherjavabook" on a separate line.(ώ΄Δ
+A
+java:S1481"&Remove this unused "x" local variable.(θι‹όϋÿÿÿÿ
+B
+java:S1481"'Remove this unused "s2" local variable.(¬ίδύόÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€ªΦ
