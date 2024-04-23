@@ -1,21 +1,18 @@
 
-L
+r
 java:S3740
-"/Provide the parametrized type for this generic.(”¢•‡8“Õä†¿1
-L
+"/Provide the parametrized type for this generic.(”¢•‡8ˆæì±ğ1J$3b4dfc9c-49ad-4e89-a978-3adca37ce2b0
+r
 java:S3740
-"/Provide the parametrized type for this generic.(”¢•‡8“Õä†¿1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢8•Õä†¿1
-‚
+"/Provide the parametrized type for this generic.(”¢•‡8‰æì±ğ1J$d7447ef7-0a07-441a-980f-e86f81d573bf
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢8æì±ğ1J$f03840f8-6e74-4156-bca9-9a09fff606b3
+¨
 java:S1149
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”¢•‡8Öä†¿1
-X	java:S125"<This block of commented-out lines of code should be removed.(§Æ«ø8‡Öä†¿1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ü¨‹8‡Öä†¿1
-X	java:S125"<This block of commented-out lines of code should be removed.(çé›ü8‡Öä†¿1
-X	java:S125"<This block of commented-out lines of code should be removed.(œ½é8ˆÖä†¿1
-L	java:S106."+Replace this use of System.out by a logger.(ÀÅªşÿÿÿÿ8ŠÖä†¿1
-G	java:S1067"+Replace this use of System.out by a logger.(—Ì¤·8ŒÖä†¿1
-G	java:S1068"+Replace this use of System.out by a logger.(ğÑı”8Öä†¿1
-L	java:S1069"+Replace this use of System.out by a logger.(ğ¿ÌÛøÿÿÿÿ8Öä†¿1
-]	java:S125;"<This block of commented-out lines of code should be removed.(Õ³ ûÿÿÿÿ8‹¯¦•¿1
-]	java:S125C"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ8ïç¦•¿1
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”¢•‡8•æì±ğ1J$a5377746-137f-45f9-8c7f-900c25400689
+~	java:S125"<This block of commented-out lines of code should be removed.(öÇ Ó8¤æì±ğ1J$601e40b1-d33d-47d0-a644-d744d91defde
+r	java:S1061"+Replace this use of System.out by a logger.(ÀÅªşÿÿÿÿ8ÔŞí±ğ1J$35521489-ddf1-48dc-8d5a-16dac9202245
+m	java:S106:"+Replace this use of System.out by a logger.(—Ì¤·8×Şí±ğ1J$f47afe6f-116b-4d36-9bda-b7e5fbbd858e
+m	java:S106;"+Replace this use of System.out by a logger.(ğÑı”8ÙŞí±ğ1J$54a608f9-537e-4981-9459-f8a5e43083b2
+r	java:S106<"+Replace this use of System.out by a logger.(ğ¿ÌÛøÿÿÿÿ8ÛŞí±ğ1J$0374c805-8d4a-4f80-9fe3-ec92cc178da3
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(Õ³ ûÿÿÿÿ8İŞí±ğ1J$49aa478e-dc83-4dff-bec1-c807e8b0d3b9
+ƒ	java:S125F"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ8¥æì±ğ1J$76e9363b-d387-4df0-b78f-f072ef23673e

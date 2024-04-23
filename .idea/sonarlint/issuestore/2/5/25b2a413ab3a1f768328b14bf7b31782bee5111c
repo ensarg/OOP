@@ -1,7 +1,9 @@
 
-@	java:S106"+Replace this use of System.out by a logger.(Ï“Ş
-E	java:S106"+Replace this use of System.out by a logger.(¶€¯ìşÿÿÿÿ
-?
-java:S1068")Remove this unused "color" private field.(È„…¦
-C
-java:S1068	"(Remove this unused "gear" private field.(Ÿ°îÑüÿÿÿÿ
+p
+java:S3010"-Remove this assignment of "numberOfBicycles".(ê‚Ç8çÓùé1J$62c2a8a5-9131-4fd7-a363-46d9b7fc6a45
+m	java:S106"+Replace this use of System.out by a logger.(Ï“Ş8Ïí»ùé1J$ff2744e1-bda2-4e16-b48d-cf9bd4ab25e3
+r	java:S106"+Replace this use of System.out by a logger.(¶€¯ìşÿÿÿÿ8Ñí»ùé1J$8be55052-795c-4204-afa6-4290746c5ef0
+l
+java:S1068")Remove this unused "color" private field.(È„…¦8Ôí»ùé1J$01ec5b6e-28a3-4a9c-aaf5-fc6a60ad3e7b
+p
+java:S1068	"(Remove this unused "gear" private field.(Ÿ°îÑüÿÿÿÿ8Õí»ùé1J$bd96f4c8-a4e4-4804-acf1-706d124d2d0b

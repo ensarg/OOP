@@ -1,11 +1,11 @@
 
-k	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¼Áüÿÿÿÿ
-l
-java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
-?	java:S106"+Replace this use of System.out by a logger.(‡Îè
-E	java:S106"+Replace this use of System.out by a logger.(ƒŞŠÄşÿÿÿÿ
-\
-java:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8˜›Æ£ù0
-@	java:S106"+Replace this use of System.out by a logger.(Ÿ¿ÿ
-G	java:S106"+Replace this use of System.out by a logger.(ëÅñß8Ò…´„¿1
+‘	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¼ÁüÿÿÿÿJ$44438a1d-3eb9-42ca-9ade-2fac36312285
+’
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©ÆşÿÿÿÿJ$528a5811-7409-40a6-8fd0-b11d660e7cf6
+e	java:S106"+Replace this use of System.out by a logger.(‡ÎèJ$54123102-b970-41d6-8836-1521d9167776
+k	java:S106"+Replace this use of System.out by a logger.(ƒŞŠÄşÿÿÿÿJ$3510747e-4d90-42bd-a6a8-9dbcc090fbb5
+‚
+java:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8˜›Æ£ù0J$ba476f48-b12a-4191-9cca-338e53be8a2f
+f	java:S106"+Replace this use of System.out by a logger.(Ÿ¿ÿJ$71d21d06-7afe-4206-b483-c5e87e0e6be7
+m	java:S106"+Replace this use of System.out by a logger.(ëÅñß8Ò…´„¿1J$b544b413-6338-4f14-a325-cdf1e220c568

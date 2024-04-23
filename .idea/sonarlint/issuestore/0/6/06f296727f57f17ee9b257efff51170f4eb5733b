@@ -1,5 +1,5 @@
 
-f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(όΡ¶
-m	java:S116"XRename this field "vehicle_plate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–―ση
-@	java:S106"+Replace this use of System.out by a logger.(ρμΊ¦
-@	java:S106"+Replace this use of System.out by a logger.(μΤ·
+	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(όΡ¶J$a5fa7a9c-68b4-4501-b319-b96896f3d3ed
+“	java:S116"XRename this field "vehicle_plate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–―σηJ$319c7a20-8638-4bdd-8727-d61a6a286675
+f	java:S106"+Replace this use of System.out by a logger.(ρμΊ¦J$79a0d581-c20f-4a49-9d1b-7e7d65263389
+f	java:S106"+Replace this use of System.out by a logger.(μΤ·J$590c0f2b-e332-44b7-8489-e6502c652151

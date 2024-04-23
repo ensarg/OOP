@@ -8,18 +8,19 @@ public class Teststaticvar {
 
              b1 = new Bicycle("red", 1);
 
-
              b2 = new Bicycle("blue", 2);
 
              b3 = new Bicycle("green", 3);
 
              b1.ride();
-               b2.ride();
-               b3.ride();
+             b2.ride();
+             b3.ride();
 
 
 
           System.out.println("number of bicycles  "+ Bicycle.getNumberOfBicycles());
+
+       //  System.out.println("number of bicycles ---:   "+ Bicycle.);
 
 
 

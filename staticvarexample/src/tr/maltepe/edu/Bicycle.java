@@ -10,7 +10,7 @@ public class Bicycle {
 
    // constructor
    public Bicycle(String color, int gear) {
-      ++numberOfBicycles;
+      numberOfBicycles=numberOfBicycles+1;
       this.color = color;
       this.gear = gear;
    }

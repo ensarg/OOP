@@ -1,28 +1,28 @@
 
-l
-java:S1450"QRemove the "bs" field and declare it as a local variable in the relevant methods.(Υ½Ϋÿÿÿÿÿ
-s
-java:S1450 "XRemove the "gameState" field and declare it as a local variable in the relevant methods.(“πΆÿÿÿÿÿ
-l
-java:S1450"WRemove the "graphics" field and declare it as a local variable in the relevant methods.(§‹„P
-s
-java:S1450!"XRemove the "menuState" field and declare it as a local variable in the relevant methods.(α¨ƒϋÿÿÿÿ
-w
-java:S1450""\Remove the "settingsState" field and declare it as a local variable in the relevant methods.(τώƒΠώÿÿÿÿ
-Q	java:S125d"<This block of commented-out lines of code should be removed.(δ•β›
-V	java:S125j"<This block of commented-out lines of code should be removed.(οΰ™ψÿÿÿÿ
-V
-java:S1117r"@Rename "currentPiece" which hides the field declared at line 37.(ί‚‚
-W	java:S125™"<This block of commented-out lines of code should be removed.(οΰ™ψÿÿÿÿ
-u
-java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€
-Y
-java:S1117Ώ"=Rename "nextPiece" which hides the field declared at line 38.(κΙ΄ωÿÿÿÿ
-H
-java:S1068 "-Remove this unused "gameState" private field.(“πΆÿÿÿÿÿ
-H
-java:S1068!"-Remove this unused "menuState" private field.(α¨ƒϋÿÿÿÿ
-L
-java:S1068""1Remove this unused "settingsState" private field.(τώƒΠώÿÿÿÿ
-D
-java:S1144W".Remove this unused private "setPaused" method.(‰Ηδ
+’
+java:S1450"QRemove the "bs" field and declare it as a local variable in the relevant methods.(Υ½ΫÿÿÿÿÿJ$d98805a5-7dd9-47b1-9859-517c96e31c4f
+™
+java:S1450 "XRemove the "gameState" field and declare it as a local variable in the relevant methods.(“πΆÿÿÿÿÿJ$4d9f8808-038b-48cf-a22b-173bc9964dec
+’
+java:S1450"WRemove the "graphics" field and declare it as a local variable in the relevant methods.(§‹„PJ$91737203-727e-49be-b2fc-d7bcda88566b
+™
+java:S1450!"XRemove the "menuState" field and declare it as a local variable in the relevant methods.(α¨ƒϋÿÿÿÿJ$a1ed475d-48b2-4933-b8ca-4162bb200693
+
+java:S1450""\Remove the "settingsState" field and declare it as a local variable in the relevant methods.(τώƒΠώÿÿÿÿJ$7743fcab-7ee7-4718-af5a-a28c05b748a9
+w	java:S125d"<This block of commented-out lines of code should be removed.(δ•β›J$4641f59b-1b9b-450b-9e7a-c1dd06515c7b
+|	java:S125j"<This block of commented-out lines of code should be removed.(οΰ™ψÿÿÿÿJ$8a98313a-b475-4c47-9fbe-23619b9d4533
+|
+java:S1117r"@Rename "currentPiece" which hides the field declared at line 37.(ί‚‚J$b5b969c4-70da-4c98-889d-61b60bdda974
+}	java:S125™"<This block of commented-out lines of code should be removed.(οΰ™ψÿÿÿÿJ$8ba22d8c-778b-4f93-b939-0782ff1aebf8
+›
+java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€J$68e90b2a-3bc3-4a7e-81ed-390486fc2e9c
+
+java:S1117Ώ"=Rename "nextPiece" which hides the field declared at line 38.(κΙ΄ωÿÿÿÿJ$c7edbbc3-fdaa-4ef5-a6dd-cd6650b40842
+n
+java:S1068 "-Remove this unused "gameState" private field.(“πΆÿÿÿÿÿJ$95e2238a-9f5b-4178-80b8-6bcf8a30e03b
+n
+java:S1068!"-Remove this unused "menuState" private field.(α¨ƒϋÿÿÿÿJ$30400a8b-bc7f-4b67-b9dd-3b63ba8d297c
+r
+java:S1068""1Remove this unused "settingsState" private field.(τώƒΠώÿÿÿÿJ$428ef5bb-40af-4f53-bb00-c0f5a5eee728
+j
+java:S1144W".Remove this unused private "setPaused" method.(‰ΗδJ$79f28618-4fd4-4c88-84df-2fb0f63a8532

@@ -12,27 +12,30 @@ public class testPolymorphism_1 {
         Random rand=new Random();
 
         Vehicle  vh;
-        //Vehicle vh1,vh2,vh3;
+        //---------------------------------------------section 1----------------
+      /*
+        Vehicle vh1,vh2,vh3;
 
 
-        //vh1= new MotorBike("34-ABC-456");
-        //v.add(vh1);
-        //vh1.move();
+        vh1= new MotorBike("34-ABC-456");
+        v.add(vh1);
+        vh1.move();
 
-        //vh3 =new MotorBike("34-XYZ-123");
-        //vh3.move();
-        //v.add(vh3);
+        vh3 =new MotorBike("34-XYZ-123");
+        vh3.move();
+        v.add(vh3);
 
-        //vh2=new Car();
-        //vh2.move();
-       // v.add(vh2);
-       /*
+        vh2=new Car();
+        vh2.move();
+        v.add(vh2);
+        System.out.println("\n----------------\n");
         for (int i=0;i < v.size();i++) {
             vh =  (Vehicle)v.get(i);
             vh.move();
         }
-        */
-
+     */
+//---------------------------------------------end of section 1----------------
+        //---------------------------------------------section 2----------------
 
         for (int i=0; i< 10;i++) {
             int r=rand.nextInt(2);
@@ -70,5 +73,7 @@ public class testPolymorphism_1 {
             vh.move();
         }
       */
+        //---------------------------------------------end of section 2----------------
+
     }
 }

@@ -1,13 +1,13 @@
 
-*
-java:S1700"Rename field "field"(ÒØ‚Í
 P
-java:S1854w":Remove this useless assignment to local variable "pieceY".(©Àöæ
-A
-java:S1481w"+Remove this unused "pieceY" local variable.(©Àöæ
-Q
-java:S1854œ":Remove this useless assignment to local variable "pieceX".(›©œÖ
-B
-java:S1481œ"+Remove this unused "pieceX" local variable.(›©œÖ
-u
-java:S3012ç"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ò±Ç²øÿÿÿÿ
+java:S1700"Rename field "field"(ÒØ‚ÍJ$5e1cfcef-9572-4f0e-bb7d-1da9766e2e31
+v
+java:S1854w":Remove this useless assignment to local variable "pieceY".(©ÀöæJ$3060441c-0109-4455-94ca-e142a7136647
+g
+java:S1481w"+Remove this unused "pieceY" local variable.(©ÀöæJ$29641de3-05ee-45ec-a029-fd73a732fc40
+w
+java:S1854œ":Remove this useless assignment to local variable "pieceX".(›©œÖJ$0577e768-1b9b-46de-8b3b-326a6c0c7f4f
+h
+java:S1481œ"+Remove this unused "pieceX" local variable.(›©œÖJ$6bf3d787-25a7-4d0c-8833-837bfe0051e4
+›
+java:S3012ç"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ò±Ç²øÿÿÿÿJ$be14936c-f29a-4aa1-81c1-8b7d1d65484f

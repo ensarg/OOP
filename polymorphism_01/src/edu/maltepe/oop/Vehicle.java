@@ -17,7 +17,6 @@ public class Vehicle {
     public static int getVehiclecount(){
         return  vehiclecount;}
     public void printVehiclePlate(){
-
         System.out.println("vehicle plate is:"+vehicle_plate);
     }
 }
