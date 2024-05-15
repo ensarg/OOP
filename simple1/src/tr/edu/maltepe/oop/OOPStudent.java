@@ -15,7 +15,7 @@ public class OOPStudent extends Student {
 
     public void readBook(JavaBook abook){
 
-        abook.pageNo(100);
+        abook.displaypNo(100);
 
     }
 
