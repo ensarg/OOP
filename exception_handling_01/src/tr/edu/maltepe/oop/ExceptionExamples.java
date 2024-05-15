@@ -38,14 +38,18 @@ public class ExceptionExamples {
         void arrayBoundtest () throws ArrayIndexOutOfBoundsException {
             // array of size 4.
             int[] arr = new int[4];
+            arr[0] = 23;
+            arr[1] = 45;
+            arr[2] = 56;
+            arr[3] = 78;
 
             // this statement causes an exception
            //  arr[0],arr
-           int i;
-           i= arr[4];
+           int x;
+           x= arr[4];
 
             // the following statement will never execute
-            System.out.println("Hi, I am here");
+            System.out.println("Hi, I am here x= "+x);
 
         }
 

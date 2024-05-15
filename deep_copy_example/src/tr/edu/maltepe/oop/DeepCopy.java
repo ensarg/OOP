@@ -4,7 +4,6 @@ public class DeepCopy {
 
     public static void main(String[] args) {
 
-
         SWEngCourse courses = new SWEngCourse("OP sys", "OOP");
 
         SWEngStudent std1 = new SWEngStudent(2019123, "Emre", courses);
@@ -46,7 +45,7 @@ public class DeepCopy {
         System.out.println(std1.swengcourses.course1);
         System.out.println(std1.swengcourses.course2);
 
-       */
+         */
 
         System.out.println("\n---------------------------------------------------- ");
 
@@ -62,7 +61,7 @@ public class DeepCopy {
         //Printing Details of student1
         System.out.println("Details of Student 1: ");
         System.out.println("Id: "+std1.stdId);
-        //System.out.println("Name: "+std1.studentName);
+        System.out.println("Name: "+std1.studentName);
         System.out.println("Course name: "+std1.swengcourses);
 
         //Printing all the courses of 'student1'
