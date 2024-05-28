@@ -6,7 +6,7 @@ public class Counter {
             c++;
         }
 
-        public  synchronized   void decrement() {
+        public   synchronized   void decrement() {
            c--;
         }
 

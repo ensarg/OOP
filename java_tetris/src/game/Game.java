@@ -12,16 +12,12 @@ public class Game implements Runnable{
 
 	private static final int NEXT_PIECE_X = 11;
 	private static final int NEXT_PIECE_Y = 1;
-
 	public static final int STARTING_PIECE_X = 4;
 	public static final int STARTING_PIECE_Y = 0;
-	
 	private static final int DISPLAY_WIDTH = 420;
 	private static final int DISPLAY_HEIGHT = 600;
-
 	private static final int FIELD_WIDTH = 10;
-	private static final int FIELD_HEIGHT = 20;	
-	
+	private static final int FIELD_HEIGHT = 20;
 	private Display display;
 	private String title;
 	private boolean running = false;	
@@ -34,17 +30,12 @@ public class Game implements Runnable{
 	private State settingsState;
 	private Field field;
 	private  Thread thread;
-	
 	private Piece currentPiece;
 	private Piece nextPiece;
-	
 	private boolean paused;
-
 	public Game(String title) {
 		this.setTitle(title);
-
 		this.field = new Field(Game.FIELD_HEIGHT, Game.FIELD_WIDTH);
-		
 		this.setCurrentPiece(PieceGenerator.generatePiece());
 		this.setNextPiece(PieceGenerator.generatePiece(Game.NEXT_PIECE_X, Game.NEXT_PIECE_Y));
 	}		
@@ -68,23 +59,18 @@ public class Game implements Runnable{
 	private Piece getCurrentPiece() {
 		return currentPiece;
 	}
-
 	private void setCurrentPiece(Piece piece) {
 		this.currentPiece = piece;
 	}
-
 	private Piece getNextPiece() {
 		return nextPiece;
 	}
-
 	private void setNextPiece(Piece nextPiece) {
 		this.nextPiece = nextPiece;
 	}
-
 	private boolean isPaused() {
 		return paused;
 	}
-
 	private void setPaused(boolean paused) {
 		this.paused = paused;
 	}
@@ -183,6 +169,7 @@ public class Game implements Runnable{
 			//}
 		}
 	}
+
 	public void start(){
 		thread= new Thread(this);
 		thread.start();

@@ -9,16 +9,21 @@ import java.io.ObjectInputStream;
 public class SerializeTest2 {
 
     public static void main(String[] args) {
-        Employee e=null ;
+        Employee e1=null ;
         Employee e2 = null;
 
-        e=new Employee(      "Ahmet"," Maltepe  univ",218123);
-         System.out.println("reference e: " + e);
+        e1=new Employee(      "Ahmet"," Maltepe  univ",218123);
+        System.out.println("Serialized Employee...");
+        System.out.println("reference e: " + e1);
+        System.out.println("Name: " + e1.getName());
+        System.out.println("Address: " + e1.getAddress());
+        System.out.println("SSN: " + e1.getStdno());
+
         try {
             FileOutputStream fileOut =
                     new FileOutputStream("/tmp/employee.ser");
             ObjectOutputStream out = new ObjectOutputStream(fileOut);
-            out.writeObject(e);
+            out.writeObject(e1);
             out.close();
             fileOut.close();
             System.out.printf("Serialized data is saved in /tmp/employee.ser");
@@ -31,7 +36,7 @@ public class SerializeTest2 {
         try {
             FileInputStream fileIn = new FileInputStream("/tmp/employee.ser");
             ObjectInputStream in = new ObjectInputStream(fileIn);
-            e= (Employee) in.readObject();
+            e2= (Employee) in.readObject();
 
             in.close();
             fileIn.close();

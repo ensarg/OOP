@@ -1,7 +1,6 @@
 package tr.edu.maltepe.oop;
 
 public class SWEngStudent implements Cloneable{
-
         int stdId;
         String studentName;
         SWEngCourse swengcourses;
@@ -12,14 +11,19 @@ public class SWEngStudent implements Cloneable{
             this.studentName = stdName;
             this.swengcourses = coursename;
         }
-
+        /*
         //Default version of clone() method
+          protected Object clone() throws CloneNotSupportedException
+         {
+               return super.clone();
+         }
+        */
 
-        protected Object clone() throws CloneNotSupportedException
+      protected Object clone() throws CloneNotSupportedException
         {
-            SWEngStudent astd = (SWEngStudent) super.clone();
-            astd.swengcourses =(SWEngCourse) swengcourses.clone();
-            return astd;
+           SWEngStudent astd = (SWEngStudent) super.clone();
+           astd.swengcourses =(SWEngCourse) swengcourses.clone();
+           return astd;
         }
 
 }
