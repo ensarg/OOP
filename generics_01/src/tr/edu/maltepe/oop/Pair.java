@@ -1,4 +1,4 @@
-package tr.edu.sehir.basics;
+package tr.edu.maltepe.oop;
 
 public class Pair<K, V> {
     private K key;

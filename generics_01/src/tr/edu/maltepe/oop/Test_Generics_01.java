@@ -1,4 +1,4 @@
-package tr.edu.sehir.basics;
+package tr.edu.maltepe.oop;
 
 import java.util.*;
 
@@ -7,7 +7,6 @@ public class Test_Generics_01 {
     public static void main(String[] args) {
 
     //section 1
-    /*
         ArrayList<String > list = new ArrayList<String >();
 
         list.add("xyzxghfhgfghf");
@@ -28,7 +27,7 @@ public class Test_Generics_01 {
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
-       */
+
       //end of section 1-------------------------------------------------------------------------
 
         //section 2
