@@ -1,4 +1,4 @@
-package tr.edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 public class reflectionTest {
     private int x=0;

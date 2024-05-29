@@ -1,4 +1,4 @@
-package tr.edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
@@ -7,77 +7,48 @@ import java.lang.reflect.Type;
 import java.lang.reflect.TypeVariable;
 import java.util.Arrays;
 
-public class ShowReflection_02 {
+public class ShowReflection_01 {
 
     public void printClassName(Object obj) {
 
         System.out.println("The class of " + obj +
                 " is " + obj.getClass().getName());
 
-
     }
-
+     //tr.edu.sehir.oop.reflectionTest
     public void DumpMethods(String aclass) {
 
         try {
             Class c = Class.forName(aclass);
             System.out.println("Name of the class is: "+ c.getName());
             System.out.println("Super Class is: "+c.getSuperclass() );
+            System.out.println("Canonical name is: "+ c.getCanonicalName() );
+            //System.out.println("Constructor name name is: "+ c.getDeclaredConstructors() );
 
             System.out.println("Methods are: ");
             Method all_m[] = c.getDeclaredMethods();
-            //Type[] pType = c.getGenericParameterTypes()
 
             for (int i = 0; i < all_m.length; i++) {
                 System.out.println("m["+i+"] -->" +all_m[i].toString());
             }
 
 
-            System.out.println("Canonical name is: "+ c.getCanonicalName() );
-
-
+            /*----------------------invoke methods----------------------*/
+            /*
             System.out.println("we can also invoke methods ");
-
             Object ob = c.getDeclaredConstructor().newInstance();
-            printClassName(ob);
 
             for (Method m : all_m) {
                 String mname = m.getName();
-
                 System.out.println("method -->" +mname);
-                Type[] pType = m.getGenericParameterTypes();
-
-                Object args[]=new Object[pType.length];
-
-                for(int i=0;i< pType.length;i++){
-                    System.out.println("parameter["+i+"] "+ pType[i]);
-
-                    args[i]=(Object)pType[i];
-
-                }
-
-
-                if (pType.length == 2) {
-                    args[0] = 50;
-                    args[1] = 250;
-                }
-               // m.invoke(ob,4,6);
-                m.invoke(ob,args);
-                //amethod.invoke(ob,5,23);
-                //amethod.invoke(ob,args);
+                m.invoke(ob);
 
             }
 
-/*
-            for (int i = 0; i < all_m.length; i++) {
-                //Method amethod= c.getMethod(all_m[i].getName());
-                Method amethod= all_m[i];
+             */
 
-                System.out.println("m["+i+"] -->" +all_m[i].toString());
-                amethod.invoke(ob);
 
-            }
-*/
+        /*-----------------invoke methods with parameters----------------*/
 
            /*
             System.out.println("Modifiers:"+
@@ -95,7 +66,7 @@ public class ShowReflection_02 {
                 out.format("  -- No Type Parameters --%n%n");
             }
 
-*/
+            */
 
         } catch (Throwable e) {
             System.err.println(e);

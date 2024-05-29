@@ -22,8 +22,6 @@ public class Employee implements Serializable {
     public int getStdno(){
         return stdno;
     }
-    //public void mailCheck() {
-    //    System.out.println("Mailing a check to " + name + " " + address);
-    //}
+
 
 }

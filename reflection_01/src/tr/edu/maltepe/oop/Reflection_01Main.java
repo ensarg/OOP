@@ -1,4 +1,4 @@
-package tr.edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 public class Reflection_01Main {
 

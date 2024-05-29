@@ -9,9 +9,9 @@ import java.io.ObjectInputStream;
 public class SerializeTest2 {
 
     public static void main(String[] args) {
-        Employee e1=null ;
+        //Employee e1=null ;
         Employee e2 = null;
-
+        /*
         e1=new Employee(      "Ahmet"," Maltepe  univ",218123);
         System.out.println("Serialized Employee...");
         System.out.println("reference e: " + e1);
@@ -32,7 +32,7 @@ public class SerializeTest2 {
         }
 
 
-
+       */
         try {
             FileInputStream fileIn = new FileInputStream("/tmp/employee.ser");
             ObjectInputStream in = new ObjectInputStream(fileIn);

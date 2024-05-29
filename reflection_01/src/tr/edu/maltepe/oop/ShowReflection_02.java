@@ -1,4 +1,4 @@
-package tr.edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
@@ -7,15 +7,16 @@ import java.lang.reflect.Type;
 import java.lang.reflect.TypeVariable;
 import java.util.Arrays;
 
-public class ShowReflection_01 {
+public class ShowReflection_02 {
 
     public void printClassName(Object obj) {
 
         System.out.println("The class of " + obj +
                 " is " + obj.getClass().getName());
 
+
     }
-     //tr.edu.sehir.oop.reflectionTest
+
     public void DumpMethods(String aclass) {
 
         try {
@@ -25,27 +26,45 @@ public class ShowReflection_01 {
 
             System.out.println("Methods are: ");
             Method all_m[] = c.getDeclaredMethods();
+            //Type[] pType = c.getGenericParameterTypes()
 
             for (int i = 0; i < all_m.length; i++) {
                 System.out.println("m["+i+"] -->" +all_m[i].toString());
             }
 
 
-            //System.out.println("Canonical name is: "+ c.getCanonicalName() );
-            //System.out.println("package name name is: "+ c.getPackageName() );
+            System.out.println("Canonical name is: "+ c.getCanonicalName() );
 
 
             System.out.println("we can also invoke methods ");
-            //reflectionTest ob1 = new reflectionTest();
-            // ob1.addintegers();
-            //ob1.multiplyintegers();
+
             Object ob = c.getDeclaredConstructor().newInstance();
-            //printClassName(ob);
+            printClassName(ob);
 
             for (Method m : all_m) {
                 String mname = m.getName();
+
                 System.out.println("method -->" +mname);
-                m.invoke(ob);
+                Type[] pType = m.getGenericParameterTypes();
+
+                Object args[]=new Object[pType.length];
+
+                for(int i=0;i< pType.length;i++){
+                    System.out.println("parameter["+i+"] "+ pType[i]);
+
+                    args[i]=(Object)pType[i];
+
+                }
+
+
+                if (pType.length == 2) {
+                    args[0] = 50;
+                    args[1] = 250;
+                }
+               // m.invoke(ob,4,6);
+                m.invoke(ob,args);
+                //amethod.invoke(ob,5,23);
+                //amethod.invoke(ob,args);
 
             }
 
