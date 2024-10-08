@@ -43,7 +43,7 @@ public class ShallowCopyTest {
         System.out.println(std1.getSwengcourses().getCourse1());
         System.out.println(std1.getSwengcourses().getCourse2());
 
-
+       /*
 
 
         System.out.println("\n---------------------------------------------------- ");
@@ -72,12 +72,12 @@ public class ShallowCopyTest {
         System.out.println("Name: "+std2.getStudentName());
         System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
          System.out.println("Course name: "+std2.getSwengcourses().getCourse2());
-         /*
+
         //Printing all the courses of 'student2'
         System.out.println("Courses of stdudent 2: ");
         System.out.println(std2.swengcourses.course1);
         System.out.println(std2.swengcourses.course2);
-        */
+
 
         //Changing the course3 of 'student 22'
 
@@ -95,7 +95,7 @@ public class ShallowCopyTest {
         System.out.println("std2 course1 "+std2.getSwengcourses().getCourse1());
          System.out.println("std2 course2 "+std2.getSwengcourses().getCourse2());
 
-
+        */
 
     }
 
