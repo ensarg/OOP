@@ -1,5 +1,5 @@
 package tr.edu.maltepe.oop;
-public class Ihheritance_ex2 {
+public class Inheritance_ex2 {
     public static void main(String[] args) {
 
         Cat cat = new Cat("Tekir");
