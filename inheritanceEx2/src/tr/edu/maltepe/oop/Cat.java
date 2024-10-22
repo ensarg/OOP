@@ -14,7 +14,7 @@ public class Cat {
 
         try {
             // Load the sound file (replace "meow.wav" with the correct path if needed)
-            File soundFile = new File("/home/ensar/myprog/sounds/cat.wav");
+            File soundFile = new File("/home/ensar/IdeaProjects/sounds/cat.wav");
 
             // Create an AudioInputStream from the sound file
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(soundFile);
