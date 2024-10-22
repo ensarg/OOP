@@ -7,7 +7,7 @@ public class testPolymorphism_1 {
 
     public static void main(String[] args) {
 
-        Vector v = new  Vector(10);
+        Vector <Vehicle> v = new  Vector<>(10);
 
         Random rand=new Random();
 
@@ -46,12 +46,12 @@ public class testPolymorphism_1 {
             else if (r==1)
                 v.add(new Car(" 34 Car "+i));
             else
-                System.out.println("\nimpsosible case");
+                System.out.println("\nimpossible case");
 
         }
 
         for (int i=0;i < v.size();i++) {
-            vh =  (Vehicle)v.get(i);
+            vh =  v.get(i);
             vh.move();
         }
 
@@ -59,7 +59,7 @@ public class testPolymorphism_1 {
         System.out.println("\nmotorbike count:"+MotorBike.getNumberofmotorbikes());
         System.out.println("\nvehicle count:"+Vehicle.getVehiclecount());
         /*
-        System.out.println("\nvehicle plates.................................\n");
+        System.out.println("\n vehicle plates.................................\n");
 
         for (int i=0;i < v.size();i++) {
             vh =  (Vehicle)v.get(i);
