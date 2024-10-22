@@ -34,7 +34,7 @@ public class ShowReflection_01 {
 
 
             /*----------------------invoke methods----------------------*/
-            /*
+
             System.out.println("we can also invoke methods ");
             Object ob = c.getDeclaredConstructor().newInstance();
 
@@ -45,7 +45,6 @@ public class ShowReflection_01 {
 
             }
 
-             */
 
 
         /*-----------------invoke methods with parameters----------------*/
