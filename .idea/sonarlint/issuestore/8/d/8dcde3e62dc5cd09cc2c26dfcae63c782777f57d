@@ -1,18 +1,18 @@
 
 r
 java:S3740
-"/Provide the parametrized type for this generic.(”¢•‡8ˆæì±ğ1J$3b4dfc9c-49ad-4e89-a978-3adca37ce2b0
+"/Provide the parametrized type for this generic.(”¢•‡8ˆæì±ğ1J$b93372e9-71df-4f38-ace9-d06fc124cbe5
 r
 java:S3740
-"/Provide the parametrized type for this generic.(”¢•‡8‰æì±ğ1J$d7447ef7-0a07-441a-980f-e86f81d573bf
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢8æì±ğ1J$f03840f8-6e74-4156-bca9-9a09fff606b3
+"/Provide the parametrized type for this generic.(”¢•‡8‰æì±ğ1J$c8f42c61-7364-4546-8218-c12bd9524975
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Á…¢8æì±ğ1J$cc41e080-78db-4008-b13e-a0072d068552
 ¨
 java:S1149
-"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”¢•‡8•æì±ğ1J$a5377746-137f-45f9-8c7f-900c25400689
-~	java:S125"<This block of commented-out lines of code should be removed.(öÇ Ó8¤æì±ğ1J$601e40b1-d33d-47d0-a644-d744d91defde
-r	java:S1061"+Replace this use of System.out by a logger.(ÀÅªşÿÿÿÿ8ÔŞí±ğ1J$35521489-ddf1-48dc-8d5a-16dac9202245
-m	java:S106:"+Replace this use of System.out by a logger.(—Ì¤·8×Şí±ğ1J$f47afe6f-116b-4d36-9bda-b7e5fbbd858e
-m	java:S106;"+Replace this use of System.out by a logger.(ğÑı”8ÙŞí±ğ1J$54a608f9-537e-4981-9459-f8a5e43083b2
-r	java:S106<"+Replace this use of System.out by a logger.(ğ¿ÌÛøÿÿÿÿ8ÛŞí±ğ1J$0374c805-8d4a-4f80-9fe3-ec92cc178da3
-ƒ	java:S125>"<This block of commented-out lines of code should be removed.(Õ³ ûÿÿÿÿ8İŞí±ğ1J$49aa478e-dc83-4dff-bec1-c807e8b0d3b9
-ƒ	java:S125F"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ8¥æì±ğ1J$76e9363b-d387-4df0-b78f-f072ef23673e
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”¢•‡8•æì±ğ1J$e25f8d05-51d6-41d3-9117-32251471b965
+~	java:S125"<This block of commented-out lines of code should be removed.(öÇ Ó8¤æì±ğ1J$5bc6bc80-3284-47ad-b926-14bfd0371ec9
+r	java:S1061"+Replace this use of System.out by a logger.(ÀÅªşÿÿÿÿ8ÔŞí±ğ1J$153106f1-e2fd-407b-95f9-f5ff662dc6a3
+m	java:S106:"+Replace this use of System.out by a logger.(—Ì¤·8×Şí±ğ1J$f75c431e-c912-42f6-8331-5dc91781d831
+m	java:S106;"+Replace this use of System.out by a logger.(ğÑı”8ÙŞí±ğ1J$3627218b-419b-4035-ba4b-eb8963f1d66d
+r	java:S106<"+Replace this use of System.out by a logger.(ğ¿ÌÛøÿÿÿÿ8ÛŞí±ğ1J$ef0e0afb-f1bc-4ffd-aee3-993396f0815d
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(Õ³ ûÿÿÿÿ8İŞí±ğ1J$fa9767dc-3afb-4713-a3e7-37e714a6e2c9
+ƒ	java:S125F"<This block of commented-out lines of code should be removed.(ÔóÊËÿÿÿÿÿ8¥æì±ğ1J$b8d2a373-257d-4e29-82eb-168f5c6634cc

@@ -17,15 +17,20 @@ public class ClassLoader_01 {
          ob = c.getDeclaredConstructor().newInstance();
 
         Method md[] = c.getDeclaredMethods();
+        String mname = md[1].getName();
+        System.out.println("method -->" +mname);
+        md[1].invoke(ob);
+       /*
         for (Method m : md ){
             String mname = m.getName();
             System.out.println("method -->" +mname);
             m.invoke(ob);
 
         }
-
+        */
        // Test2 tt = new Test2();
        // tt.addnumbers();
 
     }
-}
+    }
+

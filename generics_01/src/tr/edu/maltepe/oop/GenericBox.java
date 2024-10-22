@@ -12,7 +12,6 @@ public class GenericBox<T> {
        System.out.println("element is: " + element);
     }
 
-
     }
 
 

@@ -1,9 +1,9 @@
 
-‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¯İ³øÿÿÿÿJ$a2909db8-6bf5-4141-972a-7a513fbbc7f8
-•	java:S116"ZRename this field "motorbike_brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’à¿ÆJ$50ab6699-b2aa-481f-a50e-bfb16174d2f8
-k	java:S106"+Replace this use of System.out by a logger.(³¼İ¨ıÿÿÿÿJ$bf404962-f22c-4a9b-8de5-8332805ec010
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¯İ³øÿÿÿÿJ$06de7b07-3416-42af-9018-33b5b89fb6d3
+•	java:S116"ZRename this field "motorbike_brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’à¿ÆJ$cc121c83-fc89-4dec-8f36-4abf441097a1
+k	java:S106"+Replace this use of System.out by a logger.(³¼İ¨ıÿÿÿÿJ$8251f689-7e7b-4655-bb97-0d0f50ddab89
 ‚
-java:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8”‘’Áû0J$943cc45a-b631-4521-a6e2-f01d6b547b5b
-G	java:S106"+Replace this use of System.out by a logger.(èèîØ8âÙÀ±ğ1
+java:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8”‘’Áû0J$33932769-3c3a-4e4d-9e23-21fc3d55f08e
+m	java:S106"+Replace this use of System.out by a logger.(èèîØ8âÙÀ±ğ1J$07cddf84-817c-4576-a3b8-6bad1a0f48d2
 v
-java:S1068"3Remove this unused "motorbike_brand" private field.(’à¿Æ8Ò›ıÁû0J$5a122ecf-9e8f-4ecf-9de7-8f8b42e3f45a
+java:S1068"3Remove this unused "motorbike_brand" private field.(’à¿Æ8Ò›ıÁû0J$6735b3e6-937b-4362-8c66-561b36f3fb06

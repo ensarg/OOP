@@ -1,24 +1,18 @@
 
-]
-java:S22590"@A "NullPointerException" could be thrown; "e2" is nullable here.(äÌÓù8àÙï¸Æ1
-j
-java:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(³ı¥ı8áÙï¸Æ1
-k
-java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(œñ¶¯8áÙï¸Æ1
-r
-java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8âÙï¸Æ1
-q
-java:S2095!"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8âÙï¸Æ1
-W
-java:S1854""5Remove this useless assignment to local variable "e".(éĞ˜íüÿÿÿÿ8ˆ’í¸Æ1
-L	java:S106"+Replace this use of System.out by a logger.(À—€øûÿÿÿÿ8¾åß¸Æ1
-B
-java:S3457"%String contains no format specifiers.(§åşø8Æåß¸Æ1
-G	java:S106"+Replace this use of System.out by a logger.(§åşø8Çåß¸Æ1
-G	java:S106*"+Replace this use of System.out by a logger.(¡Ïîó8Ïåß¸Æ1
-G	java:S106/"+Replace this use of System.out by a logger.(÷ö——8Ğåß¸Æ1
-G	java:S1060"+Replace this use of System.out by a logger.(äÌÓù8Ñåß¸Æ1
-L	java:S1061"+Replace this use of System.out by a logger.(½ÁéĞùÿÿÿÿ8Óåß¸Æ1
-L	java:S1062"+Replace this use of System.out by a logger.(­°ğÅıÿÿÿÿ8Ôåß¸Æ1
-L	java:S1063"+Replace this use of System.out by a logger.(æú¥íşÿÿÿÿ8Ôåß¸Æ1
-]	java:S1254"<This block of commented-out lines of code should be removed.(ÈÇÔ˜ùÿÿÿÿ8Õåß¸Æ1
+
+java:S2095%"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(³ı¥ı8Ú«³ù1J$f2b82e32-359f-4ec8-8d80-20aa7a88d90d
+—
+java:S2095&"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8Ú«³ù1J$06c2f570-ac4f-44c5-a37e-28fcde7926dc
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(‹çÅíûÿÿÿÿ8²¯«³ù1J$199a9ed4-cf63-4942-b5a8-0c02951bc258
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(á¨íøÿÿÿÿ8ã«³ù1J$abcc12c5-714d-4fa5-8036-6c52a22ccb16
+m	java:S106/"+Replace this use of System.out by a logger.(¡Ïîó8ê«³ù1J$4b08bf48-635a-43a5-88bb-e83b06cf1b71
+m	java:S1064"+Replace this use of System.out by a logger.(÷ö——8ë«³ù1J$acca9131-4240-49d5-8f7d-2d7a8967ebce
+m	java:S1065"+Replace this use of System.out by a logger.(äÌÓù8ì«³ù1J$184877ff-f22c-4b7a-91ed-793cfcbd0634
+r	java:S1066"+Replace this use of System.out by a logger.(½ÁéĞùÿÿÿÿ8ì«³ù1J$902a2aeb-83c9-4740-b764-5b59648d2aef
+r	java:S1067"+Replace this use of System.out by a logger.(­°ğÅıÿÿÿÿ8í«³ù1J$27623634-c8c9-4960-8210-7592adaadae9
+r	java:S1068"+Replace this use of System.out by a logger.(æú¥íşÿÿÿÿ8î«³ù1J$974e6c8b-1802-4d73-a680-8cfd4749246b
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(ÈÇÔ˜ùÿÿÿÿ8î«³ù1J$22a8dcac-28ca-43a4-85af-8dadc66de89c
+w
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8ğ«³ù1J$d6227867-ee64-44e9-a012-e976b65fc9a3
+
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8ñ«³ù1J$14914e16-b835-49ef-8a28-44ea1af046c3

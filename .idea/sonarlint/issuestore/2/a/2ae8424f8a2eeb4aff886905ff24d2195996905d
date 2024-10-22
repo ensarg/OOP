@@ -15,7 +15,7 @@ Q
 java:S1854Έ":Remove this useless assignment to local variable "pieceX".(›©Φ
 B
 java:S1481Έ"+Remove this unused "pieceX" local variable.(›©Φ
-T	java:S106ύ"9Replace this use of System.out or System.err by a logger.(¦Ò™ζωÿÿÿÿ
+F	java:S106ύ"+Replace this use of System.out by a logger.(¦Ò™ζωÿÿÿÿ
 u
 java:S3012…"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ς±Η²ψÿÿÿÿ
 F

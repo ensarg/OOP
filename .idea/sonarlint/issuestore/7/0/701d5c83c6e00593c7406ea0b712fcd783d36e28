@@ -1,38 +1,38 @@
 
-f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·—å
-^
-java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8ªûÁ¼1
-^
-java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8«ûÁ¼1
-^
-java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8¬ûÁ¼1
-d
-java:S2184R"GCast one of the operands of this multiplication operation to a "float".(÷·Ò8¬ûÁ¼1
-p	java:S116"VRename this field "other_balls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞèÑ—şÿÿÿÿ
-D
-java:S1948"'Make "balls" transient or serializable.(¿®´¤8¦Â¼1
-O
-java:S1948"-Make "other_balls" transient or serializable.(ŞèÑ—şÿÿÿÿ8§Â¼1
-B
-java:S1948"%Make "box" transient or serializable.(¼ãàÕ8¨Â¼1
-{
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿®´¤
-€
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞèÑ—şÿÿÿÿ
-{
-java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—å
-{
-java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—å
-Q	java:S125"<This block of commented-out lines of code should be removed.(¿®´¤
-:
-java:S1659'"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
-V	java:S1257"<This block of commented-out lines of code should be removed.(…·õîúÿÿÿÿ
-V	java:S125?"<This block of commented-out lines of code should be removed.(ø³››ÿÿÿÿÿ
-E	java:S106q"+Replace this use of System.out by a logger.(‚Ò¨Ãùÿÿÿÿ
-P
-java:S1161x":Add the "@Override" annotation above this method signature(“–ış
-z
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÚíĞİşÿÿÿÿ
-D	java:S108")Either remove or fill this block of code.(ÚíĞİşÿÿÿÿ
-W	java:S125•"<This block of commented-out lines of code should be removed.(şãĞ°şÿÿÿÿ
-R	java:S125§"<This block of commented-out lines of code should be removed.(„¯íº
+Œ	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·—åJ$e914d372-4a0a-41fe-9be7-1797fccfca6d
+„
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8ªûÁ¼1J$d6b1fc8c-443d-4d88-8bed-98e1a3267c86
+„
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8«ûÁ¼1J$eeeacc9b-3fad-49e7-be72-2f6deb4ade50
+„
+java:S2184D"ACast one of the operands of this addition operation to a "float".(‚ç­ö8¬ûÁ¼1J$bf903378-1b57-4aeb-b0ba-184000532ac8
+Š
+java:S2184R"GCast one of the operands of this multiplication operation to a "float".(÷·Ò8¬ûÁ¼1J$f0cd7a2f-a75b-46ce-aab2-00a07b2a4469
+–	java:S116"VRename this field "other_balls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞèÑ—şÿÿÿÿJ$952e7e51-1d32-4fda-b139-5e1736f12e85
+j
+java:S1948"'Make "balls" transient or serializable.(¿®´¤8¦Â¼1J$e8f236b6-0329-40d9-b39a-acdfc6f439a3
+u
+java:S1948"-Make "other_balls" transient or serializable.(ŞèÑ—şÿÿÿÿ8§Â¼1J$5b81b8bc-1e60-4e21-a032-746286bcbcb3
+h
+java:S1948"%Make "box" transient or serializable.(¼ãàÕ8¨Â¼1J$87c67824-120e-4a55-8949-bf151072face
+¡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿®´¤J$a692ab3b-2d01-4207-b964-562ebcc4880e
+¦
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŞèÑ—şÿÿÿÿJ$1e4264e0-587b-4e49-944b-b893f8a11549
+¡
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—åJ$d19e2e2f-114e-4802-9918-c8c072339007
+¡
+java:S1149&"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(–·—åJ$25e3d650-4daa-42fd-8156-75812a60dabd
+w	java:S125"<This block of commented-out lines of code should be removed.(¿®´¤J$da11fdab-c0c4-4f23-a89f-36f54e458f0b
+`
+java:S1659'"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿJ$7717d384-418a-4e69-93c2-874bdac91f36
+|	java:S1257"<This block of commented-out lines of code should be removed.(…·õîúÿÿÿÿJ$a43dddca-b540-442b-99cd-0a3e5950290c
+|	java:S125?"<This block of commented-out lines of code should be removed.(ø³››ÿÿÿÿÿJ$c6170112-9e13-4f24-943f-f8099c1640a0
+k	java:S106q"+Replace this use of System.out by a logger.(‚Ò¨ÃùÿÿÿÿJ$a1bb2f23-49fa-4998-a793-026702d6664a
+v
+java:S1161x":Add the "@Override" annotation above this method signature(“–ışJ$6e601d45-2b58-4dd0-a36f-80900afea111
+ 
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÚíĞİşÿÿÿÿJ$652d31fe-efe2-4a50-92d0-3217e1e7a443
+j	java:S108")Either remove or fill this block of code.(ÚíĞİşÿÿÿÿJ$4adaacf9-efa8-4c20-ad85-cf7a606d1626
+}	java:S125•"<This block of commented-out lines of code should be removed.(şãĞ°şÿÿÿÿJ$ac16f5db-bb42-40e8-81a2-2a993c2bbf19
+x	java:S125§"<This block of commented-out lines of code should be removed.(„¯íºJ$6852f252-f1d8-46ed-a03f-8c83089ce667

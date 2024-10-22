@@ -1,8 +1,9 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à½Õ½8»ÄÇÌ1
-G
-java:S1197"*Move the array designators [] to the type.(Š¨ÿƒ8äÄÇÌ1
-G	java:S106"+Replace this use of System.out by a logger.(ñÒ‡8èÄÇÌ1
-W	java:S125"<This block of commented-out lines of code should be removed.(µªİ8éÄÇÌ1
-q
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(›Ö³ğ8êÄÇÌ1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à½Õ½8Û‰ş1J$dc56acdd-a000-48db-9e47-12f4cf821bce
+m
+java:S1197"*Move the array designators [] to the type.(Š¨ÿƒ8ø‰ş1J$395e737e-c538-4bad-9d61-e0de284366c4
+m	java:S106"+Replace this use of System.out by a logger.(ñÒ‡8û‰ş1J$feceae9a-5a28-4bd8-aa0e-46b192953470
+}	java:S125"<This block of commented-out lines of code should be removed.(çßòy8ı‰ş1J$ee6488ad-febb-46ab-bee6-b75795fdc33a
+}	java:S125"<This block of commented-out lines of code should be removed.(µªİ8ı‰ş1J$12f3ed62-acd0-4c0a-9154-1fc1d71d1afd
+—
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(›Ö³ğ8ÿ‰ş1J$5e010e4d-493e-4386-9e9a-8a3ea07e0349

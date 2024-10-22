@@ -1,8 +1,8 @@
 
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íì»‰ÿÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©Œç†
-Q	java:S125 "<This block of commented-out lines of code should be removed.(³æÎÝ
-E	java:S106%"+Replace this use of System.out by a logger.(ÀÎ«ýÿÿÿÿ
-P	java:S125."<This block of commented-out lines of code should be removed.(Ê».
-V	java:S125A"<This block of commented-out lines of code should be removed.(ô¯ú¸ùÿÿÿÿ
-V	java:S125I"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Íì»‰ÿÿÿÿÿJ$9a7a9adc-0746-42e1-9a3e-4555a8cd15a7
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©Œç†J$a05989b2-7425-4cef-b985-8656d0599ca0
+w	java:S125 "<This block of commented-out lines of code should be removed.(³æÎÝJ$00bb4b09-1854-4145-b12d-825c6bee48ea
+k	java:S106%"+Replace this use of System.out by a logger.(ÀÎ«ýÿÿÿÿJ$b1a62fc0-4479-447e-9ccc-33875d746ee2
+v	java:S125."<This block of commented-out lines of code should be removed.(Ê».J$173b7da1-df59-4be7-82e0-108537b948fd
+|	java:S125A"<This block of commented-out lines of code should be removed.(ô¯ú¸ùÿÿÿÿJ$54c8f2a5-0a0d-4a15-b282-9d3f73d305a7
+|	java:S125I"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿJ$32c1cf3b-926f-4ebc-8751-09658361d22a

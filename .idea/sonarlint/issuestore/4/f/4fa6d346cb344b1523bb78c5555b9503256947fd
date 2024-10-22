@@ -1,11 +1,7 @@
 
-t
-java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "x".(Žìðíúÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
-V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-V	java:S125""<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-W
-java:S1854-"5Remove this useless assignment to local variable "i".(ûõ¯™øÿÿÿÿ8Å‚ÿ„€1
-H
-java:S1481,"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ8Ö‚ÿ„€1
-@	java:S1060"+Replace this use of System.out by a logger.(°öÞÊ
+¡
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "x".(Žìðíúÿÿÿÿ8¶þ±“÷1J$db4848d4-ed4f-4411-b246-bb91092a608e
+~	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8Ãþ±“÷1J$7119fd1a-cceb-49a2-bb6f-21e5eeb40cdf
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Æþ±“÷1J$aaa784f1-a839-4af6-8ec9-7619c2fad5f6
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Æþ±“÷1J$82b600a8-5c86-46b5-8916-44cf06b7ed3d
+r	java:S1064"+Replace this use of System.out by a logger.(¥Æäèüÿÿÿÿ8Éþ±“÷1J$773fc406-9d25-4ef4-9424-11609f0bc6a7
