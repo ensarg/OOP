@@ -4,51 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="simple 3">
-      <change afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/maltepe/oop/CSStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflection_01/src/tr/edu/maltepe/oop/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06f296727f57f17ee9b257efff51170f4eb5733b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06f296727f57f17ee9b257efff51170f4eb5733b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ece84a614e9cbbf6297c3068eb889467f6da2c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ece84a614e9cbbf6297c3068eb889467f6da2c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/187b8594521e5a494e6bd54ffc06c20f2a61cf77" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/187b8594521e5a494e6bd54ffc06c20f2a61cf77" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/274546ed7e183d81a636fa7756f8626d6135f08b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/274546ed7e183d81a636fa7756f8626d6135f08b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2909613764a4da43ec0d09370265a8338e564762" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2909613764a4da43ec0d09370265a8338e564762" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29c88acee3d01e652c40322eea1149227b0866f8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29c88acee3d01e652c40322eea1149227b0866f8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ae8424f8a2eeb4aff886905ff24d2195996905d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ae8424f8a2eeb4aff886905ff24d2195996905d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c492129436e4eb086ab1c8d56e5aa142a3882fb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c492129436e4eb086ab1c8d56e5aa142a3882fb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37e66c5c7c6b63583deb1417aad894f2ad0467fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dd4734ca6e3f3d139b34b83b58c9efdea96b67b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dd4734ca6e3f3d139b34b83b58c9efdea96b67b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fa6d346cb344b1523bb78c5555b9503256947fd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fa6d346cb344b1523bb78c5555b9503256947fd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57e57b56c1d5466d999fec5f74fc674494577e26" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57e57b56c1d5466d999fec5f74fc674494577e26" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ca2dc547c10d96cc0766634c3cb689468faf168" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ca2dc547c10d96cc0766634c3cb689468faf168" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f4841ecfa7f93653a847177e3358d6594783e28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/636c0990fe5e62349fb2590f7c40dfa7d0b0cab6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/636c0990fe5e62349fb2590f7c40dfa7d0b0cab6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66a0088f3de148cf1c14e364a758a4b17755cc09" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66a0088f3de148cf1c14e364a758a4b17755cc09" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68014ce8b6ab09260361ce5eafa946e95777f73b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/701d5c83c6e00593c7406ea0b712fcd783d36e28" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/701d5c83c6e00593c7406ea0b712fcd783d36e28" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/831a8003dcbaaf65282ccb358f82d953957219b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dcde3e62dc5cd09cc2c26dfcae63c782777f57d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dcde3e62dc5cd09cc2c26dfcae63c782777f57d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93038c360bc8c2804c03197e4912803f2f5d23ff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93038c360bc8c2804c03197e4912803f2f5d23ff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/964509490dac72af2ad136e3bb4a9799a202c46e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6ff9691faa1b9490e6be78f183f8c964d6f2c7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac6ff9691faa1b9490e6be78f183f8c964d6f2c7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b67cf01416b3e229c9f9b72ff541ef27463c8ba9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b67cf01416b3e229c9f9b72ff541ef27463c8ba9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a57d1bbf8c13534755a744ed69be2b4b59ab60" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a57d1bbf8c13534755a744ed69be2b4b59ab60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cee53554aed88f6b6d35f036c1e5313496d59822" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cee53554aed88f6b6d35f036c1e5313496d59822" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e41c1ea8507e2ab69b11432c291bab468abd3f8b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e41c1ea8507e2ab69b11432c291bab468abd3f8b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f400318c9ae47219552f93280095c7913c93d7db" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f400318c9ae47219552f93280095c7913c93d7db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/37e66c5c7c6b63583deb1417aad894f2ad0467fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5f4841ecfa7f93653a847177e3358d6594783e28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/8/68014ce8b6ab09260361ce5eafa946e95777f73b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/831a8003dcbaaf65282ccb358f82d953957219b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/6/964509490dac72af2ad136e3bb4a9799a202c46e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="class cat">
+      <change afterPath="$PROJECT_DIR$/hasarelation/src/tr/edu/maltepe/oop/Tyre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/maltepe/oop/ClassLoader_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/maltepe/oop/ClassLoader_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classLoader_01/src/tr/edu/maltepe/oop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/classLoader_01/src/tr/edu/maltepe/oop/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics_01/src/tr/edu/maltepe/oop/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics_01/src/tr/edu/maltepe/oop/GenericBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hasarelation/src/tr/edu/maltepe/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/hasarelation/src/tr/edu/maltepe/oop/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hasarelation/src/tr/edu/maltepe/oop/HasRelMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/hasarelation/src/tr/edu/maltepe/oop/HasRelMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +21,9 @@
       <list>
         <option value="module-info" />
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -75,7 +32,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ensarg&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -84,12 +48,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/reflection_01/src/tr/edu/maltepe/oop/CSStudent.java" root0="SKIP_INSPECTION" />
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ensarg/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;70fb6007-23b9-400d-bfc8-7ce0a36c314f&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="20UoBG1eTiGZuJPTC4kDz961IYy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -98,29 +68,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.inheritance_ex2.executor": "Run",
+    "Application.polymothism1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/open_closed_q/src" />
@@ -132,17 +104,11 @@
       <recent name="$PROJECT_DIR$/send_object1/src" />
       <recent name="$PROJECT_DIR$/Liskov_01/src/tr/edu/maltepe/ood" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="tr.edu.sehir.basics" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.simple3">
+  <component name="RunManager" selected="Application.inheritance_ex2">
     <configuration name="BW4memory" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallMemoryTest" />
       <module name="ballGame4" />
@@ -194,6 +160,7 @@
     </configuration>
     <configuration name="ballgame1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.BallGame1" />
+      <module name="ballgame" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -388,6 +355,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritance_ex2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-1.8.0_422/jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Ihheritance_ex2" />
+      <module name="inheritanceEx2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="inheritex1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -409,15 +385,6 @@
     <configuration name="iterator2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Iterator2" />
       <module name="iterator2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java-tetris-original" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="game.Launcher" />
-      <module name="java-tetris-unmodified" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -521,9 +488,9 @@
     <configuration name="reflection1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Reflection_01Main" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Reflection_01Main" />
       <module name="reflection_01" />
-      <option name="PROGRAM_PARAMETERS" value="tr.edu.maltepe.oop.reflectionTest" />
+      <option name="PROGRAM_PARAMETERS" value="tr.edu.sehir.oop.reflectionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -531,7 +498,7 @@
     <configuration name="reflection_01" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Reflection_01Main" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.oop.Reflection_01Main" />
       <module name="reflection_01" />
       <option name="PROGRAM_PARAMETERS" value="tr.edu.sehir.oop.reflectionTest" />
       <method v="2">
@@ -580,15 +547,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simple3" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Simple3Main" />
-      <module name="simple3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sort_integers" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="SortIntegers" />
       <module name="sort_int_num" />
@@ -633,7 +591,7 @@
     <configuration name="test_generics" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tr.edu.maltepe.oop.Test_Generics_01" />
+      <option name="MAIN_CLASS_NAME" value="tr.edu.sehir.basics.Test_Generics_01" />
       <module name="generics_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -720,7 +678,6 @@
       <item itemvalue="Application.tetris1" />
       <item itemvalue="Application.tetris2" />
       <item itemvalue="Application.java_tetris" />
-      <item itemvalue="Application.java-tetris-original" />
       <item itemvalue="Application.MidtermQ3" />
       <item itemvalue="Application.tetris-unmodified" />
       <item itemvalue="Application.test_generics" />
@@ -729,9 +686,9 @@
       <item itemvalue="Application.hello1" />
       <item itemvalue="Application.iterator2" />
       <item itemvalue="Application.polymothism1" />
+      <item itemvalue="Application.inheritance_ex2" />
       <item itemvalue="Application.staticvartest" />
       <item itemvalue="Application.shallow_copy" />
-      <item itemvalue="Application.simple3" />
       <item itemvalue="Application.serialize2" />
       <item itemvalue="Application.recursive1" />
       <item itemvalue="Application.quicksort" />
@@ -756,6 +713,14 @@
       <item itemvalue="Application.makeup_01" />
       <item itemvalue="Application.simple2b" />
     </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -927,18 +892,12 @@
       <workItem from="1710856668418" duration="9079000" />
       <workItem from="1713264233956" duration="3061000" />
       <workItem from="1713363955362" duration="611000" />
-      <workItem from="1713780556767" duration="5344000" />
-      <workItem from="1714407629068" duration="1445000" />
-      <workItem from="1715006085823" duration="5103000" />
-      <workItem from="1715088441781" duration="4794000" />
-      <workItem from="1715679298528" duration="9732000" />
-      <workItem from="1716300798496" duration="501000" />
-      <workItem from="1716368916462" duration="1364000" />
-      <workItem from="1716900305686" duration="4507000" />
-      <workItem from="1717508133491" duration="4597000" />
-      <workItem from="1719325286200" duration="314000" />
-      <workItem from="1727763291547" duration="2284000" />
-      <workItem from="1729578194859" duration="635000" />
+      <workItem from="1713780556767" duration="4691000" />
+      <workItem from="1727186367569" duration="1297000" />
+      <workItem from="1727187684290" duration="251000" />
+      <workItem from="1729574590992" duration="94000" />
+      <workItem from="1729574695361" duration="2029000" />
+      <workItem from="1732597193803" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -1276,15 +1235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1681823935184</updated>
     </task>
-    <task id="LOCAL-00061" summary="simple 3">
+    <task id="LOCAL-00057" summary="class cat">
       <option name="closed" value="true" />
-      <created>1728368645881</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+      <created>1729576581546</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1728368645881</updated>
+      <updated>1729576581546</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1303,6 +1262,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="day and week question" />
+    <MESSAGE value="dependency injection" />
+    <MESSAGE value="echo client and server" />
     <MESSAGE value="encapsulation" />
     <MESSAGE value="exception handling" />
     <MESSAGE value="iterator" />
@@ -1324,11 +1286,8 @@
     <MESSAGE value="simple linked list" />
     <MESSAGE value="abstract class def" />
     <MESSAGE value="has a relation files" />
-    <MESSAGE value="object copy and exception handling" />
-    <MESSAGE value="serialize update test" />
-    <MESSAGE value="refactor reflection" />
-    <MESSAGE value="simple 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple 3" />
+    <MESSAGE value="class cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="class cat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1350,8 +1309,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/serialize2/src/tr/edu/maltepe/oop/SerializeTest2.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="6" />
+          <line>20</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/serialize2/src/tr/edu/maltepe/oop/Employee.java</url>
@@ -1361,8 +1320,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OOP$BW4memory.ic" NAME="BW4memory Coverage Results" MODIFIED="1716300878032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

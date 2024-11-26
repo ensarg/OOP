@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/httpServer_02/httpServer_02.iml" filepath="$PROJECT_DIR$/httpServer_02/httpServer_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpTest/httpTest.iml" filepath="$PROJECT_DIR$/httpTest/httpTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritanceEx1/inheritanceEx1.iml" filepath="$PROJECT_DIR$/inheritanceEx1/inheritanceEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceEx2/inheritanceEx2.iml" filepath="$PROJECT_DIR$/inheritanceEx2/inheritanceEx2.iml" />
       <module fileurl="file://$PROJECT_DIR$/intMaxValues/intMaxValues.iml" filepath="$PROJECT_DIR$/intMaxValues/intMaxValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface01/interface01.iml" filepath="$PROJECT_DIR$/interface01/interface01.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface02/interface02.iml" filepath="$PROJECT_DIR$/interface02/interface02.iml" />
