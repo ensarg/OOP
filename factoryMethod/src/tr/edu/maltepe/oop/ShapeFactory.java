@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 /**
  * Created by ensar on 17.10.2016.

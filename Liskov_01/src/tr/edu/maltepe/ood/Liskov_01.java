@@ -7,7 +7,7 @@ public class Liskov_01 {
     public static void main(String[] args) {
 
         Vector<Rectangle> rectangles = new Vector<Rectangle>();
-        /*
+
         Rectangle r = new Rectangle(20,10);
 
         System.out.println("rectangle area is : " + r.getArea());
@@ -16,7 +16,6 @@ public class Liskov_01 {
 
         System.out.println("square area is : " + sq.getArea());
 
-         */
 
         Square r2 = new Square(20);
 

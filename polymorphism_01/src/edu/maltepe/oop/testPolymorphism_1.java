@@ -7,13 +7,13 @@ public class testPolymorphism_1 {
 
     public static void main(String[] args) {
 
-        Vector <Vehicle> v = new  Vector<>(10);
+       Vector <Vehicle> v = new  Vector<>(10);
 
         Random rand=new Random();
 
         Vehicle  vh;
         //---------------------------------------------section 1----------------
-      /*
+        /*
         Vehicle vh1,vh2,vh3;
 
 
@@ -58,21 +58,21 @@ public class testPolymorphism_1 {
         System.out.println("\ncar count:"+Car.getNumberofcars());
         System.out.println("\nmotorbike count:"+MotorBike.getNumberofmotorbikes());
         System.out.println("\nvehicle count:"+Vehicle.getVehiclecount());
-        /*
+
         System.out.println("\n vehicle plates.................................\n");
 
         for (int i=0;i < v.size();i++) {
             vh =  (Vehicle)v.get(i);
             vh.printVehiclePlate();
         }
-        */
-        /*
+
+/*
         for (int i=0;i < v.size();i++) {
 
             vh =  (Vehicle)v.get(i);
             vh.move();
         }
-      */
+
         //---------------------------------------------end of section 2----------------
 
     }

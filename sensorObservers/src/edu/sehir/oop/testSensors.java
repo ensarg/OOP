@@ -7,6 +7,7 @@ public class testSensors{
         ss.register( new Gates()        );
         ss.register( new Lighting()     );
         ss.register( new Surveillance() );
+
         ss.soundTheAlarm();
     }
 }

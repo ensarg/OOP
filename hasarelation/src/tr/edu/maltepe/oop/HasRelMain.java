@@ -4,7 +4,7 @@ public class HasRelMain {
    public static void main(String[] args) {
 
       Tyre[] carTyres = {
-              new Tyre("Michelin"),
+              new Tyre("GoodYear"),
               new Tyre("Michelin"),
               new Tyre("Michelin"),
               new Tyre("Michelin")

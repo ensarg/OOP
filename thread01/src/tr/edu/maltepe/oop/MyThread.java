@@ -1,4 +1,4 @@
-package tr.edu.sehir.basics;
+package tr.edu.maltepe.oop;
 
 public class MyThread extends Thread{
     private String name;

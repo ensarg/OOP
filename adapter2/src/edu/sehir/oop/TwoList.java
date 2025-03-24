@@ -110,9 +110,9 @@ public class TwoList extends Frame
         }
     }
     //--------------------------------------------
-    /*
+
     static public void main(String argv[]) {
         new TwoList();
     }
-    */
+    
 }

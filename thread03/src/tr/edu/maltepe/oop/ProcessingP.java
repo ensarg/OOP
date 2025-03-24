@@ -1,9 +1,8 @@
-package tr.edu.sehir.basics;
+package tr.edu.maltepe.oop;
 
 public class ProcessingP implements Runnable {
     private String pname;
     Counter mycounter;
-
     ProcessingP( String name, Counter cc) {
         this.pname = name;
         this.mycounter =cc;

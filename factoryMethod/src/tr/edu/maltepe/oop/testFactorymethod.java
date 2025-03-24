@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package tr.edu.maltepe.oop;
 
 public class testFactorymethod {
 
@@ -8,9 +8,12 @@ public class testFactorymethod {
 
             //get an object of Circle and call its draw method.
             Shape shape1 = shapeFactory.getShape("CIRCLE");
-
-            //call draw method of Circle
             shape1.draw();
+
+            //Rectangle r1= new Rectangle();
+            //r1.draw();
+            //call draw method of Circle
+
 
             //get an object of Rectangle and call its draw method.
             Shape shape2 = shapeFactory.getShape("RECTANGLE");

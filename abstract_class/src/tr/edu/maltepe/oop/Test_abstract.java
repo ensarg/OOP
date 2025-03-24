@@ -5,7 +5,6 @@ public class Test_abstract {
 
          //Shape sh =new Shape() ;  you can not create object from abstract class
 
-
       // Creating objects of concrete subclasses
          Circle circle = new Circle(5.0);
          Rectangle rectangle = new Rectangle(4.0, 6.0);

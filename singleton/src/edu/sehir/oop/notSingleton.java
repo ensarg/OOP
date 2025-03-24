@@ -8,7 +8,6 @@ public class notSingleton {
     // Private constructor prevents instantiation from other classes
     String e1;
     private notSingleton(){
-
         e1 = new String("ensar Gul");
         instance_counter++;
     }
@@ -25,6 +24,7 @@ public class notSingleton {
      */
 
     public static  notSingleton getInstance() {
+
         return new notSingleton();
     }
 

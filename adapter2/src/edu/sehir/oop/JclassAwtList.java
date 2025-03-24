@@ -21,10 +21,12 @@ public class JclassAwtList extends JList
     }
     //-----------------------------------------
     public void add(String s) {
+
         listContents.addElement(s);
     }
     //-----------------------------------------
     public void remove(String s) {
+
         listContents.removeElement(s);
     }
     //-----------------------------------------

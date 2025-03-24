@@ -7,13 +7,11 @@ class Rectangle extends Shape {
       this.width = width;
       this.height = height;
    }
-
    // Override the abstract method
    @Override
    public double getArea() {
       return width * height;
    }
-
 
    public void displayArea() {
       System.out.println("Area of Rectangle: " + getArea());

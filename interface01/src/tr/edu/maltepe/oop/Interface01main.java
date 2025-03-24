@@ -1,4 +1,4 @@
-package tr.edu.sehir.opp;
+package tr.edu.maltepe.oop;
 
 public class Interface01main {
 

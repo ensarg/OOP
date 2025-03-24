@@ -1,6 +1,6 @@
-package tr.edu.sehir.opp;
+package tr.edu.maltepe.oop;
 
-public class Dog extends AbstractAnimal {
+public class Dog extends Mammal{
   private int speed;
 
   public void Dog(int sp) {
@@ -17,5 +17,8 @@ public class Dog extends AbstractAnimal {
   }
   public void bark() {
     System.out.println("Dog barks");
+  }
+  public void talk() {
+    System.out.println("Dog can not talks");
   }
 }

@@ -1,7 +1,6 @@
 package tr.edu.maltepe.oop;
 
 public class JavaBook {
-
     private String bookname;
     private int number_of_pages;
 

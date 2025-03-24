@@ -1,7 +1,6 @@
 package tr.edu.maltepe.oop;
 
 public class MountainBike extends Bicycle{
-
     // the MountainBike subclass adds one field
     private int seatHeight;
 
@@ -20,6 +19,7 @@ public class MountainBike extends Bicycle{
     }
 
     public void printBikeProperties(){
+
         System.out.println("Bike H:"+seatHeight+"gear:"+getGear());
     }
 
