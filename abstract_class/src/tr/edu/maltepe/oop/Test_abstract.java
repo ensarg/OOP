@@ -10,7 +10,7 @@ public class Test_abstract {
          Rectangle rectangle = new Rectangle(4.0, 6.0);
 
          // Using abstract and concrete methods
-         //circle.displayArea();
+         circle.displayArea();
          rectangle.displayArea();
       }
 
