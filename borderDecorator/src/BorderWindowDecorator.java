@@ -1,5 +1,3 @@
-package edu.oop;
-
 public class BorderWindowDecorator {
 
     public static void main(String[] args) {

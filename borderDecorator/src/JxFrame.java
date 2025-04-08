@@ -1,14 +1,8 @@
-package edu.oop;
-
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
 
 //swing classes
-import javax.swing.text.*;
-import javax.swing.*;
-import javax.swing.event.*;
+
 
 /**
  * Created by ensar on 07.12.2016.
