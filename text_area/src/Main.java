@@ -1,5 +1,3 @@
-package tr.edu.sehir.oop;
-
 import javax.swing.*;
 
 public class Main {

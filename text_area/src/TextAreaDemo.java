@@ -30,8 +30,6 @@
  */
 
 
-package tr.edu.sehir.oop;
-
 import javax.swing.*;
 import java.util.*;
 import javax.swing.event.DocumentEvent;
