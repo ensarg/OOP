@@ -13,6 +13,7 @@ public class Rectangle implements myShape {
   }
 
   public double getArea() {
+
     return this.width * this.height;
   }
 }

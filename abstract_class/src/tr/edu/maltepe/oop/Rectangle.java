@@ -13,10 +13,14 @@ class Rectangle extends Shape {
       return width * height;
    }
 
-   public void displayArea() {
-      System.out.println("Area of Rectangle: " + getArea());
 
+
+
+   public void draw() {
+      System.out.println("Inside Rectangle::draw() method.");
    }
+
+
 
 
 }
