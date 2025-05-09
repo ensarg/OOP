@@ -16,11 +16,14 @@ public class Teststaticvar {
              b2.ride();
              b3.ride();
 
+         System.out.println("number of bicycles  "+ b1.getnumberofbikes());
 
 
-          System.out.println("number of bicycles  "+ Bicycle.getNumberOfBicycles());
+         System.out.println("number of bicycles  "+ Bicycle.getNumberOfBicycles());
 
-       //  System.out.println("number of bicycles ---:   "+ Bicycle.);
+         //System.out.println("number of gears  "+ Bicycle.getGear());
+
+         //  System.out.println("number of bicycles ---:   "+ Bicycle.);
 
 
 

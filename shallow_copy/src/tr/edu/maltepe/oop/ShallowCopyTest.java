@@ -21,11 +21,13 @@ public class ShallowCopyTest {
         System.out.println("Course name: "+std1.getSwengcourses().getCourse1());
 
 
+
         //Printing Details of student2
         System.out.println("Details of Student 2: ");
         System.out.println("Id: "+std2.getStdId());
         System.out.println("Name: "+std2.getStudentName());
         System.out.println("Course name: "+std2.getSwengcourses().getCourse1());
+
 
         //Printing all the courses of 'student2'
         System.out.println("Courses of stdudent 2: ");
@@ -37,11 +39,13 @@ public class ShallowCopyTest {
         std2.setStudentName("Elif");
         std2.getSwengcourses().setCourse1( "Physics");
 
+
         //This change will be reflected in original stdudent1'
         System.out.println("Updated Courses of std1:");
         System.out.println(std1.getStudentName());
         System.out.println(std1.getSwengcourses().getCourse1());
         System.out.println(std1.getSwengcourses().getCourse2());
+
 
 
 
@@ -59,7 +63,7 @@ public class ShallowCopyTest {
 
 
         //Printing Details of student1
-        System.out.println("Details of Student 1: ");
+        System.out.println("Details of Student 1 after shallow copy: ");
         System.out.println("Id: "+std1.getStdId());
         System.out.println("Name: "+std1.getStudentName());
         System.out.println("Course name: "+std1.getSwengcourses().getCourse1());
@@ -67,7 +71,7 @@ public class ShallowCopyTest {
 
 
         //Printing Details of student2
-        System.out.println("Details of Student 2: ");
+        System.out.println("Details of Student 2 after shallow copy: ");
         System.out.println("Id: "+std2.getStdId());
         System.out.println("Name: "+std2.getStudentName());
         System.out.println("Course name: "+std2.getSwengcourses().getCourse1());

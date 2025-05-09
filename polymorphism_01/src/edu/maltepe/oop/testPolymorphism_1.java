@@ -9,11 +9,11 @@ public class testPolymorphism_1 {
 
        Vector <Vehicle> v = new  Vector<>(10);
 
-        Random rand=new Random();
+       Random rand=new Random();
 
         Vehicle  vh;
         //---------------------------------------------section 1----------------
-        /*
+       /*
         Vehicle vh1,vh2,vh3;
 
 
@@ -33,7 +33,7 @@ public class testPolymorphism_1 {
             vh =  (Vehicle)v.get(i);
             vh.move();
         }
-     */
+*/
 //---------------------------------------------end of section 1----------------
         //---------------------------------------------section 2----------------
 
@@ -74,6 +74,6 @@ public class testPolymorphism_1 {
         }
 
         //---------------------------------------------end of section 2----------------
-
+*/
     }
 }
