@@ -26,5 +26,13 @@ public static void main(String[] args) {
    libraryCopy.printBooks();
    // The copied library should not be affected by the changes in the original library
 
+   Library libraryShallowCopy = library.shallowCopy();
+   System.out.println("Shallow Copied Library:");
+   libraryShallowCopy.printBooks();
+   libraryShallowCopy.addBook(new Book("Book 4", "Author 4"));
+   System.out.println("Original Library after modification:");
+   library.printBooks();
+   System.out.println("Shallow Copied Library:");
+   libraryShallowCopy.printBooks();
 }
 }

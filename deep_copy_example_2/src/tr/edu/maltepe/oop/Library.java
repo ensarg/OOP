@@ -26,6 +26,10 @@ public class Library {
       }
       return new Library(copiedBooks);
    }
+   public Library shallowCopy() {
+      return new Library(books);
+   }
+
 
 
 }
