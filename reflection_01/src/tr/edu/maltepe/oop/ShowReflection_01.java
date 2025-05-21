@@ -22,7 +22,7 @@ public class ShowReflection_01 {
             Class c = Class.forName(aclass);
             System.out.println("Name of the class is: "+ c.getName());
             System.out.println("Super Class is: "+c.getSuperclass() );
-            System.out.println("Canonical name is: "+ c.getCanonicalName() );
+            //System.out.println("Canonical name is: "+ c.getCanonicalName() );
             //System.out.println("Constructor name name is: "+ c.getDeclaredConstructors() );
 
             System.out.println("Methods are: ");
