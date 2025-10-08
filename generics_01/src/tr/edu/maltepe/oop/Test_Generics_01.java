@@ -32,11 +32,11 @@ public class Test_Generics_01 {
       //end of section 1-------------------------------------------------------------------------
 
         //section 2
-/*
+        /*
         Map<Integer,String> map=new HashMap<Integer,String>();
         map.put(1,"ali");
         map.put(4,"veli");
-       map.put(2,34);//compile error
+        map.put(2,34);//compile error
 
         //Now use Map.Entry for Set and Iterator
         Set<Map.Entry<Integer,String>> set=map.entrySet();
@@ -53,19 +53,19 @@ public class Test_Generics_01 {
 
 
         //section 3
-        /*
 
+        /*
         GenericBox <Integer> m=new GenericBox<Integer>();
         m.set(2);
-       // m.set("etcjkjh");//Compile time error
+        m.set("etcjkjh");//Compile time error
         System.out.println(m.get());
         m.genericDisplay(m.get());
         */
         //end of section 3 ---------------------------------------------------------------------------------
 
         //section 4
+       /*
 
-        /*
         GenericBox2 <String, String> obj =
                 new GenericBox2<String, String>("ensar", "GUL");
 
@@ -93,9 +93,9 @@ public class Test_Generics_01 {
         // end of section 4----------------------------------------------------------------------------
 
         // section 5
-        /*
-        // not using generics may cause run time exceptions
 
+        // not using generics may cause run time exceptions
+       /*
 
         ArrayList al = new ArrayList();
 
@@ -110,7 +110,7 @@ public class Test_Generics_01 {
         String s3 = (String)al.get(2);
 
 
-       */
+        */
        //end of section 5-------------------------------------------------------------
 
         // section 6
@@ -155,7 +155,7 @@ public class Test_Generics_01 {
         //end of section 7------------------------------------------------------------------------
 
         // section 8
-          /*
+        /*
 
         //invoking generic method, try different keys and values
         Pair<Integer, String> p1 = new Pair<>(1, "apple");
@@ -186,7 +186,7 @@ public class Test_Generics_01 {
         // section 9
         //print an array of different type using a single Generic method printArray
 
-        /*
+         /*
         Integer[] intArray = { 1, 2, 3, 4, 5 };
 
         Double[] doubleArray = { 1.1, 2.2, 3.3, 4.4 };
@@ -194,26 +194,31 @@ public class Test_Generics_01 {
         Character[] charArray = { 'H', 'E', 'L', 'L', 'O' };
 
         System.out.println("Array integerArray contains:");
-        PrintA.printArray(intArray);   // pass an Integer array
+        PrintA.printArrayA(intArray);   // pass an Integer array
 
         System.out.println("\nArray doubleArray contains:");
-        PrintA.printArray(doubleArray);   // pass a Double array
+        PrintA.printArrayA(doubleArray);   // pass a Double array
 
         System.out.println("\nArray characterArray contains:");
-        PrintA.printArray(charArray);   // pass a Character array
+        PrintA.printArrayA(charArray);   // pass a Character array
         */
-        //
-        /*
+         //end of section 9-------------------------------------------------------------
+         // section 10
+
+
         Book b1=new Book(113,"OOPogrammimg");
         Book b2 =new Book(114, "Programming in Java");
 
         Book [] bookArray={b1,b2};
 
-        System.out.println("\nArray bookArray  contains:");
-        PrintA.printArray(bookArray);   // pass objects
+        System.out.println("\nArray bookArray  :");
+        PrintA.printArrayA(bookArray);
 
-        */
-        //end of section 9----------------------------------------------------------------------------------
+
+
+      //end of section 10-------------------------------------------------------------
+         // section 11
+         /*
 
         GenericBox box1= new GenericBox();
          box1.set(42);
@@ -223,7 +228,7 @@ public class Test_Generics_01 {
          box2.set("Hello");
          box2.genericDisplay(box2.get());
          System.out.println("box2.get() = " + box2.get());
-
+         */
 
 
 

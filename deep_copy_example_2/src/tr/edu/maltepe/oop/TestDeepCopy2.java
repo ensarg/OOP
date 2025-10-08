@@ -8,7 +8,8 @@ public static void main(String[] args) {
    Book b2 = new Book("Book 2", "Author 2");
    Book b3 = new Book("Book 3", "Author 3");
    // Create a deep copy of the library
-   Library library = new Library(new ArrayList<Book>());
+   ArrayList<Book> mybooks = new ArrayList<>();
+   Library library = new Library(mybooks);
    library.addBook(b1);
    library.addBook(b2);
    library.addBook(b3);
