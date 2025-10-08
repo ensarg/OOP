@@ -15,6 +15,7 @@ public class httpTest {
         server.createContext("/test", new MyHandler());
         server.setExecutor(null); // creates a default executor
         server.start();
+        System.out.println("Server started");
     }
 
     static class MyHandler implements HttpHandler {
