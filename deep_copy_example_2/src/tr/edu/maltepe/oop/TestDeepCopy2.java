@@ -20,12 +20,10 @@ public static void main(String[] args) {
    libraryCopy.printBooks();
 
    library.removeBook(b1);
-   //libraryCopy.addBook(new Book("Book 4", "Author 4"));
    System.out.println("Original Library after modification:");
    library.printBooks();
    System.out.println("Copied Library:");
    libraryCopy.printBooks();
-   // The copied library should not be affected by the changes in the original library
 
    Library libraryShallowCopy = library.shallowCopy();
    System.out.println("Shallow Copied Library:");
@@ -33,7 +31,7 @@ public static void main(String[] args) {
    libraryShallowCopy.addBook(new Book("Book 4", "Author 4"));
    System.out.println("Original Library after modification:");
    library.printBooks();
-   System.out.println("Shallow Copied Library:");
+   System.out.println(" Copied Library:");
    libraryShallowCopy.printBooks();
 }
 }
