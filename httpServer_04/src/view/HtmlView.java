@@ -1,5 +1,5 @@
 package view;
-
+import java.io.*;
 public class HtmlView {
 
   /*
@@ -22,6 +22,7 @@ public class HtmlView {
                """;
   }
   */
+  /*
   public String renderPage(int clickCount) {
     StringBuilder html = new StringBuilder();
 
@@ -44,6 +45,23 @@ public class HtmlView {
     html.append("</html>\n");
 
     return html.toString();
+    */
+    public String renderPage(int clickCount) {
+      String htmlContent = "";
+
+      try {
+        // Read the HTML file into a string
+        htmlContent = new String(java.nio.file.Files.readAllBytes(java.nio.file.Paths.get("index.html")));
+
+        // Replace placeholder with the click count
+        htmlContent = htmlContent.replace("{{clickCount}}", String.valueOf(clickCount));
+
+      } catch (IOException e) {
+        htmlContent = "<h1>Error loading page</h1><p>" + e.getMessage() + "</p>";
+      }
+
+      return htmlContent;
+    }
 
     /*
           String html = new String(Files.readAllBytes(Paths.get("view/template.html")), StandardCharsets.UTF_8);
