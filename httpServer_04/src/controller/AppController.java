@@ -6,6 +6,7 @@ import model.ClickModel;
 import view.HtmlView;
 
 public class AppController {
+    // controller implementation
 
    private final ClickModel model;
    private final HtmlView view;
