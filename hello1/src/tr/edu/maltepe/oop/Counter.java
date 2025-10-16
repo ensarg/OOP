@@ -11,6 +11,11 @@ public class Counter {
     public int getCount() {
         return count;
     }
+
+    public void setCount(int countin) {
+        count = countin;
+    }
+
     public void icrement(){
         count++;
     }
