@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package oop;
 
 public class PerennialGarden implements Garden {
     public Plant getShade() {

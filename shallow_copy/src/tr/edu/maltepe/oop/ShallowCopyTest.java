@@ -99,7 +99,7 @@ public class ShallowCopyTest {
         System.out.println("std2 course1 "+std2.getSwengcourses().getCourse1());
          System.out.println("std2 course2 "+std2.getSwengcourses().getCourse2());
 
-        */
+
 
     }
 

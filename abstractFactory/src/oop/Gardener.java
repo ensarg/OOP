@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package oop;
 
 import java.awt.*;
 import java.awt.event.*;

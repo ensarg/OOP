@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package oop;
 public interface Garden {
     public Plant getShade();
     public Plant getCenter();

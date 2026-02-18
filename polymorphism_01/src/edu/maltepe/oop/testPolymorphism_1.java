@@ -13,7 +13,7 @@ public class testPolymorphism_1 {
 
         Vehicle  vh;
         //---------------------------------------------section 1----------------
-       /*
+/*
         Vehicle vh1,vh2,vh3;
 
 
@@ -37,7 +37,7 @@ public class testPolymorphism_1 {
 //---------------------------------------------end of section 1----------------
         //---------------------------------------------section 2----------------
 
-        for (int i=0; i< 10;i++) {
+        for (int i=0; i< 20;i++) {
             int r=rand.nextInt(2);
             if (r==0){
                 vh=new MotorBike(" 34 Motorbike "+i);
@@ -49,7 +49,7 @@ public class testPolymorphism_1 {
                 System.out.println("\nimpossible case");
 
         }
-
+System.out.println("\n------------------------------------------\n");
         for (int i=0;i < v.size();i++) {
             vh =  v.get(i);
             vh.move();
@@ -59,21 +59,21 @@ public class testPolymorphism_1 {
         System.out.println("\nmotorbike count:"+MotorBike.getNumberofmotorbikes());
         System.out.println("\nvehicle count:"+Vehicle.getVehiclecount());
 
+
         System.out.println("\n vehicle plates.................................\n");
 
         for (int i=0;i < v.size();i++) {
             vh =  (Vehicle)v.get(i);
             vh.printVehiclePlate();
         }
-
 /*
         for (int i=0;i < v.size();i++) {
 
             vh =  (Vehicle)v.get(i);
             vh.move();
         }
-
-        //---------------------------------------------end of section 2----------------
 */
+        //---------------------------------------------end of section 2----------------
+
     }
 }

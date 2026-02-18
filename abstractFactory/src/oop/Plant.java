@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package oop;
 public class Plant {
     private String name;
     public Plant(String pname) {

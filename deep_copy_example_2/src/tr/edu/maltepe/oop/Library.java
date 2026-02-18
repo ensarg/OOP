@@ -1,7 +1,5 @@
 package tr.edu.maltepe.oop;
-
 import java.util.ArrayList;
-
 public class Library {
    ArrayList<Book> books;
 
@@ -29,7 +27,5 @@ public class Library {
    public Library shallowCopy() {
       return new Library(books);
    }
-
-
 
 }

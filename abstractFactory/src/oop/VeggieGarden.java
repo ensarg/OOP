@@ -1,4 +1,4 @@
-package edu.sehir.oop;
+package oop;
 public class VeggieGarden implements Garden {
     public Plant getShade() {
         return new Plant("Broccoli");

@@ -7,7 +7,8 @@ public abstract class Shape {
       public  abstract void draw();
 
       public void displayArea() {
-            System.out.println("Area of shape: " + getArea());
+
+         System.out.println("Area of shape: " + getArea());
       }
 }
 
