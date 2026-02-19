@@ -25,9 +25,18 @@ public class Bicycle {
       System.out.println("Changed gear to " + newGear);
    }
 
+
+   //public int getnumberofbikes() {
+   //   return numberOfBicycles;
+   //}
    // static method to get number of bicycles
 
    public static int getNumberOfBicycles() {
       return numberOfBicycles;
+   }
+
+   // try to access static variable
+   public  int getGear() {
+     return gear;
    }
 }

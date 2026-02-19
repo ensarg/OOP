@@ -9,9 +9,9 @@ public class Circle implements myShape {
   }
 
   public void draw() {
-
     System.out.println("Drawing Circle");
   }
+
 
   public double getArea() {
 
@@ -21,4 +21,5 @@ public class Circle implements myShape {
   public double getRadius() {
     return this.radius;
   }
+
 }

@@ -7,7 +7,7 @@ public class Main {
         int [] numbers = {20,15,30,45,50};
 
         int x,y;
-
+        //declare two variables
         try {
 
             y=0;

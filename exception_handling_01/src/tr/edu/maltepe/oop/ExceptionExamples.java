@@ -8,7 +8,6 @@ public class ExceptionExamples {
         // It throws the Exception(ArithmeticException).
         // Appropriate Exception handler is not found within this method.
          int divideByZero(int a, int b){
-
             // this statement will cause ArithmeticException(/ by zero)
             int x = a/b;
 
@@ -21,17 +20,17 @@ public class ExceptionExamples {
         int computeDivision(int a, int b) {
 
             int res =0;
-           //try
-           // {
+           try
+            {
                 res = divideByZero(a,b);
 
-            //}
+            }
             // doesn't matches with ArithmeticException
-            //catch(NumberFormatException ex)
-            //{
-            //    System.out.println("NumberFormatException is occured");
+            catch(NumberFormatException ex)
+            {
+                System.out.println("NumberFormatException is occured");
 
-            //}
+            }
             return res;
         }
 
@@ -45,11 +44,11 @@ public class ExceptionExamples {
 
             // this statement causes an exception
            //  arr[0],arr
-           int x;
-           x= arr[4];
+           int x =5;
+           arr[x] = 120;
 
             // the following statement will never execute
-            System.out.println("Hi, I am here x= "+x);
+            System.out.println("Hi, I am here arr[x]= "+arr[x]);
 
         }
 

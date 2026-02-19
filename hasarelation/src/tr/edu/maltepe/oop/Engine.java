@@ -7,7 +7,7 @@ class Engine {
    // Constructor
    public Engine(String engineT, int horsepower, String fuelType) {
       this.engineType = engineT;
-       this.horsepower = horsepower;
+      this.horsepower = horsepower;
       this.fuelType = fuelType;
    }
 

@@ -1,6 +1,6 @@
 package tr.edu.maltepe.oop;
 // Concrete subclass of Shape
-class Circle extends Shape {
+public class Circle extends Shape {
    private double radius;
    public Circle(double radius) {
       this.radius = radius;
@@ -13,9 +13,7 @@ class Circle extends Shape {
       return Math.PI * radius * radius;
    }
 
-
-   public void displayArea() {
-      System.out.println("Area of Circle: " + getArea());
-
+   public void draw() {
+      System.out.println("Inside Circle::draw() method.");
    }
 }

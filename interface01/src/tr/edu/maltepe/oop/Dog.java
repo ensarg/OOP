@@ -1,6 +1,6 @@
 package tr.edu.maltepe.oop;
 
-public class Dog extends Mammal{
+public class Dog extends Mammal implements Animal{
   private int speed;
 
   public void Dog(int sp) {

@@ -5,11 +5,13 @@ package edu.sehir.oop;
  */
 public class BasicCar implements Car  {
     protected BasicCar(){
-        System.out.println("Basic Car object is created");
+
+       System.out.println("Basic Car object is created");
     }
 
 
     public void assemble() {
-        System.out.print("Basic Car is assembled");
+
+       System.out.print("Basic Car is assembled");
     }
 }

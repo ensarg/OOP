@@ -15,6 +15,10 @@ class CarParkingArea {
       System.out.println("Car with registration number " + car.getRegistrationNumber() + " unparked from the area.");
    }
 
+   public int getNumberOfParkedCars() {
+      return parkedCars.size();
+   }
+
    public void displayParkedCars() {
       System.out.println("Cars parked in the area:");
       for (Car car : parkedCars) {

@@ -4,7 +4,8 @@ public class Car extends Vehicle{
     private static int numberofcars=0;
     private float gaslevel=0;
     public Car(){
-        System.out.println("car is produced");
+       super();
+       System.out.println("car is produced");
         numberofcars++;
     }
     public Car(String car_plate){

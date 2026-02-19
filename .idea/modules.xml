@@ -39,7 +39,6 @@
       <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_ex1/factory_ex1.iml" filepath="$PROJECT_DIR$/factory_ex1/factory_ex1.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics_01/generics_01.iml" filepath="$PROJECT_DIR$/generics_01/generics_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/generics_02/generics_02.iml" filepath="$PROJECT_DIR$/generics_02/generics_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/hasarelation/hasarelation.iml" filepath="$PROJECT_DIR$/hasarelation/hasarelation.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello1/hello1.iml" filepath="$PROJECT_DIR$/hello1/hello1.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpServer_01/httpServer_01.iml" filepath="$PROJECT_DIR$/httpServer_01/httpServer_01.iml" />
@@ -87,6 +86,7 @@
       <module fileurl="file://$PROJECT_DIR$/thread01/thread01.iml" filepath="$PROJECT_DIR$/thread01/thread01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread02/thread02.iml" filepath="$PROJECT_DIR$/thread02/thread02.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread03/thread03.iml" filepath="$PROJECT_DIR$/thread03/thread03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/types_01/types_01.iml" filepath="$PROJECT_DIR$/types_01/types_01.iml" />
     </modules>
   </component>
 </project>
