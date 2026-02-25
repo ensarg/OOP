@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/simple3/src/tr/edu/beykoz/oop/Student.java" afterDir="false" />
+    <list default="true" id="e1a3464b-238f-48cf-9b87-e0e4b831703b" name="Changes" comment="asssignment template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple3/src/Simple3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple3/src/tr/edu/beykoz/oop/Simple3Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_h1/simple_h1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple3/src/tr/edu/beykoz/oop/Simple3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple3/src/tr/edu/beykoz/oop/Simple3Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1035,7 +1033,10 @@
       <workItem from="1771510520213" duration="10000" />
       <workItem from="1771911375420" duration="2248000" />
       <workItem from="1771914624745" duration="3646000" />
-      <workItem from="1771919274020" duration="890000" />
+      <workItem from="1771919274020" duration="1352000" />
+      <workItem from="1771924598495" duration="12000" />
+      <workItem from="1771926570326" duration="1570000" />
+      <workItem from="1772012722766" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1636110678607</created>
@@ -1373,15 +1374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1681823935184</updated>
     </task>
-    <task id="LOCAL-00070" summary="array">
+    <task id="LOCAL-00071" summary="asssignment template">
       <option name="closed" value="true" />
-      <created>1771508594817</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+      <created>1771920472603</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
       <option name="project" value="LOCAL" />
-      <updated>1771508594817</updated>
+      <updated>1771920472603</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1400,7 +1401,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="makeup exam Queue" />
     <MESSAGE value="simple example" />
     <MESSAGE value="java tetris" />
     <MESSAGE value="java_tetris" />
@@ -1425,7 +1425,8 @@
     <MESSAGE value="many changes and cleaning" />
     <MESSAGE value="types" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="asssignment template" />
+    <option name="LAST_COMMIT_MESSAGE" value="asssignment template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
