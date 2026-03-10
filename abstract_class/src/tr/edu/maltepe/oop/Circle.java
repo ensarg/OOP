@@ -9,7 +9,6 @@ public class Circle extends Shape {
    // Override the abstract method
    @Override
    public double getArea() {
-
       return Math.PI * radius * radius;
    }
 

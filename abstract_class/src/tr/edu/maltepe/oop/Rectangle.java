@@ -13,9 +13,6 @@ class Rectangle extends Shape {
       return width * height;
    }
 
-
-
-
    public void draw() {
       System.out.println("Inside Rectangle::draw() method.");
    }
