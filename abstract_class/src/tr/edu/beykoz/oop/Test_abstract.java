@@ -1,9 +1,9 @@
-package tr.edu.maltepe.oop;
+package tr.edu.beykoz.oop;
 
 public class Test_abstract {
    public static void main(String[] args) {
 
-       // Shape sh =new Shape() ;  you can not create object from abstract class
+       //Shape sh =new Shape() ;  you can not create object from abstract class
 
       // Creating objects of concrete subclasses
          Circle circle = new Circle(5.0);

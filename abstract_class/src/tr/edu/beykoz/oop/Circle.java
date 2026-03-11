@@ -1,4 +1,4 @@
-package tr.edu.maltepe.oop;
+package tr.edu.beykoz.oop;
 // Concrete subclass of Shape
 public class Circle extends Shape {
    private double radius;

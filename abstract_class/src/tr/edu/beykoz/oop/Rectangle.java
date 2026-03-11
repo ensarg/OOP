@@ -1,4 +1,4 @@
-package tr.edu.maltepe.oop;
+package tr.edu.beykoz.oop;
 class Rectangle extends Shape {
    private double width;
    private double height;

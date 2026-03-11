@@ -1,4 +1,4 @@
-package tr.edu.maltepe.oop;
+package tr.edu.beykoz.oop;
 
 public abstract class Shape {
       // Abstract method (no method body)
